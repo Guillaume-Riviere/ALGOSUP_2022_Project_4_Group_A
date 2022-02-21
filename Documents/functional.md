@@ -25,15 +25,65 @@ Table of Contents
       - [2. Stands Zone](#2-stands-zone)
     - [b. Robotic Parcour](#b-robotic-parcour)
     - [c. Greenery](#c-greenery)
-- [release](#release)
+    - [d. Entrance](#d-entrance)
+  - [C. Sounds](#c-sounds)
+    - [a. Doors](#a-doors)
+    - [b. Ambient Sounds](#b-ambient-sounds)
+      - [1. Resting Rooms](#1-resting-rooms)
+      - [2. Occupied Rooms](#2-occupied-rooms)
+      - [3. Halls](#3-halls)
+      - [4. Drone Flights](#4-drone-flights)
+- [5. Working Systems](#5-working-systems)
+  - [A. Opening Hours](#a-opening-hours)
+  - [B. Booking Rooms](#b-booking-rooms)
+    - [a. Entrance Screen](#a-entrance-screen)
+    - [b. Booking Process](#b-booking-process)
+  - [C. Permissions Card](#c-permissions-card)
+    - [a. Physical Visitor](#a-physical-visitor)
+    - [b. Virtual Visitor](#b-virtual-visitor)
+    - [c. Student](#c-student)
+    - [d. Staff](#d-staff)
+  - [D. Doors Lock](#d-doors-lock)
+    - [a. Physical Visitor](#a-physical-visitor-1)
+    - [b. Virtual Visitor](#b-virtual-visitor-1)
+    - [c. Student](#c-student-1)
+    - [d. Staff](#d-staff-1)
+    - [e. Stanger](#e-stanger)
+  - [E. Privacy](#e-privacy)
+  - [F. VR Miscellaneous](#f-vr-miscellaneous)
+    - [a. Time change](#a-time-change)
+    - [b. Peoples in School](#b-peoples-in-school)
+    - [c. Teleportation to short distance](#c-teleportation-to-short-distance)
+    - [d. Welcome NPC](#d-welcome-npc)
+- [6. User cases](#6-user-cases)
+  - [A. Physical Visitor](#a-physical-visitor-2)
+    - [a. Entering empty room](#a-entering-empty-room)
+    - [b. Entering occupied room](#b-entering-occupied-room)
+    - [c. Entering staff reserved room](#c-entering-staff-reserved-room)
+  - [B. Virtual Visitor](#b-virtual-visitor-2)
+    - [a. Entering empty room](#a-entering-empty-room-1)
+    - [b. Entering occupied room](#b-entering-occupied-room-1)
+    - [c. Entering Staff reserved room](#c-entering-staff-reserved-room-1)
+  - [C. Student](#c-student-2)
+    - [a. Entering empty room](#a-entering-empty-room-2)
+    - [b. Entering occupied room](#b-entering-occupied-room-2)
+    - [c. Entering Staff reserved room](#c-entering-staff-reserved-room-2)
+    - [d. Booking a free room](#d-booking-a-free-room)
+    - [e. Booking a reserved room](#e-booking-a-reserved-room)
+    - [f. Booking a free room with privacy](#f-booking-a-free-room-with-privacy)
+    - [g. Booking a meeting room](#g-booking-a-meeting-room)
+  - [D. Staff](#d-staff-2)
+    - [a. Entering empty room](#a-entering-empty-room-3)
+    - [b. Entering occupied room](#b-entering-occupied-room-3)
+    - [c. Entering Staff reserved room](#c-entering-staff-reserved-room-3)
+    - [d. Booking a meeting room](#d-booking-a-meeting-room)
   
-- [](#)
-
 
 ---
 
 
 # 1. Introduction
+
 
 # 2. Why VR ? What's VR ?
 # 3. General Needs
@@ -58,14 +108,68 @@ Table of Contents
 ### a. Drone Zone
 #### 1. Flight Zone
 #### 2. Stands Zone
-
 ### b. Robotic Parcour
 ### c. Greenery
+### d. Entrance
 
+## C. Sounds
+### a. Doors
+### b. Ambient Sounds
+#### 1. Resting Rooms
+#### 2. Occupied Rooms
+#### 3. Halls
+#### 4. Drone Flights
 
+# 5. Working Systems
+## A. Opening Hours
 
+## B. Booking Rooms
+### a. Entrance Screen
+### b. Booking Process
 
+## C. Permissions Card
+### a. Physical Visitor
+### b. Virtual Visitor
+### c. Student
+### d. Staff
 
+## D. Doors Lock
+### a. Physical Visitor
+### b. Virtual Visitor
+### c. Student
+### d. Staff
+### e. Stanger
 
+## E. Privacy
 
-# release
+## F. VR Miscellaneous
+### a. Time change
+### b. Peoples in School
+### c. Teleportation to short distance
+### d. Welcome NPC 
+
+# 6. User cases
+## A. Physical Visitor
+### a. Entering empty room
+### b. Entering occupied room
+### c. Entering staff reserved room
+
+## B. Virtual Visitor
+### a. Entering empty room
+### b. Entering occupied room
+### c. Entering Staff reserved room
+
+## C. Student
+### a. Entering empty room
+### b. Entering occupied room
+### c. Entering Staff reserved room
+### d. Booking a free room
+### e. Booking a reserved room
+### f. Booking a free room with privacy
+### g. Booking a meeting room
+
+## D. Staff
+### a. Entering empty room
+### b. Entering occupied room
+### c. Entering Staff reserved room
+### d. Booking a meeting room
