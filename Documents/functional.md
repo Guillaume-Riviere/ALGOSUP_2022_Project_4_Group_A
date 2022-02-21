@@ -2,12 +2,12 @@
 Table of Contents
 
 - [1. Introduction](#1-introduction)
-- [2. Why VR ? What's VR ?](#2-why-vr--whats-vr-)
+- [2. What's VR ? Why VR ?](#2-whats-vr--why-vr-)
 - [3. General Needs](#3-general-needs)
-- [4. Environements](#4-environements)
+- [4. Environments](#4-environments)
   - [A. Rooms](#a-rooms)
     - [a. Project Rooms](#a-project-rooms)
-    - [b. Meetings Rooms](#b-meetings-rooms)
+    - [b. Meetings Room](#b-meetings-room)
     - [c. Resting Rooms](#c-resting-rooms)
     - [d. Robotic Room](#d-robotic-room)
     - [e. Office Rooms](#e-office-rooms)
@@ -17,8 +17,9 @@ Table of Contents
     - [i. Reception Room](#i-reception-room)
     - [j. Bathrooms](#j-bathrooms)
     - [k. Stock Rooms](#k-stock-rooms)
-    - [l. Outside Deck](#l-outside-deck)
-    - [m. Amphitheater](#m-amphitheater)
+    - [l. Back Outside Deck](#l-back-outside-deck)
+    - [m. Front Outside Deck](#m-front-outside-deck)
+    - [n. Amphitheater](#n-amphitheater)
   - [B. Halls](#b-halls)
     - [a. Drone Zone](#a-drone-zone)
       - [1. Flight Zone](#1-flight-zone)
@@ -84,15 +85,99 @@ Table of Contents
 
 # 1. Introduction
 
+The goal of the project is to provide a way to visit the school as if we were in.
+It will be visitable using **Virtual Reality** headset.
 
-# 2. Why VR ? What's VR ?
+It should be able to anticipate issues that could append in the school and also a way to visit the school without being physically in it.
+
+All logic systems should also be applied to the virtual environment. By logic systems, we mainly means doors locked to unauthorized peoples.
+
+Some scenarios should be possible to simulate in order to see what append in the school
+
+It's also a realistic simulation, it's not a video game.
+Physics have to be applied to objets, rooms, user.
+By physics we means no flight across walls, no permissions bypass not planned.
+
+# 2. What's VR ? Why VR ?
+
+**VR** stands for **Virtual Reality**
+VR is a simulated world that can be similar to or completely different from the real world. In that case, closest to reality, better it will be.
+VR is simulated using a Headset that the user have to wear to visit the simulation
+
+Since we want a realistic simulation, VR is the closest to the reality.
+It allows a user to simulate the school as if he was inside.
+VR could have been avoided but the immersion wouldn't have been as intense.
+
 # 3. General Needs
 
-# 4. Environements
+We need a realistic representation of the school, as realistic as possible. 
+That include: 
+- Working doors
+- Door lock
+- Ambient sounds
+- Furnitures
+- Differents user cases 
+
+It need to be visitable using VR Headset, from any headset and anywhere.
+
+
+# 4. Environments
+
+This section will detail all furnitures needed in the school.
+
 ## A. Rooms
 ### a. Project Rooms
-### b. Meetings Rooms
+
+Each project rooms are 20m² and are designed to fit 6 peoples.
+
+Each rooms have to contain: 
+- 1 rectangle table
+- 6 chairs
+- 1 TV or big screen
+- 1 whiteboard or digital whiteboard
+- 1 trashcan
+- 6 plugs for the table
+- 2 plugs for the TV
+
+### b. Meetings Room
+
+The meeting room is 25m² and is designed to fit 8 to 10 peoples.
+
+The meetings romms have to contain:
+- 1 rectangle table
+- 10 chairs
+- 1 TV or video projector
+- 1 whiteboard or digital whiteboard
+- 1 trashcan
+- 5 plugs for the table
+- 2 plugs for the TV or video projector
+
+
 ### c. Resting Rooms
+
+The Staff resting room is 33.6m² and is designed to fix 9 peoples.
+
+The staff resting room have to contain:
+- 3 circle tables
+- 9 chairs
+- 1 sink
+- 1 fridge
+- 1 trashcan
+- 1 plugs for the fridge
+
+
+The Student resting room is 150.59m² and is designed to fix 90 peoples.
+
+The student resting room have to contain:
+- 15 circle tables
+- 90 chairs
+- 2 sinks
+- 6 fridges
+- 2 trashcan
+- 2 Couchs
+- 4 armchair
+- 6 plugs for the fridges
+
 ### d. Robotic Room
 ### e. Office Rooms
 ### f. English Rooms
@@ -101,8 +186,9 @@ Table of Contents
 ### i. Reception Room
 ### j. Bathrooms
 ### k. Stock Rooms
-### l. Outside Deck
-### m. Amphitheater
+### l. Back Outside Deck
+### m. Front Outside Deck
+### n. Amphitheater
 
 ## B. Halls
 ### a. Drone Zone
