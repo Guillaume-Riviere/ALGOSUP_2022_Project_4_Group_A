@@ -241,7 +241,7 @@ Drone Zone is 78.54m² and is designed to fit Drones.
 Drone Zone have to contain:
 
 -1 Drone
--1 Character who control the drone
+-1 Character who controls the drone
 #### 1. Flight Zone
 #### 2. Stands Zone
 ### b. Robotic Parcour
