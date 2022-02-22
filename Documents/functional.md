@@ -222,11 +222,11 @@ English rooms have to contain:
 Reception room is 12.37m² and is designed to fit 1 person.
 
 Reception room have to contain:
--1 Computer
--1 Chair
--1 Desk
--1 Plug
--1 Trashcan
+- 1 Computer
+- 1 Chair
+- 1 Desk
+- 1 Plug
+- 1 Trashcan
 ### j. Bathrooms
 ### k. Stock Rooms
 ### l. Back Outside Deck
@@ -240,8 +240,8 @@ Drone Zone is 78.54m² and is designed to fit Drones.
 
 Drone Zone have to contain:
 
--1 Drone
--1 Character who controls the drone
+- 1 Drone
+- 1 Character who controls the drone
 #### 1. Flight Zone
 #### 2. Stands Zone
 ### b. Robotic Parcour
