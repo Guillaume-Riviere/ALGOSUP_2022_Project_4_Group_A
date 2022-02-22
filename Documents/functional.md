@@ -164,6 +164,8 @@ The staff resting room have to contain:
 - 1 sink
 - 1 fridge
 - 1 trashcan
+- 2 microwave
+- 2 plugs for microwaves
 - 1 plugs for the fridge
 
 
@@ -178,6 +180,7 @@ The student resting room have to contain:
 - 2 trashcan
 - 2 Couchs
 - 4 armchair
+- 15 plugs for for microwaves
 - 6 plugs for the fridges
 
 ### d. Robotic Room
