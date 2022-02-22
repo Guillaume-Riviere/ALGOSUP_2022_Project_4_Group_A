@@ -255,6 +255,17 @@ Reception room have to contain:
 ### m. Front Outside Deck
 ### n. Amphitheater
 
+Amphitheater room is 133.90m² and is designed to fit 80 people.
+
+Amphitheater have to contain :
+- 1 computer
+- 1 video projector
+- 1 screen
+- 1 chair
+- 1 reader desk
+- 1 platform
+- 1 plug for the computer
+
 ## B. Halls
 ### a. Drone Zone
 
