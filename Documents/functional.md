@@ -334,7 +334,7 @@ Amphitheater have to contain :
 - 1 platform
 - 1 plug for the computer
 - 1 plug for the video projector 
-- 1 trashcan
+- 1 trash can
 
 ## B. Halls
 ### a. Drone Zone
