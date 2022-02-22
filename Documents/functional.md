@@ -300,6 +300,15 @@ Secured Stock Room have to contain:
 
 ### m. Back Outside Deck
 ### n. Front Outside Deck
+
+Front outside deck is before the Entrance. It is in the outside of the school.
+
+The front outside deck have to contain:
+- 1 letter box
+- 1 doorbell
+- 1 bike stand
+- 1 scooter stand
+
 ### o. Amphitheater
 
 Amphitheater room is 133.90m² and is designed to fit 80 people.
@@ -320,16 +329,27 @@ Amphitheater have to contain :
 Drone Zone is 78.54m² and is designed to fit Drones.
 
 Drone Zone have to contain:
-
 - 1 Drone
+
 #### 2. Stands Zone
+
 Stands Zone is 33.72m² and is designed to 12-15 People.
 
 Stands Zone have to contain:
-
 - 1 Character who controls the drone
-### b. Robotic Parcour
+
+### b. Robotic Parkour
+
+The robotic parkour is in the principal corridor.
+
+The robotic parkour have to contain:
+- 6 obstacles
+
 ### c. Greenery
+
+We'll find Greenery everywhere in the school , on the roof of the rooms.
+Also in each room to fill them and fell closer to the nature.
+
 ### d. Entrance
 
 ## C. Sounds
