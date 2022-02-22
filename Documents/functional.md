@@ -331,7 +331,7 @@ Stands Zone have to contain:
 The robotic parkour is in the principal corridor.
 
 The robotic parkour have to contain:
-- 15 obstacles
+- 6 obstacles
 
 ### c. Greenery
 ### d. Entrance
