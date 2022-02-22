@@ -479,10 +479,14 @@ Everyone must have a permission card to interact in the school (open room, booki
 ### a. Time change
 
 We'll be able to change the time with a device , This device will be 
-usefull to show to the customer the permission with the time when the door lock automatically.
+usefull to show to the customer the permission with the time when the door will be locked automatically.
 
 ### b. Peoples in School
 ### c. Teleportation to short distance
+
+We'll be able to teleport the user to a place , to avoid the walk time and lost time during a presentation
+and if the customer want to see a specific room or place.
+
 ### d. Welcome NPC 
 
 # 6. User cases
