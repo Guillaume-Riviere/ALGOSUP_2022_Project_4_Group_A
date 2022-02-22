@@ -309,7 +309,7 @@ The back outside deck have to contain:
 - 8 circle tables for 4 people
 - 68 chairs
 - 2 ashtrays
-- 2 trashes
+- 2 trash cans
 
 ### n. Front Outside Deck
 
