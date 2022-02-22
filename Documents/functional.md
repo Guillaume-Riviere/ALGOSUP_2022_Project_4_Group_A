@@ -362,7 +362,13 @@ The entrance have to contain:
 ### a. Doors
 ### b. Ambient Sounds
 #### 1. Resting Rooms
+
+The resting rooms need to do the noises of 90 people who are eating and talking. You also need noises of microwaves and televisions.
+
 #### 2. Occupied Rooms
+
+The occupied rooms need to have noises of working people.
+
 #### 3. Halls
 #### 4. Drone Flights
 
