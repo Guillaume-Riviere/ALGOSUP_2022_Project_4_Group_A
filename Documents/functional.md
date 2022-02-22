@@ -211,6 +211,7 @@ English rooms have to contain:
 - 15 tables
 - 16 chairs
 - 1 whiteboard
+- 1 computer
 - 8 plugs
 - 1 trashcan
 - 1 TV or video projector
@@ -224,6 +225,7 @@ Softskills room have to contain:
 - 20 tables
 - 21 chairs
 - 1 desk
+- 1 computer
 - 1 whiteboard
 - 10 plugs
 - 1 trashcan
