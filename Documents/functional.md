@@ -245,11 +245,11 @@ Library have to contain:
 Reception room is 12.37m² and is designed to fit 1 person.
 
 Reception room have to contain:
--1 Computer
--1 Chair
--1 Desk
--1 Plug
--1 Trashcan
+- 1 Computer
+- 1 Chair
+- 1 Desk
+- 1 Plug
+- 1 Trashcan
 ### j. Bathrooms
 ### k. Stock Rooms
 
@@ -276,15 +276,19 @@ Secured Stock Room have to contain:
 
 ## B. Halls
 ### a. Drone Zone
+#### 1. Flight Zone
 
 Drone Zone is 78.54m² and is designed to fit Drones.
 
 Drone Zone have to contain:
 
--1 Drone
--1 Character who controls the drone
-#### 1. Flight Zone
+- 1 Drone
 #### 2. Stands Zone
+Stands Zone is 33.72m² and is designed to 12-15 People.
+
+Stands Zone have to contain:
+
+- 1 Character who controls the drone
 ### b. Robotic Parcour
 ### c. Greenery
 ### d. Entrance
