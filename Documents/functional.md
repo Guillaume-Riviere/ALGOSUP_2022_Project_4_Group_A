@@ -164,6 +164,8 @@ The staff resting room have to contain:
 - 1 sink
 - 1 fridge
 - 1 trashcan
+- 2 microwave
+- 2 plugs for microwaves
 - 1 plugs for the fridge
 
 
@@ -178,6 +180,7 @@ The student resting room have to contain:
 - 2 trashcan
 - 2 Couchs
 - 4 armchair
+- 15 plugs for for microwaves
 - 6 plugs for the fridges
 
 ### d. Robotic Room
@@ -320,6 +323,8 @@ Amphitheater have to contain :
 - 1 reader desk
 - 1 platform
 - 1 plug for the computer
+- 1 plug for the video projector 
+- 1 trashcan
 
 ## B. Halls
 ### a. Drone Zone
@@ -350,6 +355,10 @@ We'll find Greenery everywhere in the school , on the roof of the rooms.
 Also in each room to fill them and fell closer to the nature.
 
 ### d. Entrance
+
+The entrance have to contain:
+- 1 screen
+- 1 plug for the screen 
 
 ## C. Sounds
 ### a. Doors
