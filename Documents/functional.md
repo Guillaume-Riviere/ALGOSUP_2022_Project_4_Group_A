@@ -299,6 +299,16 @@ Secured Stock Room have to contain:
 - Cardboards
 
 ### m. Back Outside Deck
+
+The back outside deck is 183.14m². It's designed to fix 100 people.
+
+The back outside deck have to contain:
+- 6 circle tables for 6 people
+- 8 circle tables for 4 people
+- 68 chairs
+- 2 ashtrays
+- 2 trashes
+
 ### n. Front Outside Deck
 
 Front outside deck is before the Entrance. It is in the outside of the school.
