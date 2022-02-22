@@ -36,7 +36,7 @@ Table of Contents
       - [3. Halls](#3-halls)
       - [4. Drone Flights](#4-drone-flights)
 - [5. Working Systems](#5-working-systems)
-  - [A. Opening Hours](#a-opening-hours)
+  - [A. Opening Hours To Public](#a-opening-hours-to-public)
   - [B. Booking Rooms](#b-booking-rooms)
     - [a. Entrance Screen](#a-entrance-screen)
     - [b. Booking Process](#b-booking-process)
@@ -283,7 +283,7 @@ Each disabled toilets need to contain:
 
 ### k. Stock Rooms
 
-Stock rooms are 28,78m² and 21,46m² and is designed to fit 2 and 1 person.
+Stock rooms are 28,78m² and 21,46m² and is designed to fit 2 people and 1 person respectively.
 
 Stock rooms have to contain:
 - Cardboards
@@ -293,7 +293,7 @@ Stock rooms have to contain:
 
 ### l. Secured Stock Room
 
-Secured Stock Room is 29,98m² and is designed to fit 3 persons.
+Secured Stock Room is 29,98m² and is designed to fit 3 people.
 
 Secured Stock Room have to contain:
 - 30 Shelves
@@ -301,6 +301,16 @@ Secured Stock Room have to contain:
 - Cardboards
 
 ### m. Back Outside Deck
+
+The back outside deck is 183.14m². It's designed to fix 100 people.
+
+The back outside deck have to contain:
+- 6 circle tables for 6 people
+- 8 circle tables for 4 people
+- 68 chairs
+- 2 ashtrays
+- 2 trash cans
+
 ### n. Front Outside Deck
 
 Front outside deck is before the Entrance. It is in the outside of the school.
@@ -326,7 +336,7 @@ Amphitheater have to contain :
 - 1 platform
 - 1 plug for the computer
 - 1 plug for the video projector 
-- 1 trashcan
+- 1 trash can
 
 ## B. Halls
 ### a. Drone Zone
@@ -339,7 +349,7 @@ Drone Zone have to contain:
 
 #### 2. Stands Zone
 
-Stands Zone is 33.72m² and is designed to 12-15 People.
+Stands Zone is 33.72m² and is designed to 12-15 people.
 
 Stands Zone have to contain:
 - 1 Character who controls the drone
@@ -371,13 +381,19 @@ The entrance have to contain:
 #### 4. Drone Flights
 
 # 5. Working Systems
-## A. Opening Hours
+## A. Opening Hours To Public
+The school is opened to public between 9AM - 12AM and 1PM - 5PM, they must have a visit card.
 
 ## B. Booking Rooms
+Booking Rooms are available to everyone between 8AM - 6PM if they are booked.
 ### a. Entrance Screen
+The Entrance Screen is turn on between 8AM - 6PM.
 ### b. Booking Process
+The Booking Process is available to students all the time.
 
 ## C. Permissions Card
+Everyone must have a permission card to interact in the school (open room, booking rooms...).
+
 ### a. Physical Visitor
 ### b. Virtual Visitor
 ### c. Student
