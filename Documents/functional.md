@@ -155,7 +155,7 @@ The meetings romms have to contain:
 
 ### c. Resting Rooms
 
-The Staff resting room is 33.6m² and is designed to fix 9 peoples.
+The Staff resting room is 33.6m² and is designed to fit 9 peoples.
 
 The staff resting room have to contain:
 - 3 circle tables
@@ -166,21 +166,55 @@ The staff resting room have to contain:
 - 1 plugs for the fridge
 
 
-The Student resting room is 150.59m² and is designed to fix 90 peoples.
+The Student resting room is 150.59m² and is designed to fit 90 peoples.
 
 The student resting room have to contain:
 - 15 circle tables
 - 90 chairs
 - 2 sinks
 - 6 fridges
+- 15 microwaves
 - 2 trashcan
 - 2 Couchs
 - 4 armchair
 - 6 plugs for the fridges
 
 ### d. Robotic Room
+
+The Robotic room is 28.47m² and is designed to fit 8 peoples.
+
+The robotic room have to contain:
+- 2 workbenchs
+- 8 chairs
+- 10 plugs
+- 1 whiteboard
+
 ### e. Office Rooms
+
+Office rooms are 3x 20m² and 1x 29.2m² and are designed to fit 3 to 5 peoples.
+
+Office rooms have to contain:
+- 2 armchairs
+- 1 desk chair
+- 1 Angle desk
+- 1 trashcan
+- 1 computer
+- 2 screens for small office and 4 screens for big office
+- 3 plugs for small office and 5 plugs for big office
+
 ### f. English Rooms
+
+English rooms are 40.50m² and are designed to fit 15 peoples.
+
+English rooms have to contain:
+- 15 tables
+- 16 chairs
+- 1 whiteboard
+- 8 plugs
+- 1 trashcan
+- 1 TV or video projecteur
+- 1 desk
+
 ### g. Softskills Room
 ### h. Library Room
 ### i. Reception Room
