@@ -36,7 +36,7 @@ Table of Contents
       - [3. Halls](#3-halls)
       - [4. Drone Flights](#4-drone-flights)
 - [5. Working Systems](#5-working-systems)
-  - [A. Opening Hours](#a-opening-hours)
+  - [A. Opening Hours To Public](#a-opening-hours-to-public)
   - [B. Booking Rooms](#b-booking-rooms)
     - [a. Entrance Screen](#a-entrance-screen)
     - [b. Booking Process](#b-booking-process)
@@ -338,13 +338,19 @@ Stands Zone have to contain:
 #### 4. Drone Flights
 
 # 5. Working Systems
-## A. Opening Hours
+## A. Opening Hours To Public
+The school is opened to public between 9AM - 12AM and 1PM - 5PM, they must have a visit card.
 
 ## B. Booking Rooms
+Booking Rooms are available to everyone between 8AM - 6PM if they are booked.
 ### a. Entrance Screen
+The Entrance Screen is turn on between 8AM - 6PM.
 ### b. Booking Process
+The Booking Process is available to students all the time.
 
 ## C. Permissions Card
+Everyone must have a permission card to interact in the school (open room, booking rooms...).
+
 ### a. Physical Visitor
 ### b. Virtual Visitor
 ### c. Student
