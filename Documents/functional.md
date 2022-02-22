@@ -333,7 +333,7 @@ Drone Zone have to contain:
 Stands Zone is 33.72m² and is designed to 12-15 People.
 
 Stands Zone have to contain:
-- 1 Character who controls the drone
+- 1 Bleacher
 
 ### b. Robotic Parkour
 
