@@ -54,7 +54,7 @@ Table of Contents
   - [E. Privacy](#e-privacy)
   - [F. VR Miscellaneous](#f-vr-miscellaneous)
     - [a. Time change](#a-time-change)
-    - [b. Peoples in School](#b-peoples-in-school)
+    - [b. People in School](#b-people-in-school)
     - [c. Teleportation to short distance](#c-teleportation-to-short-distance)
     - [d. Welcome NPC](#d-welcome-npc)
 - [6. User cases](#6-user-cases)
@@ -65,11 +65,11 @@ Table of Contents
   - [B. Virtual Visitor](#b-virtual-visitor-2)
     - [a. Entering empty room](#a-entering-empty-room-1)
     - [b. Entering occupied room](#b-entering-occupied-room-1)
-    - [c. Entering Staff reserved room](#c-entering-staff-reserved-room-1)
+    - [c. Entering staff reserved room](#c-entering-staff-reserved-room-1)
   - [C. Student](#c-student-2)
     - [a. Entering empty room](#a-entering-empty-room-2)
     - [b. Entering occupied room](#b-entering-occupied-room-2)
-    - [c. Entering Staff reserved room](#c-entering-staff-reserved-room-2)
+    - [c. Entering staff reserved room](#c-entering-staff-reserved-room-2)
     - [d. Booking a free room](#d-booking-a-free-room)
     - [e. Booking a reserved room](#e-booking-a-reserved-room)
     - [f. Booking a free room with privacy](#f-booking-a-free-room-with-privacy)
@@ -547,7 +547,13 @@ If it have been validated by a staff member, the glass of your room will be obfu
 We'll be able to change the time with a device , This device will be 
 usefull to show to the customer the permission with the time when the door will be locked automatically.
 
-### b. Peoples in School
+### b. People in School
+
+Th eschool is a place alive.
+It have to have people hanging around, people working, etc.
+
+Some person will be user of school, some can be visitors, on even stranger.
+
 ### c. Teleportation to short distance
 
 We'll be able to teleport the user to a place , to avoid the walk time and lost time during a presentation
@@ -555,28 +561,198 @@ and if the customer want to see a specific room or place.
 
 ### d. Welcome NPC 
 
+**NPC** stand for **Non Playable Character**.
+
+It's a person you can't control, it's usually here to help you.
+In that case it's here to give you some tips to start visit the school and also to give you your permission card.
+
+It can be a person that does that to reinforce the realism, or a start menu.
+
 # 6. User cases
+
+I will details the most common users cases that could append.
+For all user cases, they will already have choose their permission card and each category a specific permission card is detailed.
+
 ## A. Physical Visitor
 ### a. Entering empty room
+
+If a physical visitor want to open an empty room or a non-reserved rooms, he will have to walk to the desired romm.
+He will have to take the permission card given earlier and stick it to the lock.
+
+Since it's an empty room, he will have permission to open it.
+That way, the lock will make the allow sound and unlock the door.
+
+The user is now in the room.
+
 ### b. Entering occupied room
+
+If a physical visitor want to open an occupied room or reserved rooms, he will have to walk to the desired romm.
+He will have to take the permission card given earlier and stick it to the lock.
+
+Since it's an occupied room, he will not have permission to open it.
+That way, the lock will make the deny sound.
+
+The user can't enter the room.
+
 ### c. Entering staff reserved room
+
+If a physical visitor want to open a staff reserved room, he will have to walk to the desired romm.
+He will have to take the permission card given earlier and stick it to the lock.
+
+Since it's an staff reserved room, he will not have permission to open it.
+That way, the lock will make the deny sound.
+
+The user can't enter the room.
 
 ## B. Virtual Visitor
 ### a. Entering empty room
+
+If a virtual visitor want to open an empty room or a non-reserved rooms, he will have to walk to the desired romm.
+He will have to take the permission card given earlier and stick it to the lock.
+
+Since it's an empty room, he will have permission to open it.
+That way, the lock will make the allow sound and unlock the door.
+
+The user is now in the room.
+
 ### b. Entering occupied room
-### c. Entering Staff reserved room
+
+If a virtual visitor want to open an occupied room or reserved rooms, he will have to walk to the desired romm.
+He will have to take the permission card given earlier and stick it to the lock.
+
+Since it's an occupied room, he will have permission to open it.
+That way, the lock will make the allow sound and unlock the door.
+
+The user is now in the room.
+
+### c. Entering staff reserved room
+
+If a virtual visitor want to open a staff reserved room, he will have to walk to the desired romm.
+He will have to take the permission card given earlier and stick it to the lock.
+
+Since it's an staff reserved room, he will have permission to open it.
+That way, the lock will make the allow sound and unlock the door.
+
+The user is now in the room.
 
 ## C. Student
 ### a. Entering empty room
+
+If a student want to open an empty room or a non-reserved rooms, he will have to walk to the desired romm.
+He will have to take the permission card given earlier and stick it to the lock.
+
+Since it's an empty room, he will have permission to open it.
+That way, the lock will make the allow sound and unlock the door.
+
+The user is now in the room.
+
 ### b. Entering occupied room
-### c. Entering Staff reserved room
+
+If a student want to open an occupied room or reserved rooms, he will have to walk to the desired romm.
+He will have to take the permission card given earlier and stick it to the lock.
+
+Since it's an occupied room, he will not have permission to open it.
+That way, the lock will make the deny sound.
+
+The user can't enter the room.
+
+**BUT**
+
+If the room is a room he previously booked for that hour,
+When he will stick his card to the lock it will make the allow unlock sound and allow the user to enter the room.
+
+The user is now in the room.
+
+### c. Entering staff reserved room
+
+If a student want to open a staff reserved room, he will have to walk to the desired romm.
+He will have to take the permission card given earlier and stick it to the lock.
+
+Since it's an staff reserved room, he will not have permission to open it.
+That way, the lock will make the deny sound.
+
+The user can't enter the room.
+
 ### d. Booking a free room
+
+If a student want to book a room at a certain timetable he will have to go to the entrance.
+At the entrance you have the big tactile screen, identify himself on the screen.
+
+Then select his desired timetable, and take a free room (displayed in green).
+Specify the reason of the book and if privacy is needed (No for that case).
+
+Then the student have is room booked.
+
 ### e. Booking a reserved room
+
+If a student want to book a room at a certain timetable he will have to go to the entrance.
+At the entrance you have the big tactile screen, identify himself on the screen.
+
+Then select his desired timetable, and take a reserved room (displayed in red).
+He won't be able to go to the next step, and will have an error message.
+
+The student can't book this room.
+
 ### f. Booking a free room with privacy
+
+If a student want to book a room at a certain timetable he will have to go to the entrance.
+At the entrance you have the big tactile screen, identify himself on the screen.
+
+Then select his desired timetable, and take a free room (displayed in green).
+Specify the reason of the book and if privacy is needed (Yes for that case).
+
+For privacy rooms, the booking process have to be validate by a staff member of the School.
+
+If the process is validate then the student have is room booked.
+
+Otherwise the romm will not be booked and will be back to the free state.
+
 ### g. Booking a meeting room
+
+If a student want to book a meeting room at a certain timetable he will have to go to the entrance.
+At the entrance you have the big tactile screen, identify himself on the screen.
+
+Then select his desired timetable, and take a free room (displayed in green).
+Specify the reason of the book and if privacy is needed.
+
+For meeting rooms, the booking process have to be validate by a staff member of the School.
+
+If the process is validate then the student have is room booked.
+
+Otherwise the romm will not be booked and will be back to the free state.
 
 ## D. Staff
 ### a. Entering empty room
+
+If a staff member want to open an empty room or a non-reserved rooms, he will have to walk to the desired romm.
+He will have to take the permission card given earlier and stick it to the lock.
+
+Since he's a staff member, he will have permission to open it.
+That way, the lock will make the allow sound and unlock the door.
+
 ### b. Entering occupied room
+
+If a staff member want to open an occupied room or reserved room, he will have to walk to the desired romm.
+He will have to take the permission card given earlier and stick it to the lock.
+
+Since he's a staff member, he will have permission to open it.
+That way, the lock will make the allow sound and unlock the door.
+
 ### c. Entering Staff reserved room
+
+If a staff member want to open a staff reserved room (Stock or office), he will have to walk to the desired romm.
+He will have to take the permission card given earlier and stick it to the lock.
+
+Since he's a staff member, he will have permission to open it.
+That way, the lock will make the allow sound and unlock the door.
+
 ### d. Booking a meeting room
+
+If a staff member want to book a room at a certain timetable he will have to go to the entrance.
+At the entrance you have the big tactile screen, identify himself on the screen.
+
+Then select his desired timetable, and take a free room (displayed in green).
+Specify the reason of the book and if privacy is needed.
+
+The staff member have is room booked.
+He doesn't need to be validate by another staff member.
