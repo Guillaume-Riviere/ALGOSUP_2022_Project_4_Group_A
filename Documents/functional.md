@@ -50,7 +50,7 @@ Table of Contents
     - [b. Virtual Visitor](#b-virtual-visitor-1)
     - [c. Student](#c-student-1)
     - [d. Staff](#d-staff-1)
-    - [e. Stanger](#e-stanger)
+    - [e. Stranger](#e-stranger)
   - [E. Privacy](#e-privacy)
   - [F. VR Miscellaneous](#f-vr-miscellaneous)
     - [a. Time change](#a-time-change)
@@ -392,19 +392,23 @@ In the halls, you can hear students talking and walking, the drone flying and ro
 # 5. Working Systems
 ## A. Opening Hours To Public
 
-The school is opened to public between 9AM - 12AM and 1PM - 5PM, they must have a visit card.
+The school is opened to public between **9AM - 12AM** and **1PM - 5PM**.
 
 ## B. Booking Rooms
 
-Booking Rooms are available to everyone between 8AM - 6PM if they are booked.
-
 ### a. Entrance Screen
 
-The Entrance Screen is turn on between 8AM - 6PM.
+A big tactile screen will be require after the entrance on the right.
+The purpose of it is to be able to book a rooms and see which romm is occupied during the day.
+It could also in the futur, display a slider of schedule when idle.
 
 ### b. Booking Process
 
-The Booking Process is available to students all the time.
+You first will have to scan your card to identify yourself.
+Then you will have to set the time range you need a room.
+and last you will see all available rooms for you in green, you will also see unavailable room in red.
+
+You will have to specify a reason of booking, and if you need the privacy option (detailed below)
 
 ## C. Permissions Card
 
@@ -467,13 +471,75 @@ Everyone must have a permission card to interact in the school (open room, booki
 | Open stock rooms | X |  |
 
 ## D. Doors Lock
+
+All doors will require a permission access card in order to open it.
+Since the hall will be accessible by stranger, by Cpam's people and other people, it need to be securised.
+All Algosup users or staff will have different permissions in order to achieve that security.
+
 ### a. Physical Visitor
+
+| Permission  | Allow | Deny|
+| :---------- |:-----:|:---:|
+| Open project room | X |  |
+| Open office room |  | X |
+| Open meeting room |  | X |
+| Open english room | X |  |
+| Open stock room |  | X |
+| Open library | X |  |
+
 ### b. Virtual Visitor
+
+| Permission  | Allow | Deny|
+| :---------- |:-----:|:---:|
+| Open project room | X |  |
+| Open office room | X |  |
+| Open meeting room | X |  |
+| Open english room | X |  |
+| Open stock room | X |  |
+| Open library | X |  |
+
 ### c. Student
+
+| Permission  | Allow | Deny|
+| :---------- |:-----:|:---:|
+| Open project room | X |  |
+| Open office room |  | X |
+| Open meeting room |  | X |
+| Open english room | X |  |
+| Open stock room |  | X |
+| Open library | X |  |
+
 ### d. Staff
-### e. Stanger
+
+| Permission  | Allow | Deny|
+| :---------- |:-----:|:---:|
+| Open project room | X |  |
+| Open office room | X |  |
+| Open meeting room | X |  |
+| Open english room | X |  |
+| Open stock room | X |  |
+| Open library | X |  |
+
+### e. Stranger
+
+| Permission  | Allow | Deny|
+| :---------- |:-----:|:---:|
+| Open project room |  | X |
+| Open office room |  | X |
+| Open meeting room |  | X |
+| Open english room |  | X |
+| Open stock room |  | X |
+| Open library |  | X |
 
 ## E. Privacy
+
+In our work, sometimes we have to work on project that are secret and are subject to privacy rules. 
+So we though about a way to be able a have privacy while coridor are transparent glass. 
+
+So when you will book a room, you will be able to ask for privacy.
+It have to be validate by a Staff members of the school. 
+
+If it have been validated by a staff member, the glass of your room will be obfuscated for the time you reserved it.
 
 ## F. VR Miscellaneous
 ### a. Time change
