@@ -17,9 +17,10 @@ Table of Contents
     - [i. Reception Room](#i-reception-room)
     - [j. Bathrooms](#j-bathrooms)
     - [k. Stock Rooms](#k-stock-rooms)
-    - [l. Back Outside Deck](#l-back-outside-deck)
-    - [m. Front Outside Deck](#m-front-outside-deck)
-    - [n. Amphitheater](#n-amphitheater)
+    - [l. Secured Stock Room](#l-secured-stock-room)
+    - [m. Back Outside Deck](#m-back-outside-deck)
+    - [n. Front Outside Deck](#n-front-outside-deck)
+    - [o. Amphitheater](#o-amphitheater)
   - [B. Halls](#b-halls)
     - [a. Drone Zone](#a-drone-zone)
       - [1. Flight Zone](#1-flight-zone)
@@ -251,9 +252,27 @@ Reception room have to contain:
 -1 Trashcan
 ### j. Bathrooms
 ### k. Stock Rooms
-### l. Back Outside Deck
-### m. Front Outside Deck
-### n. Amphitheater
+
+Stock rooms are 28,78m² and 21,46m² and is designed to fit 2 and 1 person.
+
+Stock rooms have to contain:
+- Cardboards
+- 20 Shelves
+- 4 Chairs
+- 1 Trashcan
+
+### l. Secured Stock Room
+
+Secured Stock Room is 29,98m² and is designed to fit 3 persons.
+
+Secured Stock Room have to contain:
+- 30 Shelves
+- 1 camera
+- Cardboards
+
+### m. Back Outside Deck
+### n. Front Outside Deck
+### o. Amphitheater
 
 ## B. Halls
 ### a. Drone Zone
