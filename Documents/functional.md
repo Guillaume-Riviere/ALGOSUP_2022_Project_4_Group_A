@@ -218,6 +218,12 @@ English rooms have to contain:
 ### g. Softskills Room
 ### h. Library Room
 ### i. Reception Room
+Reception room have to contain:
+-1 Computer
+-1 Chair
+-1 Desk
+-1 Plug
+-1 Trashcan
 ### j. Bathrooms
 ### k. Stock Rooms
 ### l. Back Outside Deck
@@ -226,6 +232,8 @@ English rooms have to contain:
 
 ## B. Halls
 ### a. Drone Zone
+-1 Drone
+-1 Character who control the drone
 #### 1. Flight Zone
 #### 2. Stands Zone
 ### b. Robotic Parcour
