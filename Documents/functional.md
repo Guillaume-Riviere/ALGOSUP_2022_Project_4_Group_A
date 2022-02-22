@@ -385,16 +385,23 @@ The doors need to do a sound when you open it with your card, when you close it 
 
 # 5. Working Systems
 ## A. Opening Hours To Public
+
 The school is opened to public between 9AM - 12AM and 1PM - 5PM, they must have a visit card.
 
 ## B. Booking Rooms
+
 Booking Rooms are available to everyone between 8AM - 6PM if they are booked.
+
 ### a. Entrance Screen
+
 The Entrance Screen is turn on between 8AM - 6PM.
+
 ### b. Booking Process
+
 The Booking Process is available to students all the time.
 
 ## C. Permissions Card
+
 Everyone must have a permission card to interact in the school (open room, booking rooms...).
 
 ### a. Physical Visitor
