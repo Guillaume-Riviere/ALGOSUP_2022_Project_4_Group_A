@@ -239,6 +239,7 @@ Library have to contain:
 - 2 couchs
 - 4 tables
 - 4 chairs
+- 2 carpets
 
 ### i. Reception Room
 
@@ -250,7 +251,31 @@ Reception room have to contain:
 - 1 Desk
 - 1 Plug
 - 1 Trashcan
+
 ### j. Bathrooms
+
+Bathrooms room are 29.65m² each. These are designed to fit 7 peoples each. Each toilet is separate by doors and walls. There is 3 normal toilets and 1 disabled toilet in each bathroom.
+
+Each rooms have to contain: 
+- 4 bathroom sink
+- 1 hand dryer
+- 1 trashcan
+- 4 mirror
+
+Each toilets need to contain: 
+- 1 toilet
+- 1 trashcan
+- 1 toilet paper dispenser 
+
+Each disabled toilets need to contain:
+- 1 toilet
+- 1 metal bar on the wall
+- 1 bathroom sink
+- 1 trashcan
+- 1 mirror
+
+
+
 ### k. Stock Rooms
 
 Stock rooms are 28,78m² and 21,46m² and is designed to fit 2 and 1 person.
@@ -273,6 +298,17 @@ Secured Stock Room have to contain:
 ### m. Back Outside Deck
 ### n. Front Outside Deck
 ### o. Amphitheater
+
+Amphitheater room is 133.90m² and is designed to fit 80 people.
+
+Amphitheater have to contain :
+- 1 computer
+- 1 video projector
+- 1 screen
+- 1 chair
+- 1 reader desk
+- 1 platform
+- 1 plug for the computer
 
 ## B. Halls
 ### a. Drone Zone
