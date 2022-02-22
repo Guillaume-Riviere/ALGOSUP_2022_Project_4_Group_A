@@ -310,6 +310,8 @@ The front outside deck have to contain:
 - 1 doorbell
 - 1 bike stand
 - 1 scooter stand
+- 1 ashtray
+- 1 trashcan
 
 ### o. Amphitheater
 
