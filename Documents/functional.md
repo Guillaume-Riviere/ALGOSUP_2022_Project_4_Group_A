@@ -297,6 +297,15 @@ Secured Stock Room have to contain:
 
 ### m. Back Outside Deck
 ### n. Front Outside Deck
+
+Front outside deck is before the Entrance. It is in the outside of the school.
+
+The front outside deck have to contain:
+- 1 letter box
+- 1 doorbell
+- 1 bike stand
+- 1 scooter stand
+
 ### o. Amphitheater
 
 Amphitheater room is 133.90m² and is designed to fit 80 people.
