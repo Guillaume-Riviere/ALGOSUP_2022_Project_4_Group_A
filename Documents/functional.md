@@ -477,6 +477,10 @@ Everyone must have a permission card to interact in the school (open room, booki
 
 ## F. VR Miscellaneous
 ### a. Time change
+
+We'll be able to change the time with a device , This device will be 
+usefull to show to the customer the permission with the time when the door lock automatically.
+
 ### b. Peoples in School
 ### c. Teleportation to short distance
 ### d. Welcome NPC 
