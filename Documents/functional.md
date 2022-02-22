@@ -374,6 +374,9 @@ The entrance have to contain:
 
 ## C. Sounds
 ### a. Doors
+
+The doors need to do a sound when you open it with your card, when you close it and when you can't open it.
+
 ### b. Ambient Sounds
 #### 1. Resting Rooms
 #### 2. Occupied Rooms
