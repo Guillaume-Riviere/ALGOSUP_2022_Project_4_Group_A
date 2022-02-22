@@ -334,6 +334,10 @@ The robotic parkour have to contain:
 - 6 obstacles
 
 ### c. Greenery
+
+We'll find Greenery everywhere in the school , on the roof of the rooms.
+Also in each room to fill them and fell closer to the nature.
+
 ### d. Entrance
 
 ## C. Sounds
