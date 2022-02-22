@@ -164,6 +164,8 @@ The staff resting room have to contain:
 - 1 sink
 - 1 fridge
 - 1 trashcan
+- 2 microwave
+- 2 plugs for microwaves
 - 1 plugs for the fridge
 
 
@@ -178,6 +180,7 @@ The student resting room have to contain:
 - 2 trashcan
 - 2 Couchs
 - 4 armchair
+- 15 plugs for for microwaves
 - 6 plugs for the fridges
 
 ### d. Robotic Room
@@ -211,6 +214,7 @@ English rooms have to contain:
 - 15 tables
 - 16 chairs
 - 1 whiteboard
+- 1 computer
 - 8 plugs
 - 1 trashcan
 - 1 TV or video projector
@@ -224,6 +228,7 @@ Softskills room have to contain:
 - 20 tables
 - 21 chairs
 - 1 desk
+- 1 computer
 - 1 whiteboard
 - 10 plugs
 - 1 trashcan
@@ -278,7 +283,7 @@ Each disabled toilets need to contain:
 
 ### k. Stock Rooms
 
-Stock rooms are 28,78m² and 21,46m² and is designed to fit 2 and 1 person.
+Stock rooms are 28,78m² and 21,46m² and is designed to fit 2 people and 1 person respectively.
 
 Stock rooms have to contain:
 - Cardboards
@@ -288,7 +293,7 @@ Stock rooms have to contain:
 
 ### l. Secured Stock Room
 
-Secured Stock Room is 29,98m² and is designed to fit 3 persons.
+Secured Stock Room is 29,98m² and is designed to fit 3 people.
 
 Secured Stock Room have to contain:
 - 30 Shelves
@@ -296,7 +301,26 @@ Secured Stock Room have to contain:
 - Cardboards
 
 ### m. Back Outside Deck
+
+The back outside deck is 183.14m². It's designed to fix 100 people.
+
+The back outside deck have to contain:
+- 6 circle tables for 6 people
+- 8 circle tables for 4 people
+- 68 chairs
+- 2 ashtrays
+- 2 trash cans
+
 ### n. Front Outside Deck
+
+Front outside deck is before the Entrance. It is in the outside of the school.
+
+The front outside deck have to contain:
+- 1 letter box
+- 1 doorbell
+- 1 bike stand
+- 1 scooter stand
+
 ### o. Amphitheater
 
 Amphitheater room is 133.90m² and is designed to fit 80 people.
@@ -309,6 +333,8 @@ Amphitheater have to contain :
 - 1 reader desk
 - 1 platform
 - 1 plug for the computer
+- 1 plug for the video projector 
+- 1 trash can
 
 ## B. Halls
 ### a. Drone Zone
@@ -317,17 +343,32 @@ Amphitheater have to contain :
 Drone Zone is 78.54m² and is designed to fit Drones.
 
 Drone Zone have to contain:
-
 - 1 Drone
+
 #### 2. Stands Zone
-Stands Zone is 33.72m² and is designed to 12-15 People.
+
+Stands Zone is 33.72m² and is designed to 12-15 people.
 
 Stands Zone have to contain:
-
 - 1 Character who controls the drone
-### b. Robotic Parcour
+
+### b. Robotic Parkour
+
+The robotic parkour is in the principal corridor.
+
+The robotic parkour have to contain:
+- 6 obstacles
+
 ### c. Greenery
+
+We'll find Greenery everywhere in the school , on the roof of the rooms.
+Also in each room to fill them and fell closer to the nature.
+
 ### d. Entrance
+
+The entrance have to contain:
+- 1 screen
+- 1 plug for the screen 
 
 ## C. Sounds
 ### a. Doors
