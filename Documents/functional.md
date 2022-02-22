@@ -268,15 +268,19 @@ Amphitheater have to contain :
 
 ## B. Halls
 ### a. Drone Zone
+#### 1. Flight Zone
 
 Drone Zone is 78.54m² and is designed to fit Drones.
 
 Drone Zone have to contain:
 
 - 1 Drone
-- 1 Character who controls the drone
-#### 1. Flight Zone
 #### 2. Stands Zone
+Stands Zone is 33.72m² and is designed to 12-15 People.
+
+Stands Zone have to contain:
+
+- 1 Character who controls the drone
 ### b. Robotic Parcour
 ### c. Greenery
 ### d. Entrance
