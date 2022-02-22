@@ -379,7 +379,7 @@ The doors need to do a sound when you open it with your card, when you close it 
 #### 2. Occupied Rooms
 #### 3. Halls
 
-In the halls, you can hear students talking and walking, the drone flying and robots driving
+In the halls, you can hear students talking and walking, the drone flying and robots driving.
 
 #### 4. Drone Flights
 
