@@ -212,11 +212,33 @@ English rooms have to contain:
 - 1 whiteboard
 - 8 plugs
 - 1 trashcan
-- 1 TV or video projecteur
+- 1 TV or video projector
 - 1 desk
 
 ### g. Softskills Room
+
+Softskills room is 70.20m² and is designed to fit 20 peoples.
+
+Softskills room have to contain:
+- 20 tables
+- 21 chairs
+- 1 desk
+- 1 whiteboard
+- 10 plugs
+- 1 trashcan
+- 1 TV or video projector
+
 ### h. Library Room
+
+Library is 45,79m² and is designed to fit 16 peoples.
+
+Library have to contain: 
+- 16 shelves
+- 6 lazybags
+- 2 couchs
+- 4 tables
+- 4 chairs
+
 ### i. Reception Room
 
 Reception room is 12.37m² and is designed to fit 1 person.
