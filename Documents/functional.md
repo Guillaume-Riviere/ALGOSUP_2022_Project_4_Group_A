@@ -25,7 +25,7 @@ Table of Contents
     - [a. Drone Zone](#a-drone-zone)
       - [1. Flight Zone](#1-flight-zone)
       - [2. Stands Zone](#2-stands-zone)
-    - [b. Robotic Parcour](#b-robotic-parcour)
+    - [b. Robotic Parkour](#b-robotic-parkour)
     - [c. Greenery](#c-greenery)
     - [d. Entrance](#d-entrance)
   - [C. Sounds](#c-sounds)
@@ -405,9 +405,60 @@ The Booking Process is available to students all the time.
 Everyone must have a permission card to interact in the school (open room, booking rooms...).
 
 ### a. Physical Visitor
+
+| Permission  | Allow | Deny|
+| :---------- |:-----:|:---:|
+| Open empty room  | X |  |
+| Open reserved room |  | X |
+| Book a room |  | X |
+| Open empty meeting room | X |  |
+| Open reserved meeting room |  | X |
+| Open office |  | X |
+| Enter school outisde of opening hours |  | X |
+| Enter school in opening hours | X |  |
+| Open stock rooms |  | X |
+
 ### b. Virtual Visitor
+
+| Permission  | Allow | Deny|
+| :---------- |:-----:|:---:|
+| Open empty room  | X |  |
+| Open reserved room | X |  |
+| Book a room | X |  |
+| Open empty meeting room | X |  |
+| Open reserved meeting room | X |  |
+| Open office | X |  |
+| Enter school outisde of opening hours | X |  |
+| Enter school in opening hours | X |  |
+| Open stock rooms | X |  |
+
 ### c. Student
+
+| Permission  | Allow | Deny|
+| :---------- |:-----:|:---:|
+| Open empty room  | X |  |
+| Open reserved room |  |X |
+| Book a room | X |  |
+| Open empty meeting room |  | X |
+| Open reserved meeting room |  | X |
+| Open office |  | X |
+| Enter school outisde of opening hours |  | X |
+| Enter school in opening hours | X |  |
+| Open stock rooms |  | X |
+
 ### d. Staff
+
+| Permission  | Allow | Deny|
+| :---------- |:-----:|:---:|
+| Open empty room  | X |  |
+| Open reserved room | X |  |
+| Book a room | X |  |
+| Open empty meeting room | X |  |
+| Open reserved meeting room | X |  |
+| Open office | X |  |
+| Enter school outisde of opening hours | X |  |
+| Enter school in opening hours | X |  |
+| Open stock rooms | X |  |
 
 ## D. Doors Lock
 ### a. Physical Visitor
