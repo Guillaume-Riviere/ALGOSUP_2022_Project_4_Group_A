@@ -25,7 +25,7 @@ Table of Contents
     - [a. Drone Zone](#a-drone-zone)
       - [1. Flight Zone](#1-flight-zone)
       - [2. Stands Zone](#2-stands-zone)
-    - [b. Robotic Parcour](#b-robotic-parcour)
+    - [b. Robotic Parkour](#b-robotic-parkour)
     - [c. Greenery](#c-greenery)
     - [d. Entrance](#d-entrance)
   - [C. Sounds](#c-sounds)
@@ -36,7 +36,7 @@ Table of Contents
       - [3. Halls](#3-halls)
       - [4. Drone Flights](#4-drone-flights)
 - [5. Working Systems](#5-working-systems)
-  - [A. Opening Hours](#a-opening-hours)
+  - [A. Opening Hours To Public](#a-opening-hours-to-public)
   - [B. Booking Rooms](#b-booking-rooms)
     - [a. Entrance Screen](#a-entrance-screen)
     - [b. Booking Process](#b-booking-process)
@@ -120,7 +120,6 @@ That include:
 - Differents user cases 
 
 It need to be visitable using VR Headset, from any headset and anywhere.
-
 
 # 4. Environments
 
@@ -214,6 +213,7 @@ English rooms have to contain:
 - 15 tables
 - 16 chairs
 - 1 whiteboard
+- 1 computer
 - 8 plugs
 - 1 trashcan
 - 1 TV or video projector
@@ -227,6 +227,7 @@ Softskills room have to contain:
 - 20 tables
 - 21 chairs
 - 1 desk
+- 1 computer
 - 1 whiteboard
 - 10 plugs
 - 1 trashcan
@@ -277,11 +278,9 @@ Each disabled toilets need to contain:
 - 1 trashcan
 - 1 mirror
 
-
-
 ### k. Stock Rooms
 
-Stock rooms are 28,78m² and 21,46m² and is designed to fit 2 and 1 person.
+Stock rooms are 28,78m² and 21,46m² and is designed to fit 2 people and 1 person respectively.
 
 Stock rooms have to contain:
 - Cardboards
@@ -291,7 +290,7 @@ Stock rooms have to contain:
 
 ### l. Secured Stock Room
 
-Secured Stock Room is 29,98m² and is designed to fit 3 persons.
+Secured Stock Room is 29,98m² and is designed to fit 3 people.
 
 Secured Stock Room have to contain:
 - 30 Shelves
@@ -299,6 +298,16 @@ Secured Stock Room have to contain:
 - Cardboards
 
 ### m. Back Outside Deck
+
+The back outside deck is 183.14m². It's designed to fix 100 people.
+
+The back outside deck have to contain:
+- 6 circle tables for 6 people
+- 8 circle tables for 4 people
+- 68 chairs
+- 2 ashtrays
+- 2 trashcans
+
 ### n. Front Outside Deck
 
 Front outside deck is before the Entrance. It is in the outside of the school.
@@ -308,6 +317,8 @@ The front outside deck have to contain:
 - 1 doorbell
 - 1 bike stand
 - 1 scooter stand
+- 1 ashtray
+- 1 trashcan
 
 ### o. Amphitheater
 
@@ -322,7 +333,7 @@ Amphitheater have to contain :
 - 1 platform
 - 1 plug for the computer
 - 1 plug for the video projector 
-- 1 trashcan
+- 1 trash can
 
 ## B. Halls
 ### a. Drone Zone
@@ -335,10 +346,10 @@ Drone Zone have to contain:
 
 #### 2. Stands Zone
 
-Stands Zone is 33.72m² and is designed to 12-15 People.
+Stands Zone is 33.72m² and is designed to 12-15 people.
 
 Stands Zone have to contain:
-- 1 Character who controls the drone
+- 1 Bleacher
 
 ### b. Robotic Parkour
 
@@ -360,6 +371,9 @@ The entrance have to contain:
 
 ## C. Sounds
 ### a. Doors
+
+The doors need to do a sound when you open it with your card, when you close it and when you can't open it.
+
 ### b. Ambient Sounds
 #### 1. Resting Rooms
 
@@ -370,20 +384,87 @@ The resting rooms need to do the noises of 90 people who are eating and talking.
 The occupied rooms need to have noises of working people.
 
 #### 3. Halls
+
+In the halls, you can hear students talking and walking, the drone flying and robots driving.
+
 #### 4. Drone Flights
 
 # 5. Working Systems
-## A. Opening Hours
+## A. Opening Hours To Public
+
+The school is opened to public between 9AM - 12AM and 1PM - 5PM, they must have a visit card.
 
 ## B. Booking Rooms
+
+Booking Rooms are available to everyone between 8AM - 6PM if they are booked.
+
 ### a. Entrance Screen
+
+The Entrance Screen is turn on between 8AM - 6PM.
+
 ### b. Booking Process
 
+The Booking Process is available to students all the time.
+
 ## C. Permissions Card
+
+Everyone must have a permission card to interact in the school (open room, booking rooms...).
+
 ### a. Physical Visitor
+
+| Permission  | Allow | Deny|
+| :---------- |:-----:|:---:|
+| Open empty room  | X |  |
+| Open reserved room |  | X |
+| Book a room |  | X |
+| Open empty meeting room | X |  |
+| Open reserved meeting room |  | X |
+| Open office |  | X |
+| Enter school outisde of opening hours |  | X |
+| Enter school in opening hours | X |  |
+| Open stock rooms |  | X |
+
 ### b. Virtual Visitor
+
+| Permission  | Allow | Deny|
+| :---------- |:-----:|:---:|
+| Open empty room  | X |  |
+| Open reserved room | X |  |
+| Book a room | X |  |
+| Open empty meeting room | X |  |
+| Open reserved meeting room | X |  |
+| Open office | X |  |
+| Enter school outisde of opening hours | X |  |
+| Enter school in opening hours | X |  |
+| Open stock rooms | X |  |
+
 ### c. Student
+
+| Permission  | Allow | Deny|
+| :---------- |:-----:|:---:|
+| Open empty room  | X |  |
+| Open reserved room |  |X |
+| Book a room | X |  |
+| Open empty meeting room |  | X |
+| Open reserved meeting room |  | X |
+| Open office |  | X |
+| Enter school outisde of opening hours |  | X |
+| Enter school in opening hours | X |  |
+| Open stock rooms |  | X |
+
 ### d. Staff
+
+| Permission  | Allow | Deny|
+| :---------- |:-----:|:---:|
+| Open empty room  | X |  |
+| Open reserved room | X |  |
+| Book a room | X |  |
+| Open empty meeting room | X |  |
+| Open reserved meeting room | X |  |
+| Open office | X |  |
+| Enter school outisde of opening hours | X |  |
+| Enter school in opening hours | X |  |
+| Open stock rooms | X |  |
 
 ## D. Doors Lock
 ### a. Physical Visitor
