@@ -238,6 +238,7 @@ Library have to contain:
 - 2 couchs
 - 4 tables
 - 4 chairs
+- 2 carpets
 
 ### i. Reception Room
 
@@ -249,7 +250,31 @@ Reception room have to contain:
 - 1 Desk
 - 1 Plug
 - 1 Trashcan
+
 ### j. Bathrooms
+
+Bathrooms room are 29.65m² each. These are designed to fit 7 peoples each. Each toilet is separate by doors and walls. There is 3 normal toilets and 1 disabled toilet in each bathroom.
+
+Each rooms have to contain: 
+- 4 bathroom sink
+- 1 hand dryer
+- 1 trashcan
+- 4 mirror
+
+Each toilets need to contain: 
+- 1 toilet
+- 1 trashcan
+- 1 toilet paper dispenser 
+
+Each disabled toilets need to contain:
+- 1 toilet
+- 1 metal bar on the wall
+- 1 bathroom sink
+- 1 trashcan
+- 1 mirror
+
+
+
 ### k. Stock Rooms
 ### l. Back Outside Deck
 ### m. Front Outside Deck
