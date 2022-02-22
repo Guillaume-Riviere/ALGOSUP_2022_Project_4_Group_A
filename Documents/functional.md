@@ -309,6 +309,8 @@ Amphitheater have to contain :
 - 1 reader desk
 - 1 platform
 - 1 plug for the computer
+- 1 plug for the video projector 
+- 1 trashcan
 
 ## B. Halls
 ### a. Drone Zone
@@ -328,6 +330,10 @@ Stands Zone have to contain:
 ### b. Robotic Parcour
 ### c. Greenery
 ### d. Entrance
+
+The entrance have to contain:
+- 1 screen
+- 1 plug for the screen 
 
 ## C. Sounds
 ### a. Doors
