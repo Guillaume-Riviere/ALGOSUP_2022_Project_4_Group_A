@@ -214,6 +214,7 @@ English rooms have to contain:
 - 15 tables
 - 16 chairs
 - 1 whiteboard
+- 1 computer
 - 8 plugs
 - 1 trashcan
 - 1 TV or video projector
@@ -227,6 +228,7 @@ Softskills room have to contain:
 - 20 tables
 - 21 chairs
 - 1 desk
+- 1 computer
 - 1 whiteboard
 - 10 plugs
 - 1 trashcan
@@ -331,6 +333,8 @@ Amphitheater have to contain :
 - 1 reader desk
 - 1 platform
 - 1 plug for the computer
+- 1 plug for the video projector 
+- 1 trashcan
 
 ## B. Halls
 ### a. Drone Zone
@@ -361,6 +365,10 @@ We'll find Greenery everywhere in the school , on the roof of the rooms.
 Also in each room to fill them and fell closer to the nature.
 
 ### d. Entrance
+
+The entrance have to contain:
+- 1 screen
+- 1 plug for the screen 
 
 ## C. Sounds
 ### a. Doors
