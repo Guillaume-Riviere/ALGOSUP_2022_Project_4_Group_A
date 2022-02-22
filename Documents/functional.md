@@ -121,7 +121,6 @@ That include:
 
 It need to be visitable using VR Headset, from any headset and anywhere.
 
-
 # 4. Environments
 
 This section will detail all furnitures needed in the school.
@@ -278,8 +277,6 @@ Each disabled toilets need to contain:
 - 1 bathroom sink
 - 1 trashcan
 - 1 mirror
-
-
 
 ### k. Stock Rooms
 
