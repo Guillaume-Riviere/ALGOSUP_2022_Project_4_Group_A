@@ -21,6 +21,7 @@ Table of Contents
     - [m. Back Outside Deck](#m-back-outside-deck)
     - [n. Front Outside Deck](#n-front-outside-deck)
     - [o. Amphitheater](#o-amphitheater)
+    - [p. Reprography](#p-reprography)
   - [B. Halls](#b-halls)
     - [a. Drone Zone](#a-drone-zone)
       - [1. Flight Zone](#1-flight-zone)
@@ -334,6 +335,15 @@ Amphitheater have to contain :
 - 1 plug for the computer
 - 1 plug for the video projector 
 - 1 trash can
+
+### p. Reprography
+
+The reprography room is 10,68m².
+
+The reprography room have to contain :
+- 1 printer / scanner
+- 1 trashcan 
+- 1 desk
 
 ## B. Halls
 ### a. Drone Zone
