@@ -22,6 +22,7 @@ Table of Contents
     - [n. Front Outside Deck](#n-front-outside-deck)
     - [o. Amphitheater](#o-amphitheater)
     - [p. Reprography](#p-reprography)
+    - [q. Language Laboratories](#q-language-laboratories)
   - [B. Halls](#b-halls)
     - [a. Drone Zone](#a-drone-zone)
       - [1. Flight Zone](#1-flight-zone)
@@ -87,32 +88,31 @@ Table of Contents
 
 # 1. Introduction
 
-The goal of the project is to provide a way to visit the school as if we were in.
-It will be visitable using **Virtual Reality** headset.
+The goal of the project is to provide a way to visit the future school as if we were in at the end of its construction.
+It will be visitable by using **Virtual Reality** headset.
 
-It should be able to anticipate issues that could append in the school and also a way to visit the school without being physically in it.
+It should be able to anticipate issues that could append in the school in real life and also a way to visit the school without being physically in it.
 
-All logic systems should also be applied to the virtual environment. By logic systems, we mainly means doors locked to unauthorized peoples.
+All logic systems should also be applied to the virtual environment as the real one. By logic systems, we mainly means doors locked to unauthorized peoples.
 
-Some scenarios should be possible to simulate in order to see what append in the school
+Some scenarios should be possible to simulate in order to see what append in the school.
 
-It's also a realistic simulation, it's not a video game.
-Physics have to be applied to objets, rooms, user.
+It's a **realistic simulation**, it's not a video game. The goal is to build something as real as possible in all areas. It also means that physics have to be applied to objets, rooms, user.
 By physics we means no flight across walls, no permissions bypass not planned.
 
 # 2. What's VR ? Why VR ?
 
 **VR** stands for **Virtual Reality**
 VR is a simulated world that can be similar to or completely different from the real world. In that case, closest to reality, better it will be.
-VR is simulated using a Headset that the user have to wear to visit the simulation
+VR is simulated using a Headset that the user have to wear to visit the simulation.
 
-Since we want a realistic simulation, VR is the closest to the reality.
-It allows a user to simulate the school as if he was inside.
-VR could have been avoided but the immersion wouldn't have been as intense.
+As we want a realistic simulation, VR is the closest solution to reality.
+It allows users to simulate a visit of the future school as if he was inside.
+VR could have been avoided but the immersion wouldn't have been as intense and realistic.
 
 # 3. General Needs
 
-We need a realistic representation of the school, as realistic as possible. 
+We need a realistic representation of the school, the closest that we can. 
 That include: 
 - Working doors
 - Door lock
@@ -120,7 +120,7 @@ That include:
 - Furnitures
 - Differents user cases 
 
-It need to be visitable using VR Headset, from any headset and anywhere.
+It needs to be visitable by using VR Headset, from any headset and anywhere.
 
 # 4. Environments
 
@@ -129,7 +129,7 @@ This section will detail all furnitures needed in the school.
 ## A. Rooms
 ### a. Project Rooms
 
-Each project rooms are 20m² and are designed to fit 6 peoples.
+Each project rooms are 20m² and are designed to fit 6 peoples. There will be 12 in total.
 
 Each rooms have to contain: 
 - 1 rectangle table
@@ -140,11 +140,12 @@ Each rooms have to contain:
 - 6 plugs for the table
 - 2 plugs for the TV
 
-### b. Meetings Room
+
+### b. Meeting Room
 
 The meeting room is 25m² and is designed to fit 8 to 10 peoples.
 
-The meetings romms have to contain:
+The meeting room have to contain:
 - 1 rectangle table
 - 10 chairs
 - 1 TV or video projector
@@ -183,6 +184,7 @@ The student resting room have to contain:
 - 15 plugs for for microwaves
 - 6 plugs for the fridges
 
+
 ### d. Robotic Room
 
 The Robotic room is 28.47m² and is designed to fit 8 peoples.
@@ -193,9 +195,12 @@ The robotic room have to contain:
 - 10 plugs
 - 1 whiteboard
 
+
 ### e. Office Rooms
 
-Office rooms are 3x 20m² and 1x 29.2m² and are designed to fit 3 to 5 peoples.
+There are 2 types of office:
+- The biggest one is 29.2m² and is designed to fit 3 to 5 peoples.
+- The other 3 are 20m² and are designed to fit also 3 to 5 peoples.
 
 Office rooms have to contain:
 - 2 armchairs
@@ -206,9 +211,10 @@ Office rooms have to contain:
 - 2 screens for small office and 4 screens for big office
 - 3 plugs for small office and 5 plugs for big office
 
+
 ### f. English Rooms
 
-English rooms are 40.50m² and are designed to fit 15 peoples.
+English rooms are 40.50m² and are designed to fit 15 peoples. There will be 3 in total.
 
 English rooms have to contain:
 - 15 tables
@@ -220,9 +226,10 @@ English rooms have to contain:
 - 1 TV or video projector
 - 1 desk
 
+
 ### g. Softskills Room
 
-Softskills room is 70.20m² and is designed to fit 20 peoples.
+The Softskills room is 70.20m² and is designed to fit 20 peoples.
 
 Softskills room have to contain:
 - 20 tables
@@ -234,9 +241,10 @@ Softskills room have to contain:
 - 1 trashcan
 - 1 TV or video projector
 
+
 ### h. Library Room
 
-Library is 45,79m² and is designed to fit 16 peoples.
+The Library is 45,79m² and is designed to fit 16 peoples.
 
 Library have to contain: 
 - 16 shelves
@@ -245,10 +253,12 @@ Library have to contain:
 - 4 tables
 - 4 chairs
 - 2 carpets
+- books (many as possible)
+
 
 ### i. Reception Room
 
-Reception room is 12.37m² and is designed to fit 1 person.
+The Reception room is 12.37m² and is designed to fit 1 person.
 
 Reception room have to contain:
 - 1 Computer
@@ -257,9 +267,10 @@ Reception room have to contain:
 - 1 Plug
 - 1 Trashcan
 
+
 ### j. Bathrooms
 
-Bathrooms room are 29.65m² each. These are designed to fit 7 peoples each. Each toilet is separate by doors and walls. There is 3 normal toilets and 1 disabled toilet in each bathroom.
+Bathrooms are 29.65m² and are designed to fit 14 peoples for both. Each toilet is separate by doors and walls. There is 3 normal toilets and 1 disabled toilet per bathroom.
 
 Each rooms have to contain: 
 - 4 bathroom sink
@@ -279,15 +290,17 @@ Each disabled toilets need to contain:
 - 1 trashcan
 - 1 mirror
 
+
 ### k. Stock Rooms
 
-Stock rooms are 28,78m² and 21,46m² and is designed to fit 2 people and 1 person respectively.
+Stock rooms are 28,78m² and 21,46m² and are designed to fit 2 people or less.
 
 Stock rooms have to contain:
 - Cardboards
 - 20 Shelves
 - 4 Chairs
 - 1 Trashcan
+
 
 ### l. Secured Stock Room
 
@@ -298,9 +311,10 @@ Secured Stock Room have to contain:
 - 1 camera
 - Cardboards
 
+
 ### m. Back Outside Deck
 
-The back outside deck is 183.14m². It's designed to fix 100 people.
+The back outside deck is 183.14m². It's designed to fix 90 people.
 
 The back outside deck have to contain:
 - 6 circle tables for 6 people
@@ -308,6 +322,7 @@ The back outside deck have to contain:
 - 68 chairs
 - 2 ashtrays
 - 2 trashcans
+
 
 ### n. Front Outside Deck
 
@@ -321,9 +336,10 @@ The front outside deck have to contain:
 - 1 ashtray
 - 1 trashcan
 
+
 ### o. Amphitheater
 
-Amphitheater room is 133.90m² and is designed to fit 80 people.
+The Amphitheater is 133.90m² and is designed to fit 80 people.
 
 Amphitheater have to contain :
 - 1 computer
@@ -336,6 +352,7 @@ Amphitheater have to contain :
 - 1 plug for the video projector 
 - 1 trash can
 
+
 ### p. Reprography
 
 The reprography room is 10,68m².
@@ -345,23 +362,42 @@ The reprography room have to contain :
 - 1 trashcan 
 - 1 desk
 
+
+
+### q. Language Laboratories
+
+Language laboratories are 25.20m² and are designed to fit 8 peoples. There will be 2 in total.
+
+Language laboratories have to contain:
+- 8 tables
+- 9 chairs
+- 1 whiteboard
+- 1 computer
+- 6 plugs
+- 1 trashcan
+- 1 TV or video projector
+- 1 desk
+
+
 ## B. Halls
 ### a. Drone Zone
 #### 1. Flight Zone
 
-Drone Zone is 78.54m² and is designed to fit Drones.
+The Flight Zone is 78.54m² and is designed to fit Drones.
 
-Drone Zone have to contain:
+The Flight Zone have to contain:
 - 1 Drone
 - 1 protection for flight
 - 1 round carpet on the ground
 
+
 #### 2. Stands Zone
 
-Stands Zone is 33.72m² and is designed to 12-15 people.
+The Stands Zone is 33.72m² and is designed to 12-15 people.
 
 Stands Zone have to contain:
 - 1 Bleacher
+
 
 ### b. Robotic Parkour
 
@@ -370,10 +406,12 @@ The robotic parkour is in the principal corridor.
 The robotic parkour have to contain:
 - 6 obstacles
 
+
 ### c. Greenery
 
-We'll find Greenery everywhere in the school , on the roof of the rooms.
+We'll find Greenery everywhere in the school, on the roof of the rooms.
 Also in each room to fill them and fell closer to the nature.
+
 
 ### d. Entrance
 
@@ -381,23 +419,28 @@ The entrance have to contain:
 - 1 screen
 - 1 plug for the screen 
 
+
 ## C. Sounds
 ### a. Doors
 
 The doors need to do a sound when you open it with your card, when you close it and when you can't open it.
+
 
 ### b. Ambient Sounds
 #### 1. Resting Rooms
 
 The resting rooms need to do the noises of 90 people who are eating and talking. You also need noises of microwaves and televisions.
 
+
 #### 2. Occupied Rooms
 
 The occupied rooms need to have noises of working people.
 
+
 #### 3. Halls
 
 In the halls, you can hear students talking and walking, the drone flying and robots driving.
+
 
 #### 4. Drone Flights
 
@@ -406,25 +449,29 @@ In the halls, you can hear students talking and walking, the drone flying and ro
 
 The school is opened to public between **9AM - 12AM** and **1PM - 5PM**.
 
+
 ## B. Booking Rooms
 
 ### a. Entrance Screen
 
 A big tactile screen will be require after the entrance on the right.
-The purpose of it is to be able to book a rooms and see which romm is occupied during the day.
+The purpose of it is to be able to book a rooms and see which room is occupied during the day.
 It could also in the futur, display a slider of schedule when idle.
+
 
 ### b. Booking Process
 
 You first will have to scan your card to identify yourself.
-Then you will have to set the time range you need a room.
-and last you will see all available rooms for you in green, you will also see unavailable room in red.
+Then, you will have to set the time range for when you need a room.
+At the end, you will see all available rooms for you in green, and also see unavailable rooms in red.
 
-You will have to specify a reason of booking, and if you need the privacy option (detailed below)
+You will have to specify a reason of booking, and if you need the privacy option (detailed below).
+
 
 ## C. Permissions Card
 
 Everyone must have a permission card to interact in the school (open room, booking rooms...).
+
 
 ### a. Physical Visitor
 
@@ -440,6 +487,7 @@ Everyone must have a permission card to interact in the school (open room, booki
 | Enter school in opening hours | X |  |
 | Open stock rooms |  | X |
 
+
 ### b. Virtual Visitor
 
 | Permission  | Allow | Deny|
@@ -453,6 +501,7 @@ Everyone must have a permission card to interact in the school (open room, booki
 | Enter school outisde of opening hours | X |  |
 | Enter school in opening hours | X |  |
 | Open stock rooms | X |  |
+
 
 ### c. Student
 
@@ -468,6 +517,7 @@ Everyone must have a permission card to interact in the school (open room, booki
 | Enter school in opening hours | X |  |
 | Open stock rooms |  | X |
 
+
 ### d. Staff
 
 | Permission  | Allow | Deny|
@@ -482,11 +532,13 @@ Everyone must have a permission card to interact in the school (open room, booki
 | Enter school in opening hours | X |  |
 | Open stock rooms | X |  |
 
+
 ## D. Doors Lock
 
 All doors will require a permission access card in order to open it.
 Since the hall will be accessible by stranger, by Cpam's people and other people, it need to be securised.
 All Algosup users or staff will have different permissions in order to achieve that security.
+
 
 ### a. Physical Visitor
 
@@ -499,6 +551,7 @@ All Algosup users or staff will have different permissions in order to achieve t
 | Open stock room |  | X |
 | Open library | X |  |
 
+
 ### b. Virtual Visitor
 
 | Permission  | Allow | Deny|
@@ -509,6 +562,7 @@ All Algosup users or staff will have different permissions in order to achieve t
 | Open english room | X |  |
 | Open stock room | X |  |
 | Open library | X |  |
+
 
 ### c. Student
 
@@ -521,6 +575,7 @@ All Algosup users or staff will have different permissions in order to achieve t
 | Open stock room |  | X |
 | Open library | X |  |
 
+
 ### d. Staff
 
 | Permission  | Allow | Deny|
@@ -531,6 +586,7 @@ All Algosup users or staff will have different permissions in order to achieve t
 | Open english room | X |  |
 | Open stock room | X |  |
 | Open library | X |  |
+
 
 ### e. Stranger
 
@@ -543,227 +599,249 @@ All Algosup users or staff will have different permissions in order to achieve t
 | Open stock room |  | X |
 | Open library |  | X |
 
+
 ## E. Privacy
 
-In our work, sometimes we have to work on project that are secret and are subject to privacy rules. 
-So we though about a way to be able a have privacy while coridor are transparent glass. 
+In our work, sometimes we have to work on project requiring more security and are subject to certain additional safety regulations. 
+So we though about a way to be able to have privacy while coridor are transparent glass. 
 
 So when you will book a room, you will be able to ask for privacy.
-It have to be validate by a Staff members of the school. 
+It have to be validate by a Staff member of the school. 
 
 If it have been validated by a staff member, the glass of your room will be obfuscated for the time you reserved it.
+
 
 ## F. VR Miscellaneous
 ### a. Time change
 
-We'll be able to change the time with a device , This device will be 
-usefull to show to the customer the permission with the time when the door will be locked automatically.
+We'll be able to change the time with a device. 
+This device will be usefull to show to the customer the permission with the time when the door will be locked automatically.
+
 
 ### b. People in School
 
-Th eschool is a place alive.
-It have to have people hanging around, people working, etc.
+The school is a place alive.
+It must have people hanging around, people working, etc.
 
-Some person will be user of school, some can be visitors, on even stranger.
+Some people will be user of school, some can be visitors, or even strangers.
+
 
 ### c. Teleportation to short distance
 
-We'll be able to teleport the user to a place , to avoid the walk time and lost time during a presentation
-and if the customer want to see a specific room or place.
+We'll be able to teleport the user to a place, to avoid the walk time and lost time during a presentation and if the customer want to see a specific room or place.
+
 
 ### d. Welcome NPC 
 
 **NPC** stand for **Non Playable Character**.
 
 It's a person you can't control, it's usually here to help you.
-In that case it's here to give you some tips to start visit the school and also to give you your permission card.
+In that case, it's here to give you some tips to start the visit of the school and also to give you your permission card.
 
-It can be a person that does that to reinforce the realism, or a start menu.
+It can be a person who does that to reinforce the realism, or a start menu.
+
 
 # 6. User cases
 
 I will details the most common users cases that could append.
-For all user cases, they will already have choose their permission card and each category a specific permission card is detailed.
+For all user cases, they will already have choose their permission card and for each category, a specific permission card is detailed.
+
 
 ## A. Physical Visitor
 ### a. Entering empty room
 
-If a physical visitor want to open an empty room or a non-reserved rooms, he will have to walk to the desired romm.
+If a physical visitor wants to open an empty room or a non-reserved room, he will have to walk to the desired room.
 He will have to take the permission card given earlier and stick it to the lock.
 
-Since it's an empty room, he will have permission to open it.
-That way, the lock will make the allow sound and unlock the door.
+Since it's an empty room, he will have the permission to open it.
+On that way, the lock will make the allow sound and unlock the door.
 
 The user is now in the room.
 
+
 ### b. Entering occupied room
 
-If a physical visitor want to open an occupied room or reserved rooms, he will have to walk to the desired romm.
+If a physical visitor wants to open an occupied room or a reserved room, he will have to walk to the desired room.
 He will have to take the permission card given earlier and stick it to the lock.
 
-Since it's an occupied room, he will not have permission to open it.
-That way, the lock will make the deny sound.
+Since it's an occupied room, he will not have the permission to open it.
+On that way, the lock will make the deny sound.
 
 The user can't enter the room.
+
 
 ### c. Entering staff reserved room
 
-If a physical visitor want to open a staff reserved room, he will have to walk to the desired romm.
+If a physical visitor wants to open a staff reserved room, he will have to walk to the desired room.
 He will have to take the permission card given earlier and stick it to the lock.
 
-Since it's an staff reserved room, he will not have permission to open it.
-That way, the lock will make the deny sound.
+Since it's an staff reserved room, he will not have the permission to open it.
+On that way, the lock will make the deny sound.
 
 The user can't enter the room.
+
 
 ## B. Virtual Visitor
 ### a. Entering empty room
 
-If a virtual visitor want to open an empty room or a non-reserved rooms, he will have to walk to the desired romm.
+If a virtual visitor wants to open an empty room or a non-reserved room, he will have to walk to the desired room.
 He will have to take the permission card given earlier and stick it to the lock.
 
-Since it's an empty room, he will have permission to open it.
-That way, the lock will make the allow sound and unlock the door.
+Since it's an empty room, he will have the permission to open it.
+On that way, the lock will make the allow sound and unlock the door.
 
 The user is now in the room.
+
 
 ### b. Entering occupied room
 
-If a virtual visitor want to open an occupied room or reserved rooms, he will have to walk to the desired romm.
+If a virtual visitor wantx to open an occupied room or a reserved room, he will have to walk to the desired room.
 He will have to take the permission card given earlier and stick it to the lock.
 
-Since it's an occupied room, he will have permission to open it.
-That way, the lock will make the allow sound and unlock the door.
+Since it's an occupied room, he will have the permission to open it.
+On that way, the lock will make the allow sound and unlock the door.
 
 The user is now in the room.
+
 
 ### c. Entering staff reserved room
 
-If a virtual visitor want to open a staff reserved room, he will have to walk to the desired romm.
+If a virtual visitor wants to open a staff reserved room, he will have to walk to the desired room.
 He will have to take the permission card given earlier and stick it to the lock.
 
-Since it's an staff reserved room, he will have permission to open it.
-That way, the lock will make the allow sound and unlock the door.
+Since it's an staff reserved room, he will have the permission to open it.
+On that way, the lock will make the allow sound and unlock the door.
 
 The user is now in the room.
+
 
 ## C. Student
 ### a. Entering empty room
 
-If a student want to open an empty room or a non-reserved rooms, he will have to walk to the desired romm.
+If a student wants to open an empty room or a non-reserved room, he will have to walk to the desired room.
 He will have to take the permission card given earlier and stick it to the lock.
 
-Since it's an empty room, he will have permission to open it.
-That way, the lock will make the allow sound and unlock the door.
+Since it's an empty room, he will have the permission to open it.
+On that way, the lock will make the allow sound and unlock the door.
 
 The user is now in the room.
 
+
 ### b. Entering occupied room
 
-If a student want to open an occupied room or reserved rooms, he will have to walk to the desired romm.
+If a student wants to open an occupied room or reserved rooms, he will have to walk to the desired room.
 He will have to take the permission card given earlier and stick it to the lock.
 
-Since it's an occupied room, he will not have permission to open it.
-That way, the lock will make the deny sound.
+Since it's an occupied room, he will not have the permission to open it.
+On that way, the lock will make the deny sound.
 
 The user can't enter the room.
 
 **BUT**
 
-If the room is a room he previously booked for that hour,
-When he will stick his card to the lock it will make the allow unlock sound and allow the user to enter the room.
+If the room is a room he previously booked for that hour:
+- when he will stick his card to the lock, it will make the allow unlock sound and allow the user to enter the room.
 
 The user is now in the room.
 
+
 ### c. Entering staff reserved room
 
-If a student want to open a staff reserved room, he will have to walk to the desired romm.
+If a student wants to open a staff reserved room, he will have to walk to the desired room.
 He will have to take the permission card given earlier and stick it to the lock.
 
-Since it's an staff reserved room, he will not have permission to open it.
-That way, the lock will make the deny sound.
+Since it's an staff reserved room, he will not have the permission to open it.
+On that way, the lock will make the deny sound.
 
 The user can't enter the room.
 
+
 ### d. Booking a free room
 
-If a student want to book a room at a certain timetable he will have to go to the entrance.
-At the entrance you have the big tactile screen, identify himself on the screen.
+If a student wants to book a room at a certain timetable, he will have to go to the entrance.
+At the entrance, you have the big tactile screen, identify himself on the screen.
 
-Then select his desired timetable, and take a free room (displayed in green).
+Then, select his desired timetable, and take a free room (displayed in green).
 Specify the reason of the book and if privacy is needed (No for that case).
 
 Then the student have is room booked.
 
+
 ### e. Booking a reserved room
 
-If a student want to book a room at a certain timetable he will have to go to the entrance.
-At the entrance you have the big tactile screen, identify himself on the screen.
+If a student wants to book a room at a certain timetable, he will have to go to the entrance.
+At the entrance, you have the big tactile screen, identify himself on the screen.
 
-Then select his desired timetable, and take a reserved room (displayed in red).
+Then, select his desired timetable, and take a reserved room (displayed in red).
 He won't be able to go to the next step, and will have an error message.
 
 The student can't book this room.
 
+
 ### f. Booking a free room with privacy
 
-If a student want to book a room at a certain timetable he will have to go to the entrance.
-At the entrance you have the big tactile screen, identify himself on the screen.
+If a student wants to book a room at a certain timetable, he will have to go to the entrance.
+At the entrance, you have the big tactile screen, identify himself on the screen.
 
-Then select his desired timetable, and take a free room (displayed in green).
+Then, select his desired timetable, and take a free room (displayed in green).
 Specify the reason of the book and if privacy is needed (Yes for that case).
 
 For privacy rooms, the booking process have to be validate by a staff member of the School.
 
-If the process is validate then the student have is room booked.
+If the process is validate, the student will have is room booked.
 
-Otherwise the romm will not be booked and will be back to the free state.
+Otherwise, the room will not be booked and will be back to the free state.
+
 
 ### g. Booking a meeting room
 
-If a student want to book a meeting room at a certain timetable he will have to go to the entrance.
-At the entrance you have the big tactile screen, identify himself on the screen.
+If a student wants to book a meeting room at a certain timetable, he will have to go to the entrance.
+At the entrance, you have the big tactile screen, identify himself on the screen.
 
-Then select his desired timetable, and take a free room (displayed in green).
+Then, select his desired timetable, and take a free room (displayed in green).
 Specify the reason of the book and if privacy is needed.
 
 For meeting rooms, the booking process have to be validate by a staff member of the School.
 
-If the process is validate then the student have is room booked.
+If the process is validate, the student have is room booked.
 
-Otherwise the romm will not be booked and will be back to the free state.
+Otherwise, the room will not be booked and will be back to the free state.
+
 
 ## D. Staff
 ### a. Entering empty room
 
-If a staff member want to open an empty room or a non-reserved rooms, he will have to walk to the desired romm.
+If a staff member wants to open an empty room or a non-reserved room, he will have to walk to the desired romm.
 He will have to take the permission card given earlier and stick it to the lock.
 
-Since he's a staff member, he will have permission to open it.
+Since he's a staff member, he will have the permission to open it.
 That way, the lock will make the allow sound and unlock the door.
+
 
 ### b. Entering occupied room
 
-If a staff member want to open an occupied room or reserved room, he will have to walk to the desired romm.
+If a staff member wants to open an occupied room or reserved room, he will have to walk to the desired romm.
 He will have to take the permission card given earlier and stick it to the lock.
 
-Since he's a staff member, he will have permission to open it.
+Since he's a staff member, he will have the permission to open it.
 That way, the lock will make the allow sound and unlock the door.
+
 
 ### c. Entering Staff reserved room
 
-If a staff member want to open a staff reserved room (Stock or office), he will have to walk to the desired romm.
+If a staff member wants to open a staff reserved room (Stock or office), he will have to walk to the desired romm.
 He will have to take the permission card given earlier and stick it to the lock.
 
-Since he's a staff member, he will have permission to open it.
+Since he's a staff member, he will have the permission to open it.
 That way, the lock will make the allow sound and unlock the door.
+
 
 ### d. Booking a meeting room
 
-If a staff member want to book a room at a certain timetable he will have to go to the entrance.
+If a staff member wants to book a room at a certain timetable he will have to go to the entrance.
 At the entrance you have the big tactile screen, identify himself on the screen.
 
-Then select his desired timetable, and take a free room (displayed in green).
+Then, select his desired timetable, and take a free room (displayed in green).
 Specify the reason of the book and if privacy is needed.
 
 The staff member have is room booked.
