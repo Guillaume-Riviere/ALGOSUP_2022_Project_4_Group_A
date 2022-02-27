@@ -811,29 +811,29 @@ Otherwise, the room will not be booked and will be back to the free state.
 ## D. Staff
 ### a. Entering empty room
 
-If a staff member wants to open an empty room or a non-reserved room, he will have to walk to the desired romm.
+If a staff member wants to open an empty room or a non-reserved room, he will have to walk to the desired room.
 He will have to take the permission card given earlier and stick it to the lock.
 
 Since he's a staff member, he will have the permission to open it.
-That way, the lock will make the allow sound and unlock the door.
+On that way, the lock will make the allow sound and unlock the door.
 
 
 ### b. Entering occupied room
 
-If a staff member wants to open an occupied room or reserved room, he will have to walk to the desired romm.
+If a staff member wants to open an occupied room or reserved room, he will have to walk to the desired room.
 He will have to take the permission card given earlier and stick it to the lock.
 
 Since he's a staff member, he will have the permission to open it.
-That way, the lock will make the allow sound and unlock the door.
+On that way, the lock will make the allow sound and unlock the door.
 
 
 ### c. Entering Staff reserved room
 
-If a staff member wants to open a staff reserved room (Stock or office), he will have to walk to the desired romm.
+If a staff member wants to open a staff reserved room (Stock or office), he will have to walk to the desired room.
 He will have to take the permission card given earlier and stick it to the lock.
 
 Since he's a staff member, he will have the permission to open it.
-That way, the lock will make the allow sound and unlock the door.
+On that way, the lock will make the allow sound and unlock the door.
 
 
 ### d. Booking a meeting room
