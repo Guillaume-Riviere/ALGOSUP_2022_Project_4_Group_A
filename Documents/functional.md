@@ -846,3 +846,6 @@ Specify the reason of the book and if privacy is needed.
 
 The staff member have is room booked.
 He doesn't need to be validate by another staff member.
+
+Also, they will can do it on their computer, directly linked to the screen.
+It's a simpler way but it's good to have both ways working.
