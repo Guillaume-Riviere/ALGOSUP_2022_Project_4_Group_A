@@ -58,7 +58,7 @@ Table of Contents
     - [b. People in School](#b-people-in-school)
     - [c. Teleportation to short distance](#c-teleportation-to-short-distance)
     - [d. Welcome NPC](#d-welcome-npc)
-  - [6. Personaes](#6-Personaes)
+- [6. Personaes](#6-personaes)
 
 ---
 
@@ -464,7 +464,7 @@ Everyone must have a permission card to interact in the school (open room, booki
 
 All doors will require a permission access card in order to open it.
 Since the hall will be accessible by stranger, by Cpam's people and other people, it need to be securised.
-All Algosup users or staff will have different permissions in order to achieve that security.
+All ALGOSUP users or staff will have different permissions in order to achieve that security.
 
 ### a. Physical Visitor
 
@@ -569,3 +569,13 @@ Voleta DONATELLO
 Professors
 
 Students of other schools
+
+Floors
+
+Mourad BELKHASSEM is a male, he doesn't smoke, he warms his food at school. He is disabled. He comes to school on foot. On breaks, he is in room.
+
+Virginie GARCIA is a female, she doesn't smoke, she eats outside the school. She comes to school on scooter. On breaks, she is in room.
+
+Benoit HENOQUE is a male, he doesn't smoke, he goes out of school to get food. He comes to school on foot. On breaks, he is in room.
+
+Kevin LAUTO is a male, he smokes behind the school, he eats in his car. He comes to school on car. On breaks, he is behind the school.
