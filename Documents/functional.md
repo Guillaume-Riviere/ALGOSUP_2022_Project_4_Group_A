@@ -559,3 +559,9 @@ In that case it's here to give you some tips to start visit the school and also 
 It can be a person that does that to reinforce the realism, or a start menu.
 
 # 6. Personaes
+
+Students 
+
+Professors
+
+Students of other schools
