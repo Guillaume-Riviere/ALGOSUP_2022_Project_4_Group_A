@@ -88,7 +88,7 @@ Table of Contents
 
 # 1. Introduction
 
-The goal of the project is to provide a way to visit the future school as if we were in at the end of its construction.
+The goal of the project is to provide a way to visit the future school, in the B3, as if we were in at the end of its construction.
 It will be visitable by using **Virtual Reality** headset.
 
 It should be able to anticipate issues that could append in the school in real life and also a way to visit the school without being physically in it.
@@ -97,8 +97,8 @@ All logic systems should also be applied to the virtual environment as the real 
 
 Some scenarios should be possible to simulate in order to see what append in the school.
 
-It's a **realistic simulation**, it's not a video game. The goal is to build something as real as possible in all areas. It also means that physics have to be applied to objets, rooms, user.
-By physics we means no flight across walls, no permissions bypass not planned.
+It's a **realistic simulation**, it's not a video game. The goal is to build something as real as possible in all areas. It also means that physics have to be applied to objets, rooms, users.
+By physics, we means no flight across walls, no permissions bypass not planned.
 
 # 2. What's VR ? Why VR ?
 
@@ -113,7 +113,7 @@ VR could have been avoided but the immersion wouldn't have been as intense and r
 # 3. General Needs
 
 We need a realistic representation of the school, the closest that we can. 
-That include: 
+That must include: 
 - Working doors
 - Door lock
 - Ambient sounds
