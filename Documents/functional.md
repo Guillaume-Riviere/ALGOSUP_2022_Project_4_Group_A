@@ -562,9 +562,21 @@ It can be a person that does that to reinforce the realism, or a start menu.
 
 Students 
 
-Sebastien JUDOT is a male, he don't smoke, he warm his food at schol. He comes to school on an electric scooter. On breaks, he is in library.
+Sebastien JUDOT is a male, he don't smoke, he cook his food at school. He comes to school on an electric scooter. During the breaks he is in library.
 
-Voleta DONATELLO
+Voleta DONATELLO is a female, she don't smoke, she take her food outside and she cook it at school. She comes to shcool in car. During the break, she is in her classroom and in the corridor.
+
+Marshall SPLINTER is a male, he don't smoke, he take his food outside and don't cook it. He comes at school on his bike. During the break, he is in his classroom and in the corridor.
+
+Jeanne PANCREASSE is a female, she don't smoke, she eat outside the school. She come at school by walk. During the break, she drink cofee and she go in resting room.
+
+Emile SAVATTE is a male, he don't smoke, he take his food outside and don't cook it. He come at school by walk. During the break, he go to the toilet and in library.
+
+Jordan CAPUERA is a male, he smoke and eat outside the school. He come at school on his moto. During the break he drink cofee and go smoke at outside deck.
+
+Kimberley GONZALES is a female, she smoke and she cook and eat her food at school. She come at school by walk. She is disable. During the break, she go to the toilet and smoke at outside deck.
+
+Cindy PÏAIS is a female, she smoke and she cook and eat her food at school. She come at school by walk. During the break, she go to the toilet and smoke at outside deck.
 
 Professors
 
