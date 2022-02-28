@@ -562,6 +562,10 @@ It can be a person that does that to reinforce the realism, or a start menu.
 
 Students 
 
+Sebastien JUDOT is a male, he don't smoke, he warm his food at schol. He comes to school on an electric scooter. On breaks, he is in library.
+
+Voleta DONATELLO
+
 Professors
 
 Students of other schools
