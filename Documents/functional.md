@@ -584,12 +584,14 @@ Cindy PÏAIS is a female, she smokes and she cooks and eats her food at school. 
 Denis DALGO is a male, he don't smoke, he cooks and eats his food at school. He comes riding his bike. During breaks, he is in resting room.
 
 Timéo CAPUERA is a male, he don't smoke, he cooks and eats his food at school. He comes at school by car. During breaks, he is in resting room.
+
  
 ### c. Professors
 
 Hugo PATON is a C# Teatcher  is a Man , He smokes and for the lunch he uses the microwave to cook his meal. He comes by walk because he booked an hotel in the center of vierzon. During the break he goes to the front door with the other professors.
 
 Lolita FOURASE is a softskill teatcher is a woman, she doesn't smoke, she goes eat outside, she takes a cofee during the break and she goes to the front door with other professors.
+
 
 ### d. Students of other schools
 
