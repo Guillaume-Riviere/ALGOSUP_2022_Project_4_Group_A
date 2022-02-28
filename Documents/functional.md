@@ -562,10 +562,17 @@ It can be a person that does that to reinforce the realism, or a start menu.
 
 Students 
 
-Sebastien JUDOT is a male, he don't smoke, he warm his food at schol. He comes to school on an electric scooter. On breaks, he is in library.
+Sebastien JUDOT is a male, he don't smoke, he warm his food at school. He comes to school on an electric scooter. On breaks, he is in library.
 
 Voleta DONATELLO
 
 Professors
 
 Students of other schools
+
+Staff
+
+Denis DALGO is a male, he don't smoke, he cook his food at school. He comes riding his bike. During breaks, he is in resting room.
+
+Timéo CAPUERA is a male, he don't smoke, he cook his food at school. He comes at school by car. During breaks, he is in resting room.
+ 
