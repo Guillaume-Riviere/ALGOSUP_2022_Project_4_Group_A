@@ -562,41 +562,41 @@ It can be a person that does that to reinforce the realism, or a start menu.
 
 ### a. Students 
 
-Sebastien JUDOT is a male, he don't smoke, he warm his food at school. He comes to school on an electric scooter. On breaks, he is in library.
+Sebastien JUDOT is a male, he doesn't smokes, he warms his food at school. He comes to school on an electric scooter. On breaks, he is in library.
 
-Voleta DONATELLO is a female, she don't smoke, she take her food outside and she cook it at school. She comes to shcool in car. During the break, she is in her classroom and in the corridor.
+Voleta DONATELLO is a female, she doesn't smokes, she takes her food outside and she cooks it at school. She comes to shcool in car. During the break, she is in her classroom and in the corridor.
 
-Marshall SPLINTER is a male, he don't smoke, he take his food outside and don't cook it. He comes at school on his bike. During the break, he is in his classroom and in the corridor.
+Marshall SPLINTER is a male, he doesn't smokes, he takes his food outside and doesn't cooks it. He comes at school on his bike. During the break, he is in his classroom and in the corridor.
 
-Jeanne PANCREASSE is a female, she don't smoke, she eat outside the school. She come at school by walk. During the break, she drink cofee and she go in resting room.
+Jeanne PANCREASSE is a female, she doesn't smokes, she eats outside the school. She comes at school by walk. During the break, she drinks cofee and she goes in resting room.
 
-Emile SAVATTE is a male, he don't smoke, he take his food outside and don't cook it. He come at school by walk. During the break, he go to the toilet and in library.
+Emile SAVATTE is a male, he doesn't smokes, he takes his food outside and he don't cooks it. He comes at school by walk. During the break, he goes to the toilet and in library.
 
-Jordan CAPUERA is a male, he smoke and eat outside the school. He come at school on his moto. During the break he drink cofee and go smoke at outside deck.
+Jordan CAPUERA is a male, he smoke and eat outside the school. He comes at school on his moto. During the break he drinks cofee and goes smoke at outside deck.
 
-Kimberley GONZALES is a female, she smoke and she cook and eat her food at school. She come at school by walk. She is disable. During the break, she go to the toilet and smoke at outside deck.
+Kimberley GONZALES is a female, she smokes and she cooks and eat her food at school. She comes at school by walk. She is disable. During the break, she goes to the toilet and smokes at outside deck.
 
-Cindy PÏAIS is a female, she smoke and she cook and eat her food at school. She come at school by walk. During the break, she go to the toilet and smoke at outside deck.
+Cindy PÏAIS is a female, she smokes and she cooks and eats her food at school. She comes at school by walk. During the break, she goes to the toilet and smokes at outside deck.
 
 
 ### b. Staff
 
-Denis DALGO is a male, he don't smoke, he cook his food at school. He comes riding his bike. During breaks, he is in resting room.
+Denis DALGO is a male, he don't smoke, he cooks and eats his food at school. He comes riding his bike. During breaks, he is in resting room.
 
-Timéo CAPUERA is a male, he don't smoke, he cook his food at school. He comes at school by car. During breaks, he is in resting room.
+Timéo CAPUERA is a male, he don't smoke, he cooks and eats his food at school. He comes at school by car. During breaks, he is in resting room.
  
 ### c. Professors
 
-Hugo PATON is a C# Teatcher  is a Man , He smokes and for the lunch  He uses the microwave to cook his meal  , He comes by walk because He booked an hotel in the center of vierzon. During the break He go to the front door if the other proffessors.
+Hugo PATON is a C# Teatcher  is a Man , He smokes and for the lunch he uses the microwave to cook his meal. He comes by walk because he booked an hotel in the center of vierzon. During the break he goes to the front door with the other professors.
 
-Lolita FOURASE is a SoftSkill Teatcher is a Woman , She does't smoke , She goes eat outside , she takes a cafe during the break and she goes to the front door.
+Lolita FOURASE is a softskill teatcher is a woman, she doesn't smoke, she goes eat outside, she takes a cofee during the break and she goes to the front door with other professors.
 
 ### d. Students of other schools
 
-Mourad BELKHASSEM is a male, he doesn't smoke, he warms his food at school. He is disabled. He comes to school on foot. On breaks, he is in room.
+Mourad BELKHASSEM is a male, he doesn't smoke, he warms his food at school. He is disabled. He comes to school by walk. On breaks, he is in room.
 
-Virginie GARCIA is a female, she doesn't smoke, she eats outside the school. She comes to school on scooter. On breaks, she is in room.
+Virginie GARCIA is a female, she doesn't smoke, she eats outside the school. She comes to school on electric scooter. On breaks, she is in room.
 
-Benoit HENOQUE is a male, he doesn't smoke, he goes out of school to get food. He comes to school on foot. On breaks, he is in room.
+Benoit HENOQUE is a male, he doesn't smoke, he takes is food outside and doesn't cook it. He comes to school by walk. On breaks, he stay in his classroom.
 
-Kevin LAUTO is a male, he smokes behind the school, he eats in his car. He comes to school on car. On breaks, he is behind the school.
+Kevin LAUTO is a male, he is a smokers, he eats outside school the school. He comes to school by car. On breaks, he smoke at outside deck.
