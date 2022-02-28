@@ -562,15 +562,15 @@ It can be a person that does that to reinforce the realism, or a start menu.
 
 ### a. Students 
 
-Sebastien JUDOT is a male, he doesn't smokes, he warms his food at school. He comes to school on an electric scooter. On breaks, he is in library.
+Sebastien JUDOT is a male, he doesn't smoke, he warms his food at school. He comes to school on an electric scooter. On breaks, he is in library.
 
-Voleta DONATELLO is a female, she doesn't smokes, she takes her food outside and she cooks it at school. She comes to shcool in car. During the break, she is in her classroom and in the corridor.
+Voleta DONATELLO is a female, she doesn't smoke, she takes her food outside and she cooks it at school. She comes to shcool in car. During the break, she is in her classroom and in the corridor.
 
-Marshall SPLINTER is a male, he doesn't smokes, he takes his food outside and doesn't cooks it. He comes at school on his bike. During the break, he is in his classroom and in the corridor.
+Marshall SPLINTER is a male, he doesn't smoke, he takes his food outside and doesn't cooks it. He comes at school on his bike. During the break, he is in his classroom and in the corridor.
 
-Jeanne PANCREASSE is a female, she doesn't smokes, she eats outside the school. She comes at school by walk. During the break, she drinks cofee and she goes in resting room.
+Jeanne PANCREASSE is a female, she doesn't smoke, she eats outside the school. She comes at school by walk. During the break, she drinks cofee and she goes in resting room.
 
-Emile SAVATTE is a male, he doesn't smokes, he takes his food outside and he don't cooks it. He comes at school by walk. During the break, he goes to the toilet and in library.
+Emile SAVATTE is a male, he doesn't smoke, he takes his food outside and he don't cooks it. He comes at school by walk. During the break, he goes to the toilet and in library.
 
 Jordan CAPUERA is a male, he smoke and eat outside the school. He comes at school on his moto. During the break he drinks cofee and goes smoke at outside deck.
 
@@ -581,15 +581,15 @@ Cindy PÏAIS is a female, she smokes and she cooks and eats her food at school. 
 
 ### b. Staff
 
-Denis DALGO is a male, he don't smoke, he cooks and eats his food at school. He comes riding his bike. During breaks, he is in resting room.
+Denis DALGO is a male, he doesn't smoke, he cooks and eats his food at school. He comes riding his bike. During breaks, he is in resting room.
 
-Timéo CAPUERA is a male, he don't smoke, he cooks and eats his food at school. He comes at school by car. During breaks, he is in resting room.
+Timéo CAPUERA is a male, he doesn't smoke, he cooks and eats his food at school. He comes at school by car. During breaks  he stays in resting room.
  
 ### c. Professors
 
-Hugo PATON is a C# Teatcher  is a Man , He smokes and for the lunch he uses the microwave to cook his meal. He comes by walk because he booked an hotel in the center of vierzon. During the break he goes to the front door with the other professors.
+Hugo PATON is a C# Teatcher  is a male , He smokes and for the lunch he uses the microwave to cook his meal. He comes by walk because he booked an hotel in the center of vierzon. During the break he goes to the front door with the other professors.
 
-Lolita FOURASE is a softskill teatcher is a woman, she doesn't smoke, she goes eat outside, she takes a cofee during the break and she goes to the front door with other professors.
+Lolita FOURASE is a softskill teatcher is a female, she doesn't smoke, she goes eat outside, she takes a cofee during the break and she goes to the front door with other professors.
 
 ### d. Students of other schools
 
@@ -599,4 +599,4 @@ Virginie GARCIA is a female, she doesn't smoke, she eats outside the school. She
 
 Benoit HENOQUE is a male, he doesn't smoke, he takes is food outside and doesn't cook it. He comes to school by walk. On breaks, he stay in his classroom.
 
-Kevin LAUTO is a male, he is a smokers, he eats outside school the school. He comes to school by car. On breaks, he smoke at outside deck.
+Kevin LAUTO is a male, he smokes, he eats outside school the school. He comes to school by car. On breaks, he smoke at outside deck.
