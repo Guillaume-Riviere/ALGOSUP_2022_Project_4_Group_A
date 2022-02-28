@@ -562,6 +562,10 @@ It can be a person that does that to reinforce the realism, or a start menu.
 
 Students 
 
+Sebastien JUDOT is a male, he don't smoke, he warm his food at schol. He comes to school on an electric scooter. On breaks, he is in library.
+
+Voleta DONATELLO
+
 Professors
 
 Hugo Paton is a C# Teatcher  is a Man , He smokes and for the lunch  He uses the microwave to cook his meal  , He comes by walk because He booked an hotel in the center of vierzon. During the break He go to the front door if the other proffessors.
