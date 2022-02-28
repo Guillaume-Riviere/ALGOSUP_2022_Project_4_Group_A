@@ -562,7 +562,7 @@ It can be a person that does that to reinforce the realism, or a start menu.
 
 Students 
 
-Sebastien JUDOT is a male, he don't smoke, he cook his food at school. He comes to school on an electric scooter. During the breaks he is in library.
+Sebastien JUDOT is a male, he don't smoke, he warm his food at school. He comes to school on an electric scooter. On breaks, he is in library.
 
 Voleta DONATELLO is a female, she don't smoke, she take her food outside and she cook it at school. She comes to shcool in car. During the break, she is in her classroom and in the corridor.
 
@@ -579,5 +579,17 @@ Kimberley GONZALES is a female, she smoke and she cook and eat her food at schoo
 Cindy PÏAIS is a female, she smoke and she cook and eat her food at school. She come at school by walk. During the break, she go to the toilet and smoke at outside deck.
 
 Professors
+
+Students of other schools
+
+Staff
+
+Denis DALGO is a male, he don't smoke, he cook his food at school. He comes riding his bike. During breaks, he is in resting room.
+
+Timéo CAPUERA is a male, he don't smoke, he cook his food at school. He comes at school by car. During breaks, he is in resting room.
+ 
+Hugo PATON is a C# Teatcher  is a Man , He smokes and for the lunch  He uses the microwave to cook his meal  , He comes by walk because He booked an hotel in the center of vierzon. During the break He go to the front door if the other proffessors.
+
+Lolita FOURASE is a SoftSkill Teatcher is a Woman , She does't smoke , She goes eat outside , she takes a cafe during the break and she goes to the front door.
 
 Students of other schools
