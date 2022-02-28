@@ -564,4 +564,8 @@ Students
 
 Professors
 
+Hugo Paton is a C# Teatcher  is a Man , He smokes and for the lunch  He uses the microwave to cook his meal  , He comes by walk because He booked an hotel in the center of vierzon. During the break He go to the front door if the other proffessors.
+
+Lolita Fourase is a SoftSkill Teatcher is a Woman , She does't smoke , She goes eat outside , she takes a cafe during break and go to the front door.
+
 Students of other schools
