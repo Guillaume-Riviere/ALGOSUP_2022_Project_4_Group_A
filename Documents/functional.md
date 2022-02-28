@@ -591,6 +591,7 @@ Hugo PATON is a C# Teatcher  is a male , He smokes and for the lunch he uses the
 
 Lolita FOURASE is a softskill teatcher is a female, she doesn't smoke, she goes eat outside, she takes a cofee during the break and she goes to the front door with other professors.
 
+
 ### d. Students of other schools
 
 Mourad BELKHASSEM is a male, he doesn't smoke, he warms his food at school. He is disabled. He comes to school by walk. On breaks, he is in room.
