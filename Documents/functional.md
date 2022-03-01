@@ -599,7 +599,13 @@ During the 1st break at 10:45AM, he likes to go on library to read or just speak
 ### d. Jeanne PANCREASSE
 ### e. Emile SAVATTE
 ### f. Jordan CAPUERA 
+
+Jordan CAPUERA start his day at 7:40AM, he live with his parents. He left his home at 8:30AM and arrives at ALGOSUP with his moto. Before enter in school, he smoke at front deck. At 9AM he go in his project group. During the first break of the day at 10:45AM, he likes to smokes at outside deck with friends. After smoking, he go to the toilet and at 11AM he return to his project room for work on the project. At lunch time, he eat outside the school, at his home, at a fast food or he buys a sandwich. At 13:30PM he goes to english room to follow an english class. During the break of 15:15PM, he go smoke at outside deck with friends. At 15:30PM he return to english class. At 17PM, he take his moto and go back home. He doesn't really work at home.
+
 ### g. Kimberley GONZALES
+
+Kimberley GONZALES start her day at 7AM. She start her day with makeup and breakfast and leave her appartment at 8:40AM. Cindy PÏAIS, her friend, pick her in front of where she lives because she can't walk because she have a broken leg and she have crutch. They arrives at school at 8:50AM, smoke a cigaret in front of the school before enter in school. At 9AM, Kimberley come to english room and follow english class. During the first break, she come at outside deck for smoke with friends. After smoking, she go to toilet and come back to english room at 11AM. At lunch time, she cook her food in the school's kitchen. After eating she go smoke. At 13:30PM, she goes to a project room to work on project. At 15:15, during the break, she goes smoke at outside deck and go to toilet right after. At 15:30PM, she come back to her project room. At 17AM, Cindy pick her and they come back at there home.
+
 ### h. Cindy PÏAIS
 
 
