@@ -611,5 +611,5 @@ Kevin LAUTO is a huge smoker. He consider himself as a Gypsy. He know personally
 
 ### a. Students 
 
-Sebastien JUDOT start his day at 8AM, he left his home a quarter hour before the school starts and go at school with his electric scooter. At 9AM, he goes on amphitheater to follow the first monday of month meeting.
-During the 1st break at 10:45AM, he likes to go on library to read or just speak with his friends quietly. After the break, he continues his morning with project time until the launch. During the lunch, he warms his food that is cooked by his mother the day before. During the afternnon, he return in his project room to work with his team. He ends his day with a return on electric scooter and continue to work on his personnal project at home.
+Sebastien JUDOT starts his day at 8AM, he left his home a quarter hour before the school starts and goes at school with his electric scooter. At 9AM, he goes on amphitheater to follow the first monday of month meeting.
+During the 1st break at 10:45AM, he likes to go on the library to read or just to speak with his friends quietly. After the break, he continues his morning with project time until the launch. During the lunch, he warms his food that is cooked by his mother the day before. During the afternoon, he returns in his project room to work with his team. He ends his day at 5pm. He goes back at his home and continues to work on his personnal project at home.
