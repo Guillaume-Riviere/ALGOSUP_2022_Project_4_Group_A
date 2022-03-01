@@ -547,7 +547,7 @@ Some person will be user of school, some can be visitors, on even stranger.
 ### c. Teleportation to short distance
 
 We'll be able to teleport the user to a place , to avoid the walk time and lost time during a presentation
-and if the customer want to see a specific room or place.
+and if the customer want to see a specific room or place.t
 
 ### d. Welcome NPC 
 
@@ -581,7 +581,7 @@ Cindy PÏAIS is a female, she smokes and she cooks and eats her food at school. 
 
 ### b. Staff
 
-Denis DALGO is a male, he doesn't smoke, he cooks and eats his food at school. He comes riding his bike. During breaks, he is in resting room.
+Denis DALGO is a male, he doesn't smoke, he likes cooking, he prepared his lunch each evening , so he just need to warms his food that he brings. He comes riding his bike because his appartenent isn't far away. During breaks he likes feel alone and listen to music, he go in resting room on a sofa.
 
 Timéo CAPUERA is a male, he doesn't smoke, he cooks and eats his food at school. He comes at school by car. During breaks  he stays in resting room.
  
