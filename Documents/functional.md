@@ -583,20 +583,20 @@ Cindy PÏAIS is a female, she smokes and she cooks and eats her food at school. 
 
 Denis DALGO is a male, he doesn't smoke, he likes cooking, he prepared his lunch each evening , so he just need to warms his food that he brings. He comes riding his bike because his appartenent isn't far away. During breaks he likes feel alone and listen to music, he go in resting room on a sofa.
 
-Timéo CAPUERA is a male, he doesn't smoke, he cooks and eats his food at school. He comes at school by car. During breaks  he stays in resting room.
+Timéo CAPUERA is a male, he doesn't smoke, he cooks and eats his food at school. He comes at school by car. During breaks he stays in resting room.
  
 ### c. Professors
 
-Hugo PATON is a C# Teatcher  is a male , He smokes and for the lunch he uses the microwave to cook his meal. He comes by walk because he booked an hotel in the center of vierzon. During the break he goes to the front door with the other professors.
+Hugo PATON is a C# Teacher from Canada. He comes by train to the train station and by walk to the school every morning. So he just brings a little bowl of food and he cooks it in the resting room at lunch time. During the break he goes to the front door with the other professors and he smokes his cigarette before coming back in the amphitheater.
 
-Lolita FOURASE is a softskill teatcher is a female, she doesn't smoke, she goes eat outside, she takes a cofee during the break and she goes to the front door with other professors.
+Lolita FOURASSE is a softskill teacher from Vierzon. She comes by car to the school because it's easier for her, so she enter the school by the back door. She is not a good cook so she prefer go to Carrefour Market or snacks to eat at lunch time. At the break she takes a coffee and she goes to the front door with other professors.
 
 
 ### d. Students of other schools
 
-Mourad BELKHASSEM is a male, he doesn't smoke, he warms his food at school. He is disabled. He comes to school by walk. On breaks, he is in room.
+Mourad BELKHASSEM is a male, he doesn't smoke, he warms his food at school. He is disabled. He comes to school by walk. On breaks, he is in his room.
 
-Virginie GARCIA is a female, she doesn't smoke, she eats outside the school. She comes to school on electric scooter. On breaks, she is in room.
+Virginie GARCIA is a female, she doesn't smoke, she eats outside the school. She comes to school on electric scooter. On breaks, she is in her room.
 
 Benoit HENOQUE is a male, he doesn't smoke, he takes is food outside and doesn't cook it. He comes to school by walk. On breaks, he stay in his classroom.
 
