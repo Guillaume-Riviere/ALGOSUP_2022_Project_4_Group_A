@@ -630,6 +630,9 @@ Cindy PÏAIS starts her day at eight, she leaves her home ten minutes before the
 
 ## C. Professors
 ### a. Hugo PATON
+
+Hugo PATON starts his day at 8AM, he leaves his hotel at 8:30AM and arrives by walk around 8:40AM to prepare his course before students arrival. He gives his C# course until the break and goes to smoke with other professors, when the break is finish, he returns in his room to the lauch break. During this, he prepares his food and taste it. After that he continue to give his course before the end of the day.
+
 ### b. Lolita FOURASSE
 
 ## D. Students of other schools
