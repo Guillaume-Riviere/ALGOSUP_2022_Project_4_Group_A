@@ -55,15 +55,6 @@ Table of Contents
     - [d. Welcome NPC](#d-welcome-npc)
 - [6. Personaes](#6-personaes)
   - [a. Students](#a-students)
-  - [b. Staff](#b-staff)
-  - [c. Professors](#c-professors)
-  - [d. Students of other schools](#d-students-of-other-schools)
-    - [a. Mourad BELKHASSEM](#a-mourad-belkhassem)
-    - [b. Virginie GARCIA](#b-virginie-garcia)
-    - [c. Benoit HENOQUE](#c-benoit-henoque)
-    - [d. Kevin LAUTO](#d-kevin-lauto)
-- [7. User cases](#7-user-cases)
-    - [A. Students](#a-students-1)
     - [a. Sebastien JUDOT](#a-sebastien-judot)
     - [b. Voleta DONATELLO](#b-voleta-donatello)
     - [c. Marshall SPLINTER](#c-marshall-splinter)
@@ -72,12 +63,33 @@ Table of Contents
     - [f. Jordan CAPUERA](#f-jordan-capuera)
     - [g. Kimberley GONZALES](#g-kimberley-gonzales)
     - [h. Cindy PÏAIS](#h-cindy-pïais)
-  - [B. Staff](#b-staff-1)
+  - [b. Staff](#b-staff)
     - [a. Denis DALGO](#a-denis-dalgo)
     - [b. Timéo CAPUERA](#b-timéo-capuera)
-  - [C. Professors](#c-professors-1)
+  - [c. Professors](#c-professors)
     - [a. Hugo PATON](#a-hugo-paton)
     - [b. Lolita FOURASSE](#b-lolita-fourasse)
+  - [d. Students of other schools](#d-students-of-other-schools)
+    - [a. Mourad BELKHASSEM](#a-mourad-belkhassem)
+    - [b. Virginie GARCIA](#b-virginie-garcia)
+    - [c. Benoit HENOQUE](#c-benoit-henoque)
+    - [d. Kevin LAUTO](#d-kevin-lauto)
+- [7. User cases](#7-user-cases)
+  - [A. Students](#a-students-1)
+    - [a. Sebastien JUDOT](#a-sebastien-judot-1)
+    - [b. Voleta DONATELLO](#b-voleta-donatello-1)
+    - [c. Marshall SPLINTER](#c-marshall-splinter-1)
+    - [d. Jeanne PANCREASSE](#d-jeanne-pancreasse-1)
+    - [e. Emile SAVATTE](#e-emile-savatte-1)
+    - [f. Jordan CAPUERA](#f-jordan-capuera-1)
+    - [g. Kimberley GONZALES](#g-kimberley-gonzales-1)
+    - [h. Cindy PÏAIS](#h-cindy-pïais-1)
+  - [B. Staff](#b-staff-1)
+    - [a. Denis DALGO](#a-denis-dalgo-1)
+    - [b. Timéo CAPUERA](#b-timéo-capuera-1)
+  - [C. Professors](#c-professors-1)
+    - [a. Hugo PATON](#a-hugo-paton-1)
+    - [b. Lolita FOURASSE](#b-lolita-fourasse-1)
   - [D. Students of other schools](#d-students-of-other-schools-1)
     - [a. Mourad BELKHASSEM](#a-mourad-belkhassem-1)
     - [b. Virginie GARCIA](#b-virginie-garcia-1)
@@ -545,34 +557,38 @@ It can be a person that does that to reinforce the realism, or a start menu.
 # 6. Personaes
 
 ## a. Students 
+### a. Sebastien JUDOT
+Sebastien JUDOT is a model student. He perfoms really good in school and eat healthy. He prefers to cook himself. He doesn't live that close to the school and had to find a way to travel through the city. He love reading any kinda of books.
 
-Sebastien JUDOT is a male, he doesn't smoke, he warms his food at school. He comes to school on an electric scooter. On breaks, he is in library.
+### b. Voleta DONATELLO
+Voleta DONATELLO is Italian and doesn't speak much french. She doesn't like french food at all. She lives in Bourges and has a car. Sometimes she likes to be alone and sometimes hanging out in hallways, either she talk to her friends, or she go on her phone.
 
-Voleta DONATELLO is a female, she doesn't smoke, she takes her food outside and she reheats his food. She comes to shcool by car. During the break, she is in her classroom and in the corridor.
+### c. Marshall SPLINTER
+Marshall SPLINTER is a good friend of Voleta. He destroyed his car and have to bike to come to school. He likes being with Voleta, that way he learn a little bit of italian and she learn a little bit of french.
 
-Marshall SPLINTER is a male, he doesn't smoke, he takes his food outside and doesn't cooks it. He comes at school on his bike. During the break, he is in his classroom and in the corridor.
-
-Jeanne PANCREASSE is a female, she doesn't smoke, she eats outside the school. She comes at school by walk. During the break, she drinks cofee and she goes in resting room.
-
-Emile SAVATTE is a male, he doesn't smoke, he takes his food outside and he don't cooks it. He comes at school by walk. During the break, he goes to the toilet and in library.
-
-Jordan CAPUERA is a male, he smoke and eat outside the school. He comes at school on his moto. During the break he drinks cofee and goes smoke at outside deck.
-
-Kimberley GONZALES is a female, she smokes and she cooks and eat her food at school. She comes at school by walk. She is disable. During the break, she goes to the toilet and smokes at outside deck.
-
-Cindy PÏAIS is a female, she smokes and she cooks and eats her food at school. She comes at school by walk. During the break, she goes to the toilet and smokes at outside deck.
+### d. Jeanne PANCREASSE
+Jeanne PANCREASSE doesn't likes eating in front of people. Her parents drops her each morning in front of the school. Jeanne is a coffee lover she drinks some as soon as she can.
+### e. Emile SAVATTE
+Emile SAVATTE lives pretty farm away from Vierzon. And doesn't like cooking. He really love taking any kind of informations, that's why he love reading and searching a lot of informations.
+### f. Jordan CAPUERA 
+Jordan CAPUERA recently started smoking, he started smoking on hollidays before school. He is in couple with Jeanne and spend msot of his time with her, specially when it's lunch time.
+He's 17 years old and can only drive his moto for the momment. He also drink one or two coffees a day.
+### g. Kimberley GONZALES
+Kimberley GONZALES started smoking with her friend Cindy a few years ago. Recently she broke her leg in holydays, and can't really move far aways from school unless her friend help her. She usually walks a lot, but she isn't able to right now.
+### h. Cindy PÏAIS
+Cindy PÏAIS is best friend with Kimberley. She support her friend that can't eat outside and started recently to cooks for her, she loves it.  Her parents drops her and Kimberley in front of the school. She follows and help Kimberley during the day. 
 
 
 ## b. Staff
-
-Denis DALGO is a male, he doesn't smoke, he likes cooking, he prepared his lunch each evening , so he just need to warms his food that he brings. He comes riding his bike because his appartenent isn't far away. During breaks he likes feel alone and listen to music, he go in resting room on a sofa.
-
-Timéo CAPUERA is a male, he doesn't smoke, his wife prepared his lunch each day so he doesn't need to go outside. He comes at school by car, even if he leave near of the school he needs to bring some stuff with him so he can't take his bike. During breaks  he stays in resting room.
+### a. Denis DALGO
+Denis DALGO loves cooking, he prepare his lunch each evening. He is an ecological person, he own a car but doesn't live that far from the school. He is a music lover, that's his way to rest for a bit.
+### b. Timéo CAPUERA
+Timéo CAPUERA have a beautiful wife that cooks really well. He is 35 years old and come by car mainly because his brings a lot a stuff that are needed for his lessons. He likes being close to the students, and meets them at each breaks in the student resting room.
  
 ## c. Professors
-
+### a. Hugo PATON
 Hugo PATON is a C# Teacher from Canada. He comes by train to the train station and by walk to the school every morning. So he just brings a little bowl of food and he cooks it in the resting room at lunch time. During the break he goes to the front door with the other professors and he smokes his cigarette before coming back in the amphitheater.
-
+### b. Lolita FOURASSE
 Lolita FOURASSE is a softskill teacher from Vierzon. She comes by car to the school because it's easier for her, so she enter the school by the back door. She is not a good cook so she prefer go to Carrefour Market or snacks to eat at lunch time. At the break she takes a coffee and she goes to the front door with other professors.
 
 ## d. Students of other schools
@@ -587,7 +603,7 @@ Kevin LAUTO is a huge smoker. He consider himself as a Gypsy. He know personally
 
 # 7. User cases
 
-### A. Students
+## A. Students
 
 ### a. Sebastien JUDOT
 
