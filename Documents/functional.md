@@ -62,11 +62,11 @@ Table of Contents
   - [A. Students](#a-students)
     - [a. Sebastien JUDOT](#a-sebastien-judot)
     - [b. Voleta DONATELLO](#b-voleta-donatello)
-    - [c.Marshall SPLINTER](#cmarshall-splinter)
-    - [d.Jeanne PANCREASSE](#djeanne-pancreasse)
-    - [e.Emile SAVATTE](#eemile-savatte)
-    - [f.Jordan CAPUERA](#fjordan-capuera)
-    - [g.Kimberley GONZALES](#gkimberley-gonzales)
+    - [c. Marshall SPLINTER](#c-marshall-splinter)
+    - [d. Jeanne PANCREASSE](#d-jeanne-pancreasse)
+    - [e. Emile SAVATTE](#e-emile-savatte)
+    - [f. Jordan CAPUERA](#f-jordan-capuera)
+    - [g. Kimberley GONZALES](#g-kimberley-gonzales)
     - [h. Cindy PÏAIS](#h-cindy-pïais)
   - [B. Staff](#b-staff)
     - [a. Denis DALGO](#a-denis-dalgo)
@@ -83,11 +83,11 @@ Table of Contents
   - [A. Students](#a-students-1)
     - [a. Sebastien JUDOT](#a-sebastien-judot-1)
     - [b. Voleta DONATELLO](#b-voleta-donatello-1)
-    - [c. Marshall SPLINTER](#c-marshall-splinter)
-    - [d. Jeanne PANCREASSE](#d-jeanne-pancreasse)
-    - [e. Emile SAVATTE](#e-emile-savatte)
-    - [f. Jordan CAPUERA](#f-jordan-capuera)
-    - [g. Kimberley GONZALES](#g-kimberley-gonzales)
+    - [c. Marshall SPLINTER](#c-marshall-splinter-1)
+    - [d. Jeanne PANCREASSE](#d-jeanne-pancreasse-1)
+    - [e. Emile SAVATTE](#e-emile-savatte-1)
+    - [f. Jordan CAPUERA](#f-jordan-capuera-1)
+    - [g. Kimberley GONZALES](#g-kimberley-gonzales-1)
     - [h. Cindy PÏAIS](#h-cindy-pïais-1)
   - [B. Staff](#b-staff-1)
     - [a. Denis DALGO](#a-denis-dalgo-1)
@@ -606,15 +606,15 @@ It can be a person that does that to reinforce the realism, or a start menu.
 Sebastien JUDOT is a male, he doesn't smoke, he warms his food at school. He comes to school on an electric scooter. On breaks, he is in library.
 ### b. Voleta DONATELLO
 Voleta DONATELLO is a female, she doesn't smoke, she takes her food outside and she cooks it at school. She comes to shcool in car. During the break, she is in her classroom and in the corridor.
-### c.Marshall SPLINTER
+### c. Marshall SPLINTER
 Marshall SPLINTER is a male, he doesn't smoke, he takes his food outside and doesn't cooks it. He comes at school on his bike. During the break, he is in his classroom and in the corridor.
-### d.Jeanne PANCREASSE
+### d. Jeanne PANCREASSE
 Jeanne PANCREASSE is a female, she doesn't smoke, she eats outside the school. She comes at school by walk. During the break, she drinks cofee and she goes in resting room.
-### e.Emile SAVATTE
+### e. Emile SAVATTE
 Emile SAVATTE is a male, he doesn't smoke, he takes his food outside and he don't cooks it. He comes at school by walk. During the break, he goes to the toilet and in library.
-### f.Jordan CAPUERA 
+### f. Jordan CAPUERA 
 Jordan CAPUERA is a male, he smoke and eat outside the school. He comes at school on his moto. During the break he drinks cofee and goes smoke at outside deck.
-### g.Kimberley GONZALES
+### g. Kimberley GONZALES
 Kimberley GONZALES is a female, she smokes and she cooks and eat her food at school. She comes at school by walk. She is disable. During the break, she goes to the toilet and smokes at outside deck.
 ### h. Cindy PÏAIS
 Cindy PÏAIS is a female, she smokes and she cooks and eats her food at school. She comes at school by walk. During the break, she goes to the toilet and smokes at outside deck.
