@@ -587,10 +587,9 @@ Timéo CAPUERA is a male, he doesn't smoke, his wife prepared his lunch each day
  
 ### c. Professors
 
-Hugo PATON is a C# Teatcher  is a male , He smokes and for the lunch he uses the microwave to cook his meal. He comes by walk because he booked an hotel in the center of vierzon. During the break he goes to the front door with the other professors.
+Hugo PATON is a C# Teacher from Canada. He comes by train to the train station and by walk to the school every morning. So he just brings a little bowl of food and he cooks it in the resting room at lunch time. During the break he goes to the front door with the other professors and he smokes his cigarette before coming back in the amphitheater.
 
-Lolita FOURASE is a softskill teatcher is a female, she doesn't smoke, she goes eat outside, she takes a cofee during the break and she goes to the front door with other professors.
-
+Lolita FOURASSE is a softskill teacher from Vierzon. She comes by car to the school because it's easier for her, so she enter the school by the back door. She is not a good cook so she prefer go to Carrefour Market or snacks to eat at lunch time. At the break she takes a coffee and she goes to the front door with other professors.
 
 ### d. Students of other schools
 
