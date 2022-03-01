@@ -608,7 +608,7 @@ Jeanne PANCREASSE starts his day at 8:30AM, she left her home five minutes befor
 
 ### e. Emile SAVATTE
 
-Emile SAVATTE wake up at 8AM, he eat his breakfast before living his house at 8:40AM. He takes 15 min to come by walk to ALGOSUP. He arrives at 8:55AM at school. At 9AM, he goes in amphitheater to follow the first monday of month meeting. During the 1st break at 10:45AM, he goes to toilets during 2 min before going to library. After the break, he continues his morning with project time until the lunch. He leaves school at 00:30PM to buy his lunch. He come back at 1:15PM and go back to library. At 2:00PM he goes in english class until 5PM. He comes back to home by walk directly.
+Emile SAVATTE wake up at 8AM, he eat his breakfast before living his house at 8:40AM. He takes 15 min to come by walk to ALGOSUP. He arrives at 8:55AM at school. At 9AM, he goes in amphitheater to follow the first monday of month meeting. During the 1st break at 10:45AM, he goes to toilets during 2 minutes before going to library. After the break, he continues his morning with project time until the lunch. He leaves school at 00:30PM to buy his lunch. He come back at 1:15PM and go back to library. At 2:00PM he goes in english class until 5PM. He comes back to home by walk directly.
 
 ### f. Jordan CAPUERA 
 
@@ -620,7 +620,7 @@ Kimberley GONZALES start her day at 7AM. She start her day with makeup and break
 
 ### h. Cindy PÏAIS
 
-Cindy PÏAIS starts her day at eight, she leaves her home ten minutes before the school. At 9AM, she goes in the amphitheater to follow courses. During the 1st break at 10:45AM, she likes to go in the toilet and smokes at outside deck. After the break, she continues to follow courses in the amphitheater. During the lunch, she warms her food. During the afternoon, she goes with her team in them project room. She ends each day by returning at her home.
+Cindy PÏAIS starts her day at 8AM, she leaves her home ten minutes before the school. At 9AM, she goes in the amphitheater to follow courses. During the 1st break at 10:45AM, she likes to go in the toilet and smokes at outside deck. After the break, she continues to follow courses in the amphitheater. During the lunch, she warms her food. During the afternoon, she goes with her team in them project room. She ends each day by returning at her home.
 
 ## B. Staff
 ### a. Denis DALGO
@@ -629,7 +629,7 @@ Denis DALGO starts is day at 7:00AM, and he comes by car at 8:30 to prepare the 
 
 ### b. Timéo CAPUERA
 
-
+Timéo CAPUERA starts his day at 7:30AM. He eat breakfast and prepare himself and leave his house at 8:10AM and arrives at ALGOSUP at 8:30AM. He wait for students to make the list of absentees. At 9AM, when the doors of ALGOSUP are closed, he comes to his office and start to work on research of professors and student's life in school. At the 10:45 break, he go to the coffee distributor and come back to his office. At 11AM, he come back to work. During lunch time, he eat the lunch that his wife has prepared with staff and professors at school, take a coffee, go to toilet and come back to work at 13:30PM. During the break of 15:15PM, he stay in his office and come back to work at 15:30PM. When students leave the school, he stay at ALGOSUP until 18:30PM. Then, he come back at his home.
 
 ## C. Professors
 ### a. Hugo PATON
