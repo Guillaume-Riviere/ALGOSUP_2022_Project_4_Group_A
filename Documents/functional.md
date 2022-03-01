@@ -597,10 +597,10 @@ Lolita FOURASSE is a softskill teacher from Vierzon. She comes by car to the sch
 
 ### d. Students of other schools
 
-Mourad BELKHASSEM likes cooking. He's disable and so he needs to use a wheelchair everydays. He lives in the center of Vierzon, so he comes everyday by his own. He prefer to stay alone than being with peoples because ofthe fear to be judged.
+Mourad BELKHASSEM likes cooking. He's disabled and so he needs to use a wheelchair everyday. He lives in the center of Vierzon, so he comes everyday by his own. He prefers to stay alone than being with people because of the fear to be judged.
 
-Virginie GARCIA is an environmental person. She hates peoples not respecting the environment, so a few years ago, she decide toonly use her bike. But when electrical scooters released,she took one and nevertouched her bike again. Also she hate cooking, by so she eat where she can find something to eat. She is shy and ussually stay where there isn't much people.
+Virginie GARCIA is an environmental person. She hates people not respecting the environment, so a few years ago, she decide toonly use her bike. But when electrical scooters released, she tooks one and never touched her bike again. Also she hates cooking, by so she eats where she can find something to eat. She is shy and usually stays where there aren't much people.
 
-Benoit HENOQUE is sociable and like being with friends or colleagues. He wakes up late and so he doesn't have time to cook in the morning. He love to talk with people and spend a lot of time taking ware of his students.
+Benoit HENOQUE is sociable and like being with friends or colleagues. He wakes up late and so he doesn't have time to cook in the morning. He loves to talk with people and spend a lot of time taking ware of his students.
 
-Kevin LAUTO is a huge smoker. He consider himself as a Gypsy. He know personally the owner of Top Insalata near Algosup, so he loves eating there. He's over 18 and have his driving license.
+Kevin LAUTO is a huge smoker. He considers himself as a Gypsy. He knows personally the owner of Top Insalata near ALGOSUP, so he loves eating there. He's over 18 and have his driving license.
