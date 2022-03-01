@@ -54,10 +54,14 @@ Table of Contents
     - [c. Teleportation to short distance](#c-teleportation-to-short-distance)
     - [d. Welcome NPC](#d-welcome-npc)
 - [6. Personaes](#6-personaes)
-    - [a. Students](#a-students)
-    - [b. Staff](#b-staff)
-    - [c. Professors](#c-professors)
-    - [d. Students of other schools](#d-students-of-other-schools)
+  - [a. Students](#a-students)
+  - [b. Staff](#b-staff)
+  - [c. Professors](#c-professors)
+  - [d. Students of other schools](#d-students-of-other-schools)
+    - [a. Mourad BELKHASSEM](#a-mourad-belkhassem)
+    - [b. Virginie GARCIA](#b-virginie-garcia)
+    - [c. Benoit HENOQUE](#c-benoit-henoque)
+    - [d. Kevin LAUTO](#d-kevin-lauto)
 - [7. User cases](#7-user-cases)
     - [A. Students](#a-students-1)
     - [a. Sebastien JUDOT](#a-sebastien-judot)
@@ -75,10 +79,10 @@ Table of Contents
     - [a. Hugo PATON](#a-hugo-paton)
     - [b. Lolita FOURASSE](#b-lolita-fourasse)
   - [D. Students of other schools](#d-students-of-other-schools-1)
-    - [a. Mourad BELKHASSEM](#a-mourad-belkhassem)
-    - [b. Virginie GARCIA](#b-virginie-garcia)
-    - [c. Benoit HENOQUE](#c-benoit-henoque)
-    - [d. Kevin LAUTO](#d-kevin-lauto)
+    - [a. Mourad BELKHASSEM](#a-mourad-belkhassem-1)
+    - [b. Virginie GARCIA](#b-virginie-garcia-1)
+    - [c. Benoit HENOQUE](#c-benoit-henoque-1)
+    - [d. Kevin LAUTO](#d-kevin-lauto-1)
 
 ---
 
@@ -540,7 +544,7 @@ It can be a person that does that to reinforce the realism, or a start menu.
 
 # 6. Personaes
 
-### a. Students 
+## a. Students 
 
 Sebastien JUDOT is a male, he doesn't smoke, he warms his food at school. He comes to school on an electric scooter. On breaks, he is in library.
 
@@ -559,26 +563,26 @@ Kimberley GONZALES is a female, she smokes and she cooks and eat her food at sch
 Cindy PÏAIS is a female, she smokes and she cooks and eats her food at school. She comes at school by walk. During the break, she goes to the toilet and smokes at outside deck.
 
 
-### b. Staff
+## b. Staff
 
 Denis DALGO is a male, he doesn't smoke, he likes cooking, he prepared his lunch each evening , so he just need to warms his food that he brings. He comes riding his bike because his appartenent isn't far away. During breaks he likes feel alone and listen to music, he go in resting room on a sofa.
 
 Timéo CAPUERA is a male, he doesn't smoke, his wife prepared his lunch each day so he doesn't need to go outside. He comes at school by car, even if he leave near of the school he needs to bring some stuff with him so he can't take his bike. During breaks  he stays in resting room.
  
-### c. Professors
+## c. Professors
 
 Hugo PATON is a C# Teacher from Canada. He comes by train to the train station and by walk to the school every morning. So he just brings a little bowl of food and he cooks it in the resting room at lunch time. During the break he goes to the front door with the other professors and he smokes his cigarette before coming back in the amphitheater.
 
 Lolita FOURASSE is a softskill teacher from Vierzon. She comes by car to the school because it's easier for her, so she enter the school by the back door. She is not a good cook so she prefer go to Carrefour Market or snacks to eat at lunch time. At the break she takes a coffee and she goes to the front door with other professors.
 
-### d. Students of other schools
-
+## d. Students of other schools
+### a. Mourad BELKHASSEM
 Mourad BELKHASSEM likes cooking. He's disable and so he needs to use a wheelchair everydays. He lives in the center of Vierzon, so he comes everyday by his own. He prefer to stay alone than being with peoples because ofthe fear to be judged.
-
+### b. Virginie GARCIA
 Virginie GARCIA is an environmental person. She hates peoples not respecting the environment, so a few years ago, she decide toonly use her bike. But when electrical scooters released,she took one and nevertouched her bike again. Also she hate cooking, by so she eat where she can find something to eat. She is shy and ussually stay where there isn't much people.
-
+### c. Benoit HENOQUE
 Benoit HENOQUE is sociable and like being with friends or colleagues. He wakes up late and so he doesn't have time to cook in the morning. He love to talk with people and spend a lot of time taking ware of his students.
-
+### d. Kevin LAUTO
 Kevin LAUTO is a huge smoker. He consider himself as a Gypsy. He know personally the owner of Top Insalata near Algosup, so he loves eating there. He's over 18 and have his driving license.
 
 # 7. User cases
