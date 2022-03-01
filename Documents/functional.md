@@ -63,6 +63,8 @@ Table of Contents
     - [b. Staff](#b-staff)
     - [c. Professors](#c-professors)
     - [d. Students of other schools](#d-students-of-other-schools)
+- [7. User cases](#7-user-cases)
+    - [a. Students](#a-students-1)
 
 ---
 
@@ -604,3 +606,10 @@ Virginie GARCIA is an environmental person. She hates peoples not respecting the
 Benoit HENOQUE is sociable and like being with friends or colleagues. He wakes up late and so he doesn't have time to cook in the morning. He love to talk with people and spend a lot of time taking ware of his students.
 
 Kevin LAUTO is a huge smoker. He consider himself as a Gypsy. He know personally the owner of Top Insalata near Algosup, so he loves eating there. He's over 18 and have his driving license.
+
+# 7. User cases
+
+### a. Students 
+
+Sebastien JUDOT start his day at 8AM, he left his home a quarter hour before the school starts and go at school with his electric scooter. At 9AM, he goes on amphitheater to follow the first monday of month meeting.
+During the 1st break at 10:45AM, he likes to go on library to read or just speak with his friends quietly. After the break, he continues his morning with project time until the launch. During the lunch, he warms his food that is cooked by his mother the day before. During the afternnon, he return in his project room to work with his team. He ends his day with a return on electric scooter and continue to work on his personnal project at home.
