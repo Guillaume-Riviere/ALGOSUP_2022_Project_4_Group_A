@@ -54,10 +54,14 @@ Table of Contents
     - [c. Teleportation to short distance](#c-teleportation-to-short-distance)
     - [d. Welcome NPC](#d-welcome-npc)
 - [6. Personaes](#6-personaes)
-    - [a. Students](#a-students)
-    - [b. Staff](#b-staff)
-    - [c. Professors](#c-professors)
-    - [d. Students of other schools](#d-students-of-other-schools)
+  - [a. Students](#a-students)
+  - [b. Staff](#b-staff)
+  - [c. Professors](#c-professors)
+  - [d. Students of other schools](#d-students-of-other-schools)
+    - [a. Mourad BELKHASSEM](#a-mourad-belkhassem)
+    - [b. Virginie GARCIA](#b-virginie-garcia)
+    - [c. Benoit HENOQUE](#c-benoit-henoque)
+    - [d. Kevin LAUTO](#d-kevin-lauto)
 - [7. User cases](#7-user-cases)
     - [A. Students](#a-students-1)
     - [a. Sebastien JUDOT](#a-sebastien-judot)
@@ -75,10 +79,10 @@ Table of Contents
     - [a. Hugo PATON](#a-hugo-paton)
     - [b. Lolita FOURASSE](#b-lolita-fourasse)
   - [D. Students of other schools](#d-students-of-other-schools-1)
-    - [a. Mourad BELKHASSEM](#a-mourad-belkhassem)
-    - [b. Virginie GARCIA](#b-virginie-garcia)
-    - [c. Benoit HENOQUE](#c-benoit-henoque)
-    - [d. Kevin LAUTO](#d-kevin-lauto)
+    - [a. Mourad BELKHASSEM](#a-mourad-belkhassem-1)
+    - [b. Virginie GARCIA](#b-virginie-garcia-1)
+    - [c. Benoit HENOQUE](#c-benoit-henoque-1)
+    - [d. Kevin LAUTO](#d-kevin-lauto-1)
 
 ---
 
@@ -540,7 +544,7 @@ It can be a person that does that to reinforce the realism, or a start menu.
 
 # 6. Personaes
 
-### a. Students 
+## a. Students 
 
 Sebastien JUDOT is a male, he doesn't smoke, he warms his food at school. He comes to school on an electric scooter. On breaks, he is in library.
 
@@ -559,26 +563,26 @@ Kimberley GONZALES is a female, she smokes and she cooks and eat her food at sch
 Cindy PÏAIS is a female, she smokes and she cooks and eats her food at school. She comes at school by walk. During the break, she goes to the toilet and smokes at outside deck.
 
 
-### b. Staff
+## b. Staff
 
 Denis DALGO is a male, he doesn't smoke, he likes cooking, he prepared his lunch each evening , so he just need to warms his food that he brings. He comes riding his bike because his appartenent isn't far away. During breaks he likes feel alone and listen to music, he go in resting room on a sofa.
 
 Timéo CAPUERA is a male, he doesn't smoke, his wife prepared his lunch each day so he doesn't need to go outside. He comes at school by car, even if he leave near of the school he needs to bring some stuff with him so he can't take his bike. During breaks  he stays in resting room.
  
-### c. Professors
+## c. Professors
 
 Hugo PATON is a C# Teacher from Canada. He comes by train to the train station and by walk to the school every morning. So he just brings a little bowl of food and he cooks it in the resting room at lunch time. During the break he goes to the front door with the other professors and he smokes his cigarette before coming back in the amphitheater.
 
 Lolita FOURASSE is a softskill teacher from Vierzon. She comes by car to the school because it's easier for her, so she enter the school by the back door. She is not a good cook so she prefer go to Carrefour Market or snacks to eat at lunch time. At the break she takes a coffee and she goes to the front door with other professors.
 
-### d. Students of other schools
-
+## d. Students of other schools
+### a. Mourad BELKHASSEM
 Mourad BELKHASSEM likes cooking. He's disable and so he needs to use a wheelchair everydays. He lives in the center of Vierzon, so he comes everyday by his own. He prefer to stay alone than being with peoples because ofthe fear to be judged.
-
+### b. Virginie GARCIA
 Virginie GARCIA is an environmental person. She hates peoples not respecting the environment, so a few years ago, she decide toonly use her bike. But when electrical scooters released,she took one and nevertouched her bike again. Also she hate cooking, by so she eat where she can find something to eat. She is shy and ussually stay where there isn't much people.
-
+### c. Benoit HENOQUE
 Benoit HENOQUE is sociable and like being with friends or colleagues. He wakes up late and so he doesn't have time to cook in the morning. He love to talk with people and spend a lot of time taking ware of his students.
-
+### d. Kevin LAUTO
 Kevin LAUTO is a huge smoker. He consider himself as a Gypsy. He know personally the owner of Top Insalata near Algosup, so he loves eating there. He's over 18 and have his driving license.
 
 # 7. User cases
@@ -587,8 +591,8 @@ Kevin LAUTO is a huge smoker. He consider himself as a Gypsy. He know personally
 
 ### a. Sebastien JUDOT
 
-Sebastien JUDOT start his day at 8AM, he left his home a quarter hour before the school starts and go at school with his electric scooter. At 9AM, he goes on amphitheater to follow the first monday of month meeting.
-During the 1st break at 10:45AM, he likes to go on library to read or just speak with his friends quietly. After the break, he continues his morning with project time until the launch. During the lunch, he warms his food that is cooked by his mother the day before. During the afternnon, he return in his project room to work with his team. He ends his day with a return on electric scooter and continue to work on his personnal project at home.
+Sebastien JUDOT starts his day at 8AM, he left his home a quarter hour before the school starts and go at school with his electric scooter. At 9AM, he goes on amphitheater to follow the first monday of month meeting.
+During the 1st break at 10:45AM, he likes to go on library to read or just to speak with his friends quietly. After the break, he continues his morning with project time until the launch. During the lunch, he warms his food that is cooked by his mother the day before. During the afternnon, he return in his project room to work with his team. He ends his day with a return on electric scooter and continue to work on his personnal project at home.
 
 ### b. Voleta DONATELLO
 */ Voleta DONATELLO is a female, she doesn't smoke, she takes her food outside and she reheats his food. She comes to shcool by car. During the break, she is in her classroom and in the corridor. /*
@@ -596,16 +600,36 @@ During the 1st break at 10:45AM, he likes to go on library to read or just speak
 Voleta DONATELLO she lives at bourges, she wakes up at 7:00AM, She needs 30 minutes to be prepared, when she is ready she takes her car to go to the train station, She takes the train and arrive at vierzon in 20 minutes, to finish she walks to ALGOSUP, she needs 5 minutes to arrive
 
 ### c. Marshall SPLINTER
+
+Marshall SPLINTER starts his day at half seven, he leaves his home an half hour before the school because he lives near Vierzon and he has to take his bike. At 9AM, he goes on his project room to continue the current project with his group.
+During the 1st break at 10:45AM, he likes to stay in his project room or goes in the corridor to talk with his friends. After the break, he continues the project until the launch. During the lunch, he buys his food outside and returns at school to eat. During the afternoon, he goes in the amphitheater to follow courses. He ends each day by going at his home with his bike.
+
 ### d. Jeanne PANCREASSE
+
+Jeanne PANCREASSE starts his day at 8:30AM, she left her home five minutes before the school starts and go at school by walking. At 9:20AM, she arrives in late and receive a written warning. She don't have the permission to enter before the break because she is late. At the 1st break at 10:45AM, she can enter in the school and she goes at the coffee distributor. After the break, she continues her morning with a course on the Go language. During the lunch, she eat outside the school with Jordan, principally in fast foods. During the afternnon, she return in her Go language course.
+
 ### e. Emile SAVATTE
+
+Emile SAVATTE wake up at 8AM, he eat his breakfast before living his house at 8:40AM. He takes 15 min to come by walk to ALGOSUP. He arrives at 8:55AM at school. At 9AM, he goes in amphitheater to follow the first monday of month meeting. During the 1st break at 10:45AM, he goes to toilets during 2 min before going to library. After the break, he continues his morning with project time until the lunch. He leaves school at 00:30PM to buy his lunch. He come back at 1:15PM and go back to library. At 2:00PM he goes in english class until 5PM. He comes back to home by walk directly.
+
 ### f. Jordan CAPUERA 
+
+Jordan CAPUERA start his day at 7:40AM, he live with his parents. He left his home at 8:30AM and arrives at ALGOSUP with his moto. Before enter in school, he smoke at front deck. At 9AM he go in his project group. During the first break of the day at 10:45AM, he likes to smokes at outside deck with friends. After smoking, he go to the toilet and at 11AM he return to his project room for work on the project. At lunch time, he eat outside the school with Jeanne, at his home, at a fast food or he buys a sandwich. At 13:30PM he goes to english room to follow an english class. During the break of 15:15PM, he go smoke at outside deck with friends. At 15:30PM he return to english class. At 17PM, he take his moto and go back home. He doesn't really work at home.
+
 ### g. Kimberley GONZALES
+
+Kimberley GONZALES start her day at 7AM. She start her day with makeup and breakfast and leave her appartment at 8:40AM. Cindy PÏAIS, her friend, pick her in front of where she lives because she can't walk because she have a broken leg and she have crutch. They arrives at school at 8:50AM, smoke a cigaret in front of the school before enter in school. At 9AM, Kimberley come to english room and follow english class. During the first break, she come at outside deck for smoke with friends. After smoking, she go to toilet and come back to english room at 11AM. At lunch time, she cook her food in the school's kitchen. After eating she go smoke. At 13:30PM, she goes to a project room to work on project. At 15:15, during the break, she goes smoke at outside deck and go to toilet right after. At 15:30PM, she come back to her project room. At 17AM, Cindy pick her and they come back at there home.
+
 ### h. Cindy PÏAIS
 
+Cindy PÏAIS starts her day at eight, she leaves her home ten minutes before the school. At 9AM, she goes in the amphitheater to follow courses.
+During the 1st break at 10:45AM, she likes to go in the toilet and smokes at outside deck. After the break, she continues to follow courses in the amphitheater. During the lunch, she warms her food. During the afternoon, she goes with her team in them project room. She ends each day by returning at her home.
 
 ## B. Staff
 ### a. Denis DALGO
 ### b. Timéo CAPUERA
+
+
 
 ## C. Professors
 ### a. Hugo PATON
