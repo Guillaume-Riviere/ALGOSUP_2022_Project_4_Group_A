@@ -28,7 +28,6 @@ Table of Contents
       - [2. Stands Zone](#2-stands-zone)
     - [b. Robotic Parkour](#b-robotic-parkour)
     - [c. Greenery](#c-greenery)
-    - [d. Entrance](#d-entrance)
   - [C. Sounds](#c-sounds)
     - [a. Doors](#a-doors)
     - [b. Ambient Sounds](#b-ambient-sounds)
@@ -38,10 +37,7 @@ Table of Contents
       - [4. Drone Flights](#4-drone-flights)
 - [5. Working Systems](#5-working-systems)
   - [A. Opening Hours To Public](#a-opening-hours-to-public)
-  - [B. Booking Rooms](#b-booking-rooms)
-    - [a. Entrance Screen](#a-entrance-screen)
-    - [b. Booking Process](#b-booking-process)
-  - [C. Permissions Card](#c-permissions-card)
+  - [B. Permissions Card](#b-permissions-card)
     - [a. Physical Visitor](#a-physical-visitor)
     - [b. Virtual Visitor](#b-virtual-visitor)
     - [c. Student](#c-student)
@@ -52,7 +48,6 @@ Table of Contents
     - [c. Student](#c-student-1)
     - [d. Staff](#d-staff-1)
     - [e. Stranger](#e-stranger)
-  - [E. Privacy](#e-privacy)
   - [F. VR Miscellaneous](#f-vr-miscellaneous)
     - [a. Time change](#a-time-change)
     - [b. People in School](#b-people-in-school)
@@ -64,7 +59,26 @@ Table of Contents
     - [c. Professors](#c-professors)
     - [d. Students of other schools](#d-students-of-other-schools)
 - [7. User cases](#7-user-cases)
-    - [a. Students](#a-students-1)
+    - [A. Students](#a-students-1)
+    - [a. Sebastien JUDOT](#a-sebastien-judot)
+    - [b. Voleta DONATELLO](#b-voleta-donatello)
+    - [c. Marshall SPLINTER](#c-marshall-splinter)
+    - [d. Jeanne PANCREASSE](#d-jeanne-pancreasse)
+    - [e. Emile SAVATTE](#e-emile-savatte)
+    - [f. Jordan CAPUERA](#f-jordan-capuera)
+    - [g. Kimberley GONZALES](#g-kimberley-gonzales)
+    - [h. Cindy PÏAIS](#h-cindy-pïais)
+  - [B. Staff](#b-staff-1)
+    - [a. Denis DALGO](#a-denis-dalgo)
+    - [b. Timéo CAPUERA](#b-timéo-capuera)
+  - [C. Professors](#c-professors-1)
+    - [a. Hugo PATON](#a-hugo-paton)
+    - [b. Lolita FOURASSE](#b-lolita-fourasse)
+  - [D. Students of other schools](#d-students-of-other-schools-1)
+    - [a. Mourad BELKHASSEM](#a-mourad-belkhassem)
+    - [b. Virginie GARCIA](#b-virginie-garcia)
+    - [c. Benoit HENOQUE](#c-benoit-henoque)
+    - [d. Kevin LAUTO](#d-kevin-lauto)
 
 ---
 
@@ -359,11 +373,6 @@ The robotic parkour have to contain:
 We'll find Greenery everywhere in the school , on the roof of the rooms.
 Also in each room to fill them and fell closer to the nature.
 
-### d. Entrance
-
-The entrance have to contain:
-- 1 screen
-- 1 plug for the screen 
 
 ## C. Sounds
 ### a. Doors
@@ -390,35 +399,16 @@ In the halls, you can hear students talking and walking, the drone flying and ro
 
 The school is opened to public between **9AM - 12AM** and **1PM - 5PM**.
 
-## B. Booking Rooms
+## B. Permissions Card
 
-### a. Entrance Screen
-
-A big tactile screen will be require after the entrance on the right.
-The purpose of it is to be able to book a rooms and see which romm is occupied during the day.
-It could also in the futur, display a slider of schedule when idle.
-
-### b. Booking Process
-
-You first will have to scan your card to identify yourself.
-Then you will have to set the time range you need a room.
-and last you will see all available rooms for you in green, you will also see unavailable room in red.
-
-You will have to specify a reason of booking, and if you need the privacy option (detailed below)
-
-## C. Permissions Card
-
-Everyone must have a permission card to interact in the school (open room, booking rooms...).
+Everyone must have a permission card to interact in the school (open room, ...).
 
 ### a. Physical Visitor
 
 | Permission  | Allow | Deny|
 | :---------- |:-----:|:---:|
 | Open empty room  | X |  |
-| Open reserved room |  | X |
-| Book a room |  | X |
 | Open empty meeting room | X |  |
-| Open reserved meeting room |  | X |
 | Open office |  | X |
 | Enter school outisde of opening hours |  | X |
 | Enter school in opening hours | X |  |
@@ -429,10 +419,8 @@ Everyone must have a permission card to interact in the school (open room, booki
 | Permission  | Allow | Deny|
 | :---------- |:-----:|:---:|
 | Open empty room  | X |  |
-| Open reserved room | X |  |
 | Book a room | X |  |
 | Open empty meeting room | X |  |
-| Open reserved meeting room | X |  |
 | Open office | X |  |
 | Enter school outisde of opening hours | X |  |
 | Enter school in opening hours | X |  |
@@ -443,10 +431,8 @@ Everyone must have a permission card to interact in the school (open room, booki
 | Permission  | Allow | Deny|
 | :---------- |:-----:|:---:|
 | Open empty room  | X |  |
-| Open reserved room |  |X |
 | Book a room | X |  |
 | Open empty meeting room |  | X |
-| Open reserved meeting room |  | X |
 | Open office |  | X |
 | Enter school outisde of opening hours |  | X |
 | Enter school in opening hours | X |  |
@@ -457,10 +443,8 @@ Everyone must have a permission card to interact in the school (open room, booki
 | Permission  | Allow | Deny|
 | :---------- |:-----:|:---:|
 | Open empty room  | X |  |
-| Open reserved room | X |  |
 | Book a room | X |  |
 | Open empty meeting room | X |  |
-| Open reserved meeting room | X |  |
 | Open office | X |  |
 | Enter school outisde of opening hours | X |  |
 | Enter school in opening hours | X |  |
@@ -527,16 +511,6 @@ All ALGOSUP users or staff will have different permissions in order to achieve t
 | Open stock room |  | X |
 | Open library |  | X |
 
-## E. Privacy
-
-In our work, sometimes we have to work on project that are secret and are subject to privacy rules. 
-So we though about a way to be able a have privacy while coridor are transparent glass. 
-
-So when you will book a room, you will be able to ask for privacy.
-It have to be validate by a Staff members of the school. 
-
-If it have been validated by a staff member, the glass of your room will be obfuscated for the time you reserved it.
-
 ## F. VR Miscellaneous
 ### a. Time change
 
@@ -552,8 +526,8 @@ Some person will be user of school, some can be visitors, on even stranger.
 
 ### c. Teleportation to short distance
 
-We'll be able to teleport the user to a place , to avoid the walk time and lost time during a presentation
-and if the customer want to see a specific room or place.t
+We'll be able to teleport the user to a short place. Since it's a simulation and it needs to be as close as reality as possible, the teleportation time will just handle the fact that you won't have enough space to visit the whole building.
+So teleportation to short distance is mandatory.
 
 ### d. Welcome NPC 
 
@@ -609,7 +583,30 @@ Kevin LAUTO is a huge smoker. He consider himself as a Gypsy. He know personally
 
 # 7. User cases
 
-### a. Students 
-
+### A. Students 
+### a. Sebastien JUDOT
 Sebastien JUDOT start his day at 8AM, he left his home a quarter hour before the school starts and go at school with his electric scooter. At 9AM, he goes on amphitheater to follow the first monday of month meeting.
 During the 1st break at 10:45AM, he likes to go on library to read or just speak with his friends quietly. After the break, he continues his morning with project time until the launch. During the lunch, he warms his food that is cooked by his mother the day before. During the afternnon, he return in his project room to work with his team. He ends his day with a return on electric scooter and continue to work on his personnal project at home.
+
+### b. Voleta DONATELLO
+### c. Marshall SPLINTER
+### d. Jeanne PANCREASSE
+### e. Emile SAVATTE
+### f. Jordan CAPUERA 
+### g. Kimberley GONZALES
+### h. Cindy PÏAIS
+
+
+## B. Staff
+### a. Denis DALGO
+### b. Timéo CAPUERA
+
+## C. Professors
+### a. Hugo PATON
+### b. Lolita FOURASSE
+
+## D. Students of other schools
+### a. Mourad BELKHASSEM
+### b. Virginie GARCIA
+### c. Benoit HENOQUE
+### d. Kevin LAUTO
