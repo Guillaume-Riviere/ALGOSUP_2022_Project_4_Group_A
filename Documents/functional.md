@@ -596,7 +596,7 @@ During the 1st break at 10:45AM, he likes to go on library to read or just to sp
 
 ### b. Voleta DONATELLO
 
-Voleta DONATELLO she lives in Bourges. She wakes up at 7:00AM. She needs more than 1 hour to be prepared. When she is ready, she takes her car to go to ALGOSUP. She starts by Project with her mates. At the first break, she stays in her project room and sometimes, she talks with others students in the corridor. She continue to work on her project until 12:30AM. For the lunchtime, she eats the meal that she prepared the evening before. When she finished her meal, she goes in the English room. She goes to the toilet during the English lesson. During the second break, she stays in her room, she finishs her day with English and she comming back to her parents house at Bourges. 
+Voleta DONATELLO she lives at bourges, she wakes up at 7:00AM, She needs more than 1 hour to be prepared, when she is ready she takes her car to go to ALGOSUP. She starts by Project with her mates, at the first break she stays in her project room and sometimes she talks with other students in the corridor, she continue to work on her project until 12:30AM, For the lunchtime she eats the meal that she prepared the evening before. When she has finish her meal, she goes in the English room, she goes to the toilet during the english lesson. During the 15:15PM break, she stays in her room and she finishes her day with english. At 17PM, she comes back to her parents house at Bourges. 
 
 ### c. Marshall SPLINTER
 
