@@ -544,7 +544,7 @@ It can be a person that does that to reinforce the realism, or a start menu.
 
 Sebastien JUDOT is a male, he doesn't smoke, he warms his food at school. He comes to school on an electric scooter. On breaks, he is in library.
 
-Voleta DONATELLO is a female, she doesn't smoke, she takes her food outside and she cooks it at school. She comes to shcool in car. During the break, she is in her classroom and in the corridor.
+Voleta DONATELLO is a female, she doesn't smoke, she takes her food outside and she reheats his food. She comes to shcool by car. During the break, she is in her classroom and in the corridor.
 
 Marshall SPLINTER is a male, he doesn't smoke, he takes his food outside and doesn't cooks it. He comes at school on his bike. During the break, he is in his classroom and in the corridor.
 
@@ -591,6 +591,10 @@ Sebastien JUDOT start his day at 8AM, he left his home a quarter hour before the
 During the 1st break at 10:45AM, he likes to go on library to read or just speak with his friends quietly. After the break, he continues his morning with project time until the launch. During the lunch, he warms his food that is cooked by his mother the day before. During the afternnon, he return in his project room to work with his team. He ends his day with a return on electric scooter and continue to work on his personnal project at home.
 
 ### b. Voleta DONATELLO
+*/ Voleta DONATELLO is a female, she doesn't smoke, she takes her food outside and she reheats his food. She comes to shcool by car. During the break, she is in her classroom and in the corridor. /*
+
+Voleta DONATELLO she lives at bourges, she wakes up at 7:00AM, She needs 30 minutes to be prepared, when she is ready she takes her car to go to the train station, She takes the train and arrive at vierzon in 20 minutes, to finish she walks to ALGOSUP, she needs 5 minutes to arrive
+
 ### c. Marshall SPLINTER
 ### d. Jeanne PANCREASSE
 ### e. Emile SAVATTE
