@@ -606,6 +606,9 @@ Jeanne PANCREASSE starts his day at 8:30AM, she left her home five minutes befor
 At the 1st break at 10:45AM, she can enter in the school and she goes at the coffee distributor. After the break, she continues her morning with a course on the Go language. During the lunch, she eat outside the school, principally in fast foods. During the afternnon, she return in her Go language course.
 
 ### e. Emile SAVATTE
+
+Emile SAVATTE wake up at 8AM, he eat his breakfast before living his house at 8:40AM. He takes 15 min to come by walk to ALGOSUP. He arrives at 8:55AM at school. At 9AM, he goes in amphitheater to follow the first monday of month meeting. During the 1st break at 10:45AM, he goes to toilets during 2 min before going to library. After the break, he continues his morning with project time until the lunch. He leaves school at 00:30PM to buy his lunch. He come back at 1:15PM and go back to library. At 2:00PM he goes in english class until 5PM. He comes back to home by walk directly.
+
 ### f. Jordan CAPUERA 
 ### g. Kimberley GONZALES
 ### h. Cindy PÏAIS
