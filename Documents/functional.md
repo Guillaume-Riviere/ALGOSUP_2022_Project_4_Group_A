@@ -595,9 +595,8 @@ Sebastien JUDOT starts his day at 8AM, he left his home a quarter hour before th
 During the 1st break at 10:45AM, he likes to go on library to read or just to speak with his friends quietly. After the break, he continues his morning with project time until the launch. During the lunch, he warms his food that is cooked by his mother the day before. During the afternnon, he return in his project room to work with his team. He ends his day with a return on electric scooter and continue to work on his personnal project at home.
 
 ### b. Voleta DONATELLO
-*/ Voleta DONATELLO is a female, she doesn't smoke, she takes her food outside and she reheats his food. She comes to shcool by car. During the break, she is in her classroom and in the corridor. /*
 
-Voleta DONATELLO she lives at bourges, she wakes up at 7:00AM, She needs 30 minutes to be prepared, when she is ready she takes her car to go to the train station, She takes the train and arrive at vierzon in 20 minutes, to finish she walks to ALGOSUP, she needs 5 minutes to arrive
+Voleta DONATELLO she lives at bourges, she wakes up at 7:00AM, She needs more than 1 hour  to be prepared, when she is ready she takes her car to go to ALGOSUP.She starts by Project with her mates, at the first break she stays in her project room and sometimes she talks with other students in the corridor,she continu to work on her project until 12:30AM, For the lunchtime she eats the meal that she prepared the evening before.When she has finish her meal , she go in the English room, she goes to the toilet during the english lesson, During the 15:15PM break she stays in her room, she finishs her day with english and she comes back to her parents house at Bourges. 
 
 ### c. Marshall SPLINTER
 
