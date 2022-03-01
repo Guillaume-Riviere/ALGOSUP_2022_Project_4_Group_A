@@ -596,7 +596,7 @@ During the 1st break at 10:45AM, he likes to go on library to read or just to sp
 
 ### b. Voleta DONATELLO
 
-Voleta DONATELLO she lives at bourges, she wakes up at 7:00AM, She needs more than 1 hour  to be prepared, when she is ready she takes her car to go to ALGOSUP.She starts by Project with her mates, at the first break she stays in her project room and sometimes she talks with other students in the corridor,she continu to work on her project until 12:30AM, For the lunchtime she eats the meal that she prepared the evening before.When she has finish her meal , she go in the English room, she goes to the toilet during the english lesson, During the 15:15PM break she stays in her room, she finishs her day with english and she comes back to her parents house at Bourges. 
+Voleta DONATELLO she lives in Bourges. She wakes up at 7:00AM. She needs more than 1 hour to be prepared. When she is ready, she takes her car to go to ALGOSUP. She starts by Project with her mates. At the first break, she stays in her project room and sometimes, she talks with others students in the corridor. She continue to work on her project until 12:30AM. For the lunchtime, she eats the meal that she prepared the evening before. When she finished her meal, she goes in the English room. She goes to the toilet during the English lesson. During the second break, she stays in her room, she finishs her day with English and she comming back to her parents house at Bourges. 
 
 ### c. Marshall SPLINTER
 
@@ -604,7 +604,7 @@ Marshall SPLINTER starts his day at half seven, he leaves his home an half hour 
 
 ### d. Jeanne PANCREASSE
 
-Jeanne PANCREASSE starts his day at 8:30AM, she left her home five minutes before the school starts and go at school by walking. At 9:20AM, she arrives in late and receive a written warning. She don't have the permission to enter before the break because she is late. At the 1st break at 10:45AM, she can enter in the school and she goes at the coffee distributor. After the break, she continues her morning with a course on the Go language. During the lunch, she eat outside the school with Jordan, principally in fast foods. During the afternnon, she return in her Go language course.
+Jeanne PANCREASSE starts his day at 8:30AM. She leaves her home five minutes before the school starts and goes at school by walking. At 9:20AM, she arrives late and receives a written warning. She doesn't have the permission to enter before the break because she was late. At the 1st break at 10:45AM, she can enter in the school and she goes at the coffee distributor. After the break, she continues her morning with a informatic course on the Go language. During the lunch, she eats outside the school with Jordan, principally in fast foods. During the afternnon, she returns in her Go language course. She ends the day by returning at home.
 
 ### e. Emile SAVATTE
 
