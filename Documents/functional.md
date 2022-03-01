@@ -624,6 +624,9 @@ During the 1st break at 10:45AM, she likes to go in the toilet and smokes at out
 
 ## B. Staff
 ### a. Denis DALGO
+
+Denis DALGO starts is day at 7:00AM, and he comes by car at 8:30 to prepare the opening hours in the office. He goes in toilets at 9:57AM for 2 minutes. He takes after a break of 10 minutes staying in his office and he come back to his office until lunch time. At 00:30PM he reheats his food and he eats during 30 minutes. At 1:00 he goes to toilets for 8 minutes before going back to his office until 4:00PM when he leaves his office by car and he returns to his home. 
+
 ### b. Timéo CAPUERA
 
 ## C. Professors
