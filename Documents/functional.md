@@ -591,12 +591,20 @@ Kevin LAUTO is a huge smoker. He consider himself as a Gypsy. He know personally
 
 ### a. Sebastien JUDOT
 
-Sebastien JUDOT start his day at 8AM, he left his home a quarter hour before the school starts and go at school with his electric scooter. At 9AM, he goes on amphitheater to follow the first monday of month meeting.
-During the 1st break at 10:45AM, he likes to go on library to read or just speak with his friends quietly. After the break, he continues his morning with project time until the launch. During the lunch, he warms his food that is cooked by his mother the day before. During the afternnon, he return in his project room to work with his team. He ends his day with a return on electric scooter and continue to work on his personnal project at home.
+Sebastien JUDOT starts his day at 8AM, he left his home a quarter hour before the school starts and go at school with his electric scooter. At 9AM, he goes on amphitheater to follow the first monday of month meeting.
+During the 1st break at 10:45AM, he likes to go on library to read or just to speak with his friends quietly. After the break, he continues his morning with project time until the launch. During the lunch, he warms his food that is cooked by his mother the day before. During the afternnon, he return in his project room to work with his team. He ends his day with a return on electric scooter and continue to work on his personnal project at home.
 
 ### b. Voleta DONATELLO
 ### c. Marshall SPLINTER
+
+Marshall SPLINTER starts his day at half seven, he leaves his home an half hour before the school because he lives near Vierzon and he has to take his bike. At 9AM, he goes on his project room to continue the current project with his group.
+During the 1st break at 10:45AM, he likes to stay in his project room or goes in the corridor to talk with his friends. After the break, he continues the project until the launch. During the lunch, he buys his food outside and returns at school to eat. During the afternoon, he goes in the amphitheater to follow courses. He ends each day by going at his home with his bike.
+
 ### d. Jeanne PANCREASSE
+
+Jeanne PANCREASSE starts his day at 8:30AM, she left her home five minutes before the school starts and go at school by walking. At 9:20AM, she arrives in late and receive a written warning. She don't have the permission to enter before the break because she is late.
+At the 1st break at 10:45AM, she can enter in the school and she goes at the coffee distributor. After the break, she continues her morning with a course on the Go language. During the lunch, she eat outside the school, principally in fast foods. During the afternnon, she return in her Go language course.
+
 ### e. Emile SAVATTE
 ### f. Jordan CAPUERA 
 
@@ -608,6 +616,8 @@ Kimberley GONZALES start her day at 7AM. She start her day with makeup and break
 
 ### h. Cindy PÏAIS
 
+Cindy PÏAIS starts her day at eight, she leaves her home ten minutes before the school. At 9AM, she goes in the amphitheater to follow courses.
+During the 1st break at 10:45AM, she likes to go in the toilet and smokes at outside deck. After the break, she continues to follow courses in the amphitheater. During the lunch, she warms her food. During the afternoon, she goes with her team in them project room. She ends each day by returning at her home.
 
 ## B. Staff
 ### a. Denis DALGO
