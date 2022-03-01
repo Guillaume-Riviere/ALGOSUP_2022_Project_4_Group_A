@@ -59,6 +59,10 @@ Table of Contents
     - [c. Teleportation to short distance](#c-teleportation-to-short-distance)
     - [d. Welcome NPC](#d-welcome-npc)
 - [6. Personaes](#6-personaes)
+    - [a. Students](#a-students)
+    - [b. Staff](#b-staff)
+    - [c. Professors](#c-professors)
+    - [d. Students of other schools](#d-students-of-other-schools)
 
 ---
 
@@ -593,10 +597,10 @@ Lolita FOURASSE is a softskill teacher from Vierzon. She comes by car to the sch
 
 ### d. Students of other schools
 
-Mourad BELKHASSEM is a male, he doesn't smoke, he warms his food at school. He is disabled. He comes to school by walk. On breaks, he is in room.
+Mourad BELKHASSEM likes cooking. He's disable and so he needs to use a wheelchair everydays. He lives in the center of Vierzon, so he comes everyday by his own. He prefer to stay alone than being with peoples because ofthe fear to be judged.
 
-Virginie GARCIA is a female, she doesn't smoke, she eats outside the school. She comes to school on electric scooter. On breaks, she is in room.
+Virginie GARCIA is an environmental person. She hates peoples not respecting the environment, so a few years ago, she decide toonly use her bike. But when electrical scooters released,she took one and nevertouched her bike again. Also she hate cooking, by so she eat where she can find something to eat. She is shy and ussually stay where there isn't much people.
 
-Benoit HENOQUE is a male, he doesn't smoke, he takes is food outside and doesn't cook it. He comes to school by walk. On breaks, he stay in his classroom.
+Benoit HENOQUE is sociable and like being with friends or colleagues. He wakes up late and so he doesn't have time to cook in the morning. He love to talk with people and spend a lot of time taking ware of his students.
 
-Kevin LAUTO is a male, he smokes, he eats outside school the school. He comes to school by car. On breaks, he smoke at outside deck.
+Kevin LAUTO is a huge smoker. He consider himself as a Gypsy. He know personally the owner of Top Insalata near Algosup, so he loves eating there. He's over 18 and have his driving license.
