@@ -548,7 +548,7 @@ It can be a person that does that to reinforce the realism, or a start menu.
 
 Sebastien JUDOT is a male, he doesn't smoke, he warms his food at school. He comes to school on an electric scooter. On breaks, he is in library.
 
-Voleta DONATELLO is a female, she doesn't smoke, she takes her food outside and she cooks it at school. She comes to shcool in car. During the break, she is in her classroom and in the corridor.
+Voleta DONATELLO is a female, she doesn't smoke, she takes her food outside and she reheats his food. She comes to shcool by car. During the break, she is in her classroom and in the corridor.
 
 Marshall SPLINTER is a male, he doesn't smoke, he takes his food outside and doesn't cooks it. He comes at school on his bike. During the break, he is in his classroom and in the corridor.
 
@@ -595,15 +595,16 @@ Sebastien JUDOT starts his day at 8AM, he left his home a quarter hour before th
 During the 1st break at 10:45AM, he likes to go on library to read or just to speak with his friends quietly. After the break, he continues his morning with project time until the launch. During the lunch, he warms his food that is cooked by his mother the day before. During the afternnon, he return in his project room to work with his team. He ends his day with a return on electric scooter and continue to work on his personnal project at home.
 
 ### b. Voleta DONATELLO
+
+Voleta DONATELLO she lives in Bourges. She wakes up at 7:00AM. She needs more than 1 hour to be prepared. When she is ready, she takes her car to go to ALGOSUP. She starts by Project with her mates. At the first break, she stays in her project room and sometimes, she talks with others students in the corridor. She continue to work on her project until 12:30AM. For the lunchtime, she eats the meal that she prepared the evening before. When she finished her meal, she goes in the English room. She goes to the toilet during the English lesson. During the second break, she stays in her room, she finishs her day with English and she comming back to her parents house at Bourges. 
+
 ### c. Marshall SPLINTER
 
-Marshall SPLINTER starts his day at half seven, he leaves his home an half hour before the school because he lives near Vierzon and he has to take his bike. At 9AM, he goes on his project room to continue the current project with his group.
-During the 1st break at 10:45AM, he likes to stay in his project room or goes in the corridor to talk with his friends. After the break, he continues the project until the launch. During the lunch, he buys his food outside and returns at school to eat. During the afternoon, he goes in the amphitheater to follow courses. He ends each day by going at his home with his bike.
+Marshall SPLINTER starts his day at half seven, he leaves his home an half hour before the school because he lives near Vierzon and he has to take his bike. At 9AM, he goes on his project room to continue the current project with his group. During the 1st break at 10:45AM, he likes to stay in his project room or goes in the corridor to talk with his friends. After the break, he continues the project until the launch. During the lunch, he buys his food outside and returns at school to eat. During the afternoon, he goes in the amphitheater to follow courses. He ends each day by going at his home with his bike.
 
 ### d. Jeanne PANCREASSE
 
-Jeanne PANCREASSE starts his day at 8:30AM, she left her home five minutes before the school starts and go at school by walking. At 9:20AM, she arrives in late and receive a written warning. She don't have the permission to enter before the break because she is late.
-At the 1st break at 10:45AM, she can enter in the school and she goes at the coffee distributor. After the break, she continues her morning with a course on the Go language. During the lunch, she eat outside the school, principally in fast foods. During the afternnon, she return in her Go language course.
+Jeanne PANCREASSE starts his day at 8:30AM. She leaves her home five minutes before the school starts and goes at school by walking. At 9:20AM, she arrives late and receives a written warning. She doesn't have the permission to enter before the break because she was late. At the 1st break at 10:45AM, she can enter in the school and she goes at the coffee distributor. After the break, she continues her morning with a informatic course on the Go language. During the lunch, she eats outside the school with Jordan, principally in fast foods. During the afternnon, she returns in her Go language course. She ends the day by returning at home.
 
 ### e. Emile SAVATTE
 
@@ -611,7 +612,7 @@ Emile SAVATTE wake up at 8AM, he eat his breakfast before living his house at 8:
 
 ### f. Jordan CAPUERA 
 
-Jordan CAPUERA start his day at 7:40AM, he live with his parents. He left his home at 8:30AM and arrives at ALGOSUP with his moto. Before enter in school, he smoke at front deck. At 9AM he go in his project group. During the first break of the day at 10:45AM, he likes to smokes at outside deck with friends. After smoking, he go to the toilet and at 11AM he return to his project room for work on the project. At lunch time, he eat outside the school, at his home, at a fast food or he buys a sandwich. At 13:30PM he goes to english room to follow an english class. During the break of 15:15PM, he go smoke at outside deck with friends. At 15:30PM he return to english class. At 17PM, he take his moto and go back home. He doesn't really work at home.
+Jordan CAPUERA start his day at 7:40AM, he live with his parents. He left his home at 8:30AM and arrives at ALGOSUP with his moto. Before enter in school, he smoke at front deck. At 9AM he go in his project group. During the first break of the day at 10:45AM, he likes to smokes at outside deck with friends. After smoking, he go to the toilet and at 11AM he return to his project room for work on the project. At lunch time, he eat outside the school with Jeanne, at his home, at a fast food or he buys a sandwich. At 13:30PM he goes to english room to follow an english class. During the break of 15:15PM, he go smoke at outside deck with friends. At 15:30PM he return to english class. At 17PM, he take his moto and go back home. He doesn't really work at home.
 
 ### g. Kimberley GONZALES
 
@@ -619,8 +620,7 @@ Kimberley GONZALES start her day at 7AM. She start her day with makeup and break
 
 ### h. Cindy PÏAIS
 
-Cindy PÏAIS starts her day at eight, she leaves her home ten minutes before the school. At 9AM, she goes in the amphitheater to follow courses.
-During the 1st break at 10:45AM, she likes to go in the toilet and smokes at outside deck. After the break, she continues to follow courses in the amphitheater. During the lunch, she warms her food. During the afternoon, she goes with her team in them project room. She ends each day by returning at her home.
+Cindy PÏAIS starts her day at eight, she leaves her home ten minutes before the school. At 9AM, she goes in the amphitheater to follow courses. During the 1st break at 10:45AM, she likes to go in the toilet and smokes at outside deck. After the break, she continues to follow courses in the amphitheater. During the lunch, she warms her food. During the afternoon, she goes with her team in them project room. She ends each day by returning at her home.
 
 ## B. Staff
 ### a. Denis DALGO
@@ -628,6 +628,8 @@ During the 1st break at 10:45AM, she likes to go in the toilet and smokes at out
 Denis DALGO starts is day at 7:00AM, and he comes by car at 8:30 to prepare the opening hours in the office. He goes in toilets at 9:57AM for 2 minutes. He takes after a break of 10 minutes staying in his office and he come back to his office until lunch time. At 00:30PM he reheats his food and he eats during 30 minutes. At 1:00 he goes to toilets for 8 minutes before going back to his office until 4:00PM when he leaves his office by car and he returns to his home. 
 
 ### b. Timéo CAPUERA
+
+
 
 ## C. Professors
 ### a. Hugo PATON
