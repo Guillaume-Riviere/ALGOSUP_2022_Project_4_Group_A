@@ -602,8 +602,7 @@ During the 1st break at 10:45AM, he likes to stay in his project room or goes in
 
 ### d. Jeanne PANCREASSE
 
-Jeanne PANCREASSE starts his day at 8:30AM, she left her home five minutes before the school starts and go at school by walking. At 9:20AM, she arrives in late and receive a written warning. She don't have the permission to enter before the break because she is late.
-At the 1st break at 10:45AM, she can enter in the school and she goes at the coffee distributor. After the break, she continues her morning with a course on the Go language. During the lunch, she eat outside the school, principally in fast foods. During the afternnon, she return in her Go language course.
+Jeanne PANCREASSE starts his day at 8:30AM, she left her home five minutes before the school starts and go at school by walking. At 9:20AM, she arrives in late and receive a written warning. She don't have the permission to enter before the break because she is late. At the 1st break at 10:45AM, she can enter in the school and she goes at the coffee distributor. After the break, she continues her morning with a course on the Go language. During the lunch, she eat outside the school with Jordan, principally in fast foods. During the afternnon, she return in her Go language course.
 
 ### e. Emile SAVATTE
 
@@ -611,7 +610,7 @@ Emile SAVATTE wake up at 8AM, he eat his breakfast before living his house at 8:
 
 ### f. Jordan CAPUERA 
 
-Jordan CAPUERA start his day at 7:40AM, he live with his parents. He left his home at 8:30AM and arrives at ALGOSUP with his moto. Before enter in school, he smoke at front deck. At 9AM he go in his project group. During the first break of the day at 10:45AM, he likes to smokes at outside deck with friends. After smoking, he go to the toilet and at 11AM he return to his project room for work on the project. At lunch time, he eat outside the school, at his home, at a fast food or he buys a sandwich. At 13:30PM he goes to english room to follow an english class. During the break of 15:15PM, he go smoke at outside deck with friends. At 15:30PM he return to english class. At 17PM, he take his moto and go back home. He doesn't really work at home.
+Jordan CAPUERA start his day at 7:40AM, he live with his parents. He left his home at 8:30AM and arrives at ALGOSUP with his moto. Before enter in school, he smoke at front deck. At 9AM he go in his project group. During the first break of the day at 10:45AM, he likes to smokes at outside deck with friends. After smoking, he go to the toilet and at 11AM he return to his project room for work on the project. At lunch time, he eat outside the school with Jeanne, at his home, at a fast food or he buys a sandwich. At 13:30PM he goes to english room to follow an english class. During the break of 15:15PM, he go smoke at outside deck with friends. At 15:30PM he return to english class. At 17PM, he take his moto and go back home. He doesn't really work at home.
 
 ### g. Kimberley GONZALES
 
@@ -625,6 +624,8 @@ During the 1st break at 10:45AM, she likes to go in the toilet and smokes at out
 ## B. Staff
 ### a. Denis DALGO
 ### b. Timéo CAPUERA
+
+
 
 ## C. Professors
 ### a. Hugo PATON
