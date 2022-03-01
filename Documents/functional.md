@@ -596,7 +596,7 @@ During the 1st break at 10:45AM, he likes to go on library to read or just to sp
 
 ### b. Voleta DONATELLO
 
-Voleta DONATELLO she lives at bourges, she wakes up at 7:00AM, She needs more than 1 hour to be prepared, when she is ready she takes her car to go to ALGOSUP. She starts by Project with her mates, at the first break she stays in her project room and sometimes she talks with other students in the corridor, she continue to work on her project until 12:30AM, For the lunchtime she eats the meal that she prepared the evening before. When she has finish her meal, she goes in the English room, she goes to the toilet during the english lesson. During the 15:15PM break, she stays in her room and she finishes her day with english. At 17PM, she comes back to her parents house at Bourges. 
+Voleta DONATELLO she lives at bourges, she wakes up at 7:00AM, She needs more than 1 hour  to be prepared, when she is ready she takes her car to go to ALGOSUP.She starts by Project with her mates, at the first break she stays in her project room and sometimes she talks with other students in the corridor,she continu to work on her project until 12:30AM, For the lunchtime she eats the meal that she prepared the evening before.When she has finish her meal , she goes in the English room, she goes to the toilet during the english lesson, During the 15:15PM break she stays in her room, she finishs her day with english and she comes back to her parents house at Bourges. 
 
 ### c. Marshall SPLINTER
 
@@ -624,6 +624,9 @@ Cindy PÏAIS starts her day at eight, she leaves her home ten minutes before the
 
 ## B. Staff
 ### a. Denis DALGO
+
+Denis DALGO starts is day at 7:00AM, and he comes by car at 8:30 to prepare the opening hours in the office. He goes in toilets at 9:57AM for 2 minutes. He takes after a break of 10 minutes staying in his office and he come back to his office until lunch time. At 00:30PM he reheats his food and he eats during 30 minutes. At 1:00 he goes to toilets for 8 minutes before going back to his office until 4:00PM when he leaves his office by car and he returns to his home. 
+
 ### b. Timéo CAPUERA
 
 
@@ -634,6 +637,9 @@ Cindy PÏAIS starts her day at eight, she leaves her home ten minutes before the
 Hugo PATON starts his day at 8AM, he leaves his hotel at 8:30AM and arrives by walk around 8:40AM to prepare his course before students arrival. He gives his C# course until the break and goes to smoke with other professors, when the break is finish, he returns in his room to the lauch break. During this, he prepares his food and taste it. After that he continue to give his course before the end of the day.
 
 ### b. Lolita FOURASSE
+
+Lolita Fourase lives in Vierzon , she wakes up at 8AM because she lives near of ALGOSUP , she needs 5 minutes to come to the school , so she leaves her house at 8:30AM to arrive around 8:35AM 8:40AM.When she arrives she directly take a cafe and she prepares the Softskills Room to be ready when the students will arrive. During the first break she takes her time to speak with students who had questions.At 12:30PM she goes eat with the other students and with the staff she stays with them until the restart of the lesson at 13H30PM.For the afternoom she swap the activity so the students help her to move stuff in the room and she does her activity with the students until the break, she goes to the toilet during the break and come back to again speak with students.After the break she finishes her lesson until 17:00PM and takes 10 minutes to clean the rooms with some students who stay to help her.
+
 
 ## D. Students of other schools
 ### a. Mourad BELKHASSEM
