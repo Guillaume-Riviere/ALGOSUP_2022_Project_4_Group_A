@@ -559,7 +559,7 @@ It can be a person that does that to reinforce the realism, or a start menu.
 ## a. Students
 
 ### a. Sebastien JUDOT
-<img src="./images/SebastienJudot.png" width=75px height=75px>
+<img src="./images/SebastienJudot.jpg" width=75px height=75px>
 Sebastien JUDOT is a model student. He perfoms really good in school and eat healthy. He prefers to cook himself. He doesn't live that close to the school and had to find a way to travel through the city. He love reading any kinda of books.
 
 ### b. Voleta DONATELLO
