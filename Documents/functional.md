@@ -559,110 +559,80 @@ It can be a person that does that to reinforce the realism, or a start menu.
 ## a. Students
 
 ### a. Sebastien JUDOT
-<div style="display:flex; width:100%; justify-content:space-evenly; align-items:center">
-<p style="width:60%">Sebastien JUDOT is a model student. He perfoms really good in school and eat healthy. He prefers to cook himself. He doesn't live that close to the school and had to find a way to travel through the city. He love reading any kinda of books.</p>
+
 <img src="./images/SebastienJudot.jpg" style="width:100px; height:100px">
-</div>
+Sebastien JUDOT is a model student. He perfoms really good in school and eat healthy. He prefers to cook himself. He doesn't live that close to the school and had to find a way to travel through the city. He love reading any kinda of books.
 
 ### b. Voleta DONATELLO
-<div style="display:flex; width:100%; justify-content:space-evenly; align-items:center">
+
 <img src="./images/VoletaDonatello.jpg" style="width:100px; height:100px">
-<p style="width:60%">Voleta DONATELLO is Italian and doesn't speak much french. She doesn't like french food at all. She lives in Bourges and has a car. Sometimes she likes to be alone and sometimes hanging out in hallways, either she talk to her friends, or she go on her phone.</p>
-</div>
+Voleta DONATELLO is Italian and doesn't speak much french. She doesn't like french food at all. She lives in Bourges and has a car. Sometimes she likes to be alone and sometimes hanging out in hallways, either she talk to her friends, or she go on her phone.
 
 ### c. Marshall SPLINTER
-<div style="display:flex; width:100%; justify-content:space-evenly; align-items:center">
-<p style="width:60%">Marshall SPLINTER is a good friend of Voleta. He destroyed his car and have to bike to come to school. He likes being with Voleta, that way he learn a little bit of italian and she learn a little bit of french.</p>
 <img src="./images/MarshallSplinter.jpg" style="width:100px; height:100px">
-</div>
+Marshall SPLINTER is a good friend of Voleta. He destroyed his car and have to bike to come to school. He likes being with Voleta, that way he learn a little bit of italian and she learn a little bit of french.
 
 ### d. Jeanne PANCREASSE
-<div style="display:flex; width:100%; justify-content:space-evenly; align-items:center">
 <img src="./images/JeannePancreasse.jpg" style="width:100px; height:100px">
-<p style="width:60%">Jeanne PANCREASSE doesn't likes eating in front of people. Her parents drops her each morning in front of the school. Jeanne is a coffee lover she drinks some as soon as she can.</p>
-</div>
+Jeanne PANCREASSE doesn't likes eating in front of people. Her parents drops her each morning in front of the school. Jeanne is a coffee lover she drinks some as soon as she can.
 
 ### e. Emile SAVATTE
-<div style="display:flex; width:100%; justify-content:space-evenly; align-items:center">
-<p style="width:60%">Emile SAVATTE lives pretty farm away from Vierzon. And doesn't like cooking. He really love taking any kind of informations, that's why he love reading and searching a lot of informations.</p>
 <img src="./images/EmileSavatte.jpg" style="width:100px; height:100px">
-</div>
+Emile SAVATTE lives pretty farm away from Vierzon. And doesn't like cooking. He really love taking any kind of informations, that's why he love reading and searching a lot of informations.
 
 ### f. Jordan CAPUERA 
-<div style="display:flex; width:100%; justify-content:space-evenly; align-items:center">
 <img src="./images/JordanCapuera.jpg" style="width:100px; height:100px">
-<p style="width:60%">Jordan CAPUERA recently started smoking, he started smoking on hollidays before school. He is in couple with Jeanne and spend msot of his time with her, specially when it's lunch time.
-He's 17 years old and can only drive his moto for the momment. He also drink one or two coffees a day.</p>
-</div>
+Jordan CAPUERA recently started smoking, he started smoking on hollidays before school. He is in couple with Jeanne and spend msot of his time with her, specially when it's lunch time.
+He's 17 years old and can only drive his moto for the momment. He also drink one or two coffees a day.
 
 ### g. Kimberley GONZALES
-<div style="display:flex; width:100%; justify-content:space-evenly; align-items:center">
-<p style="width:60%">Kimberley GONZALES started smoking with her friend Cindy a few years ago. Recently she broke her leg in holydays, and can't really move far aways from school unless her friend help her. She usually walks a lot, but she isn't able to right now.</p>
 <img src="./images/KimberleyGonzales.jpg" style="width:100px; height:100px">
-</div>
+Kimberley GONZALES started smoking with her friend Cindy a few years ago. Recently she broke her leg in holydays, and can't really move far aways from school unless her friend help her. She usually walks a lot, but she isn't able to right now.
 
 ### h. Cindy PÏAIS
-<div style="display:flex; width:100%; justify-content:space-evenly; align-items:center">
 <img src="./images/CindyPiais.jpg" style="width:100px; height:100px">
-<p style="width:60%">Cindy PÏAIS is best friend with Kimberley. She support her friend that can't eat outside and started recently to cooks for her, she loves it.  Her parents drops her and Kimberley in front of the school. She follows and help Kimberley during the day. </p>
-</div>
+Cindy PÏAIS is best friend with Kimberley. She support her friend that can't eat outside and started recently to cooks for her, she loves it.  Her parents drops her and Kimberley in front of the school. She follows and help Kimberley during the day. 
 
 
 ## b. Staff
 
 ### a. Denis DALGO
-<div style="display:flex; width:100%; justify-content:space-evenly; align-items:center">
-<p style="width:60%">Denis DALGO loves cooking, he prepare his lunch each evening. He is an ecological person, he own a car but doesn't live that far from the school. He is a music lover, that's his way to rest for a bit.</p>
 <img src="./images/DenisDalgo.jpg" style="width:100px; height:100px">
-</div>
+Denis DALGO loves cooking, he prepare his lunch each evening. He is an ecological person, he own a car but doesn't live that far from the school. He is a music lover, that's his way to rest for a bit.
 
 ### b. Timéo CAPUERA
-<div style="display:flex; width:100%; justify-content:space-evenly; align-items:center">
 <img src="./images/TimeoCapuera.jpg" style="width:100px; height:100px">
-<p style="width:60%">Timéo CAPUERA have a beautiful wife that cooks really well. He is 35 years old and come by car mainly because his brings a lot a stuff that are needed for his lessons. He likes being close to the students, and meets them at each breaks in the student resting room.</p>
-</div>
+Timéo CAPUERA have a beautiful wife that cooks really well. He is 35 years old and come by car mainly because his brings a lot a stuff that are needed for his lessons. He likes being close to the students, and meets them at each breaks in the student resting room.
  
 ## c. Professors
 
 ### a. Hugo PATON
-<div style="display:flex; width:100%; justify-content:space-evenly; align-items:center">
-<p style="width:60%">Hugo PATON is a C# Teacher from Canada. He comes by train to the train station and by walk to the school every morning. So he just brings a little bowl of food and he cooks it in the resting room at lunch time. During the break he goes to the front door with the other professors and he smokes his cigarette before coming back in the amphitheater.</p>
 <img src="./images/Hugopaton.jpg" style="width:100px; height:100px">
-</div>
+Hugo PATON is a C# Teacher from Canada. He comes by train to the train station and by walk to the school every morning. So he just brings a little bowl of food and he cooks it in the resting room at lunch time. During the break he goes to the front door with the other professors and he smokes his cigarette before coming back in the amphitheater.
 
 ### b. Lolita FOURASSE
-<div style="display:flex; width:100%; justify-content:space-evenly; align-items:center">
 <img src="./images/LolitaFourasse.jpg" style="width:100px; height:100px">
-<p style="width:60%">Lolita FOURASSE is a softskill teacher from Vierzon. She comes by car to the school because it's easier for her, so she enter the school by the back door. She is not a good cook so she prefer go to Carrefour Market or snacks to eat at lunch time. At the break she takes a coffee and she goes to the front door with other professors.</p>
-</div>
+Lolita FOURASSE is a softskill teacher from Vierzon. She comes by car to the school because it's easier for her, so she enter the school by the back door. She is not a good cook so she prefer go to Carrefour Market or snacks to eat at lunch time. At the break she takes a coffee and she goes to the front door with other professors.
 
 ## d. People of other schools
 
 ### a. Mourad BELKHASSEM
-<div style="display:flex; width:100%; justify-content:space-evenly; align-items:center">
-<p style="width:60%">Mourad BELKHASSEM likes cooking. He's disable and so he needs to use a wheelchair everydays. He lives in the center of Vierzon, so he comes everyday by his own. He prefer to stay alone than being with peoples because ofthe fear to be judged.</p>
 <img src="./images/MouradBelkhassem.jpg" style="width:100px; height:100px">
-</div>
+Mourad BELKHASSEM likes cooking. He's disable and so he needs to use a wheelchair everydays. He lives in the center of Vierzon, so he comes everyday by his own. He prefer to stay alone than being with peoples because ofthe fear to be judged.
 
 
 
 ### b. Virginie GARCIA
-<div style="display:flex; width:100%; justify-content:space-evenly; align-items:center">
 <img src="./images/VirginieGarcia.jpg" style="width:100px; height:100px">
-<p style="width:60%">Virginie GARCIA is an environmental person. She hates peoples not respecting the environment, so a few years ago, she decide toonly use her bike. But when electrical scooters released,she took one and nevertouched her bike again. Also she hate cooking, by so she eat where she can find something to eat. She is shy and ussually stay where there isn't much people.</p>
-</div>
+Virginie GARCIA is an environmental person. She hates peoples not respecting the environment, so a few years ago, she decide toonly use her bike. But when electrical scooters released,she took one and nevertouched her bike again. Also she hate cooking, by so she eat where she can find something to eat. She is shy and ussually stay where there isn't much people.
 
 ### c. Benoit HENOQUE
-<div style="display:flex; width:100%; justify-content:space-evenly; align-items:center">
-<p style="width:60%">Benoit HENOQUE is sociable and like being with friends or colleagues. He wakes up late and so he doesn't have time to cook in the morning. He love to talk with people and spend a lot of time taking ware of his students.</p>
 <img src="./images/BenoitHenoque.jpg" style="width:100px; height:100px">
-</div>
+<p style="width:60%">Benoit HENOQUE is sociable and like being with friends or colleagues. He wakes up late and so he doesn't have time to cook in the morning. He love to talk with people and spend a lot of time taking ware of his students.
 
 ### d. Kevin LAUTO
-<div style="display:flex; width:100%; justify-content:space-evenly; align-items:center">
 <img src="./images/KevinLauto.jpg" style="width:100px; height:100px">
-<p style="width:60%">Kevin LAUTO is a huge smoker. He consider himself as a Gypsy. He know personally the owner of Top Insalata near Algosup, so he loves eating there. He's over 18 and have his driving license.</p>
-</div>
+Kevin LAUTO is a huge smoker. He consider himself as a Gypsy. He know personally the owner of Top Insalata near Algosup, so he loves eating there. He's over 18 and have his driving license.
 
 # 7. User cases
 ## A. Students
