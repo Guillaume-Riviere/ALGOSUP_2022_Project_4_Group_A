@@ -687,10 +687,18 @@ Lolita Fourase lives in Vierzon , she wakes up at 8AM because she lives near of 
 
 ## D. Students of other schools
 ### a. Mourad BELKHASSEM
+
+Mourad BELKHASSEM lives in Vierzon, he cames by car at 8:50AM, he takes the elevator just after entering in the school, he stays all day at the second floor before taking back the escalator at 5:05PM and leaving the school at 5:07PM.
+
 ### b. Virginie GARCIA
 
 Virginie GARCIA lives in Vierzon. She is a students of CNAM. She arrives at school at 7:50AM and come directly upstair. During the first break at 10AM, she stay in her classroom or in corridor of CNAM with her friends. At 12PM she go downstair to leave school and come at her house, she eat outside. She comes back at 12:50PM and go directly upstair.During the second break at 15PM, she stay in classroom or corridors with her friends. She leave school at 17PM.
 
 
 ### c. Benoit HENOQUE
+Benoit HENOQUE starts his day at quater of seven, he leaves his house at 7:45AM and arrives by his own car around 1 or 2 minutes before eight. He leads his course until twelve before he is going to have lunch with his colleagues, mainly in restaurants. He returns leading his course at one until five. During breaks, he likes to spend time with his students and his colleagues, because he is really sociable.
+
 ### d. Kevin LAUTO
+
+Kevin LAUTO is a student on CNAM, he arrives at at school at 7:55. He smoke a cigarette at the front door before entering for 8AM. Since he's on CNAM he goes upstairs whre he will spend most of his time. At 10 AM, he goes down for 15 minutes in order to smoke, he goes as always in front of the building. At 10:15 he goes back upstairs until 12:30. After eating he goes back smoking for 30 minutes. Same again at 3 PM, he go smoke for 15 minutes. And finally, he left the building at 5PM when courses are over.
+ 
