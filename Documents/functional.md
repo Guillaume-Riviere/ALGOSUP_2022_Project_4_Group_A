@@ -694,8 +694,8 @@ Mourad BELKHASSEM lives in Vierzon, he cames by car at 8:50AM, he takes the elev
 
 Virginie GARCIA lives in Vierzon. She is a students of CNAM. She arrives at school at 7:50AM and come directly upstair. During the first break at 10AM, she stay in her classroom or in corridor of CNAM with her friends. At 12PM she go downstair to leave school and come at her house, she eat outside. She comes back at 12:50PM and go directly upstair.During the second break at 15PM, she stay in classroom or corridors with her friends. She leave school at 17PM.
 
-
 ### c. Benoit HENOQUE
+
 Benoit HENOQUE starts his day at quater of seven, he leaves his house at 7:45AM and arrives by his own car around 1 or 2 minutes before eight. He leads his course until twelve before he is going to have lunch with his colleagues, mainly in restaurants. He returns leading his course at one until five. During breaks, he likes to spend time with his students and his colleagues, because he is really sociable.
 
 ### d. Kevin LAUTO
