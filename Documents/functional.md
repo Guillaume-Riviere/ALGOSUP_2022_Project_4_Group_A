@@ -69,7 +69,7 @@ Table of Contents
   - [c. Professors](#c-professors)
     - [a. Hugo PATON](#a-hugo-paton)
     - [b. Lolita FOURASSE](#b-lolita-fourasse)
-  - [d. Students of other schools](#d-students-of-other-schools)
+  - [d. People of other schools](#d-people-of-other-schools)
     - [a. Mourad BELKHASSEM](#a-mourad-belkhassem)
     - [b. Virginie GARCIA](#b-virginie-garcia)
     - [c. Benoit HENOQUE](#c-benoit-henoque)
@@ -90,7 +90,7 @@ Table of Contents
   - [C. Professors](#c-professors-1)
     - [a. Hugo PATON](#a-hugo-paton-1)
     - [b. Lolita FOURASSE](#b-lolita-fourasse-1)
-  - [D. Students of other schools](#d-students-of-other-schools-1)
+  - [D. People of other schools](#d-people-of-other-schools-1)
     - [a. Mourad BELKHASSEM](#a-mourad-belkhassem-1)
     - [b. Virginie GARCIA](#b-virginie-garcia-1)
     - [c. Benoit HENOQUE](#c-benoit-henoque-1)
@@ -559,7 +559,7 @@ It can be a person that does that to reinforce the realism, or a start menu.
 ## a. Students
 
 ### a. Sebastien JUDOT
-
+<img src="./images/SebastienJudot.png" width=75px height=75px>
 Sebastien JUDOT is a model student. He perfoms really good in school and eat healthy. He prefers to cook himself. He doesn't live that close to the school and had to find a way to travel through the city. He love reading any kinda of books.
 
 ### b. Voleta DONATELLO
