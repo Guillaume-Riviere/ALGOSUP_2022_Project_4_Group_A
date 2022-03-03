@@ -664,6 +664,8 @@ Mourad BELKHASSEM lives in Vierzon, he cames by car at 8:50AM, he takes the elev
 
 ### b. Virginie GARCIA
 ### c. Benoit HENOQUE
+Benoit HENOQUE starts his day at quater of seven, he leaves his house at 7:45AM and arrives by his own car around 1 or 2 minutes before eight. He leads his course until twelve before he is going to have lunch with his colleagues, mainly in restaurants. He returns leading his course at one until five. During breaks, he likes to spend time with his students and his colleagues, because he is really sociable.
+
 ### d. Kevin LAUTO
 
 Kevin LAUTO is a student on CNAM, he arrives at at school at 7:55. He smoke a cigarette at the front door before entering for 8AM. Since he's on CNAM he goes upstairs whre he will spend most of his time. At 10 AM, he goes down for 15 minutes in order to smoke, he goes as always in front of the building. At 10:15 he goes back upstairs until 12:30. After eating he goes back smoking for 30 minutes. Same again at 3 PM, he go smoke for 15 minutes. And finally, he left the building at 5PM when courses are over.
