@@ -659,6 +659,9 @@ Lolita Fourase lives in Vierzon , she wakes up at 8AM because she lives near of 
 
 ## D. Students of other schools
 ### a. Mourad BELKHASSEM
+
+Mourad BELKHASSEM lives in Vierzon, he cames by car at 8:50AM, he takes the elevator just after entering in the school, he stays all day at the second floor before taking back the escalator at 5:05PM and leaving the school at 5:07PM.
+
 ### b. Virginie GARCIA
 ### c. Benoit HENOQUE
 ### d. Kevin LAUTO
