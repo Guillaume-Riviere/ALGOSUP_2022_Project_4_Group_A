@@ -615,7 +615,7 @@ Lolita FOURASSE is a softskill teacher from Vierzon. She comes by car to the sch
 ## d. People of other schools
 
 ### a. Mourad BELKHASSEM
-<img src="./images/MouradBelkassem.jpg" width=100px height=100px>
+<img src="./images/MouradBelkhassem.jpg" width=100px height=100px>
 Mourad BELKHASSEM likes cooking. He's disable and so he needs to use a wheelchair everydays. He lives in the center of Vierzon, so he comes everyday by his own. He prefer to stay alone than being with peoples because ofthe fear to be judged.
 
 ### b. Virginie GARCIA
