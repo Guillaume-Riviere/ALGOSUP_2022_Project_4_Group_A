@@ -28,7 +28,6 @@ Table of Contents
       - [2. Stands Zone](#2-stands-zone)
     - [b. Robotic Parkour](#b-robotic-parkour)
     - [c. Greenery](#c-greenery)
-    - [d. Entrance](#d-entrance)
   - [C. Sounds](#c-sounds)
     - [a. Doors](#a-doors)
     - [b. Ambient Sounds](#b-ambient-sounds)
@@ -38,10 +37,7 @@ Table of Contents
       - [4. Drone Flights](#4-drone-flights)
 - [5. Working Systems](#5-working-systems)
   - [A. Opening Hours To Public](#a-opening-hours-to-public)
-  - [B. Booking Rooms](#b-booking-rooms)
-    - [a. Entrance Screen](#a-entrance-screen)
-    - [b. Booking Process](#b-booking-process)
-  - [C. Permissions Card](#c-permissions-card)
+  - [B. Permissions Card](#b-permissions-card)
     - [a. Physical Visitor](#a-physical-visitor)
     - [b. Virtual Visitor](#b-virtual-visitor)
     - [c. Student](#c-student)
@@ -52,35 +48,53 @@ Table of Contents
     - [c. Student](#c-student-1)
     - [d. Staff](#d-staff-1)
     - [e. Stranger](#e-stranger)
-  - [E. Privacy](#e-privacy)
   - [F. VR Miscellaneous](#f-vr-miscellaneous)
     - [a. Time change](#a-time-change)
     - [b. People in School](#b-people-in-school)
     - [c. Teleportation to short distance](#c-teleportation-to-short-distance)
     - [d. Welcome NPC](#d-welcome-npc)
-- [6. User cases](#6-user-cases)
-  - [A. Physical Visitor](#a-physical-visitor-2)
-    - [a. Entering empty room](#a-entering-empty-room)
-    - [b. Entering occupied room](#b-entering-occupied-room)
-    - [c. Entering staff reserved room](#c-entering-staff-reserved-room)
-  - [B. Virtual Visitor](#b-virtual-visitor-2)
-    - [a. Entering empty room](#a-entering-empty-room-1)
-    - [b. Entering occupied room](#b-entering-occupied-room-1)
-    - [c. Entering staff reserved room](#c-entering-staff-reserved-room-1)
-  - [C. Student](#c-student-2)
-    - [a. Entering empty room](#a-entering-empty-room-2)
-    - [b. Entering occupied room](#b-entering-occupied-room-2)
-    - [c. Entering staff reserved room](#c-entering-staff-reserved-room-2)
-    - [d. Booking a free room](#d-booking-a-free-room)
-    - [e. Booking a reserved room](#e-booking-a-reserved-room)
-    - [f. Booking a free room with privacy](#f-booking-a-free-room-with-privacy)
-    - [g. Booking a meeting room](#g-booking-a-meeting-room)
-  - [D. Staff](#d-staff-2)
-    - [a. Entering empty room](#a-entering-empty-room-3)
-    - [b. Entering occupied room](#b-entering-occupied-room-3)
-    - [c. Entering Staff reserved room](#c-entering-staff-reserved-room-3)
-    - [d. Booking a meeting room](#d-booking-a-meeting-room)
-  
+- [6. Personaes](#6-personaes)
+  - [a. Students](#a-students)
+    - [a. Sebastien JUDOT](#a-sebastien-judot)
+    - [b. Voleta DONATELLO](#b-voleta-donatello)
+    - [c. Marshall SPLINTER](#c-marshall-splinter)
+    - [d. Jeanne PANCREASSE](#d-jeanne-pancreasse)
+    - [e. Emile SAVATTE](#e-emile-savatte)
+    - [f. Jordan CAPUERA](#f-jordan-capuera)
+    - [g. Kimberley GONZALES](#g-kimberley-gonzales)
+    - [h. Cindy PÏAIS](#h-cindy-pïais)
+  - [b. Staff](#b-staff)
+    - [a. Denis DALGO](#a-denis-dalgo)
+    - [b. Timéo CAPUERA](#b-timéo-capuera)
+  - [c. Professors](#c-professors)
+    - [a. Hugo PATON](#a-hugo-paton)
+    - [b. Lolita FOURASSE](#b-lolita-fourasse)
+  - [d. People of other schools](#d-people-of-other-schools)
+    - [a. Mourad BELKHASSEM](#a-mourad-belkhassem)
+    - [b. Virginie GARCIA](#b-virginie-garcia)
+    - [c. Benoit HENOQUE](#c-benoit-henoque)
+    - [d. Kevin LAUTO](#d-kevin-lauto)
+- [7. User cases](#7-user-cases)
+  - [A. Students](#a-students-1)
+    - [a. Sebastien JUDOT](#a-sebastien-judot-1)
+    - [b. Voleta DONATELLO](#b-voleta-donatello-1)
+    - [c. Marshall SPLINTER](#c-marshall-splinter-1)
+    - [d. Jeanne PANCREASSE](#d-jeanne-pancreasse-1)
+    - [e. Emile SAVATTE](#e-emile-savatte-1)
+    - [f. Jordan CAPUERA](#f-jordan-capuera-1)
+    - [g. Kimberley GONZALES](#g-kimberley-gonzales-1)
+    - [h. Cindy PÏAIS](#h-cindy-pïais-1)
+  - [B. Staff](#b-staff-1)
+    - [a. Denis DALGO](#a-denis-dalgo-1)
+    - [b. Timéo CAPUERA](#b-timéo-capuera-1)
+  - [C. Professors](#c-professors-1)
+    - [a. Hugo PATON](#a-hugo-paton-1)
+    - [b. Lolita FOURASSE](#b-lolita-fourasse-1)
+  - [D. People of other schools](#d-people-of-other-schools-1)
+    - [a. Mourad BELKHASSEM](#a-mourad-belkhassem-1)
+    - [b. Virginie GARCIA](#b-virginie-garcia-1)
+    - [c. Benoit HENOQUE](#c-benoit-henoque-1)
+    - [d. Kevin LAUTO](#d-kevin-lauto-1)
 
 ---
 
@@ -375,11 +389,6 @@ The robotic parkour have to contain:
 We'll find Greenery everywhere in the school , on the roof of the rooms.
 Also in each room to fill them and fell closer to the nature.
 
-### d. Entrance
-
-The entrance have to contain:
-- 1 screen
-- 1 plug for the screen 
 
 ## C. Sounds
 ### a. Doors
@@ -406,35 +415,16 @@ In the halls, you can hear students talking and walking, the drone flying and ro
 
 The school is opened to public between **9AM - 12AM** and **1PM - 5PM**.
 
-## B. Booking Rooms
+## B. Permissions Card
 
-### a. Entrance Screen
-
-A big tactile screen will be require after the entrance on the right.
-The purpose of it is to be able to book a rooms and see which romm is occupied during the day.
-It could also in the futur, display a slider of schedule when idle.
-
-### b. Booking Process
-
-You first will have to scan your card to identify yourself.
-Then you will have to set the time range you need a room.
-and last you will see all available rooms for you in green, you will also see unavailable room in red.
-
-You will have to specify a reason of booking, and if you need the privacy option (detailed below)
-
-## C. Permissions Card
-
-Everyone must have a permission card to interact in the school (open room, booking rooms...).
+Everyone must have a permission card to interact in the school (open room, ...).
 
 ### a. Physical Visitor
 
 | Permission  | Allow | Deny|
 | :---------- |:-----:|:---:|
 | Open empty room  | X |  |
-| Open reserved room |  | X |
-| Book a room |  | X |
 | Open empty meeting room | X |  |
-| Open reserved meeting room |  | X |
 | Open office |  | X |
 | Enter school outisde of opening hours |  | X |
 | Enter school in opening hours | X |  |
@@ -445,10 +435,8 @@ Everyone must have a permission card to interact in the school (open room, booki
 | Permission  | Allow | Deny|
 | :---------- |:-----:|:---:|
 | Open empty room  | X |  |
-| Open reserved room | X |  |
 | Book a room | X |  |
 | Open empty meeting room | X |  |
-| Open reserved meeting room | X |  |
 | Open office | X |  |
 | Enter school outisde of opening hours | X |  |
 | Enter school in opening hours | X |  |
@@ -459,10 +447,8 @@ Everyone must have a permission card to interact in the school (open room, booki
 | Permission  | Allow | Deny|
 | :---------- |:-----:|:---:|
 | Open empty room  | X |  |
-| Open reserved room |  |X |
 | Book a room | X |  |
 | Open empty meeting room |  | X |
-| Open reserved meeting room |  | X |
 | Open office |  | X |
 | Enter school outisde of opening hours |  | X |
 | Enter school in opening hours | X |  |
@@ -473,10 +459,8 @@ Everyone must have a permission card to interact in the school (open room, booki
 | Permission  | Allow | Deny|
 | :---------- |:-----:|:---:|
 | Open empty room  | X |  |
-| Open reserved room | X |  |
 | Book a room | X |  |
 | Open empty meeting room | X |  |
-| Open reserved meeting room | X |  |
 | Open office | X |  |
 | Enter school outisde of opening hours | X |  |
 | Enter school in opening hours | X |  |
@@ -486,7 +470,7 @@ Everyone must have a permission card to interact in the school (open room, booki
 
 All doors will require a permission access card in order to open it.
 Since the hall will be accessible by stranger, by Cpam's people and other people, it need to be securised.
-All Algosup users or staff will have different permissions in order to achieve that security.
+All ALGOSUP users or staff will have different permissions in order to achieve that security.
 
 ### a. Physical Visitor
 
@@ -543,16 +527,6 @@ All Algosup users or staff will have different permissions in order to achieve t
 | Open stock room |  | X |
 | Open library |  | X |
 
-## E. Privacy
-
-In our work, sometimes we have to work on project that are secret and are subject to privacy rules. 
-So we though about a way to be able a have privacy while coridor are transparent glass. 
-
-So when you will book a room, you will be able to ask for privacy.
-It have to be validate by a Staff members of the school. 
-
-If it have been validated by a staff member, the glass of your room will be obfuscated for the time you reserved it.
-
 ## F. VR Miscellaneous
 ### a. Time change
 
@@ -568,8 +542,8 @@ Some person will be user of school, some can be visitors, on even stranger.
 
 ### c. Teleportation to short distance
 
-We'll be able to teleport the user to a place , to avoid the walk time and lost time during a presentation
-and if the customer want to see a specific room or place.
+We'll be able to teleport the user to a short place. Since it's a simulation and it needs to be as close as reality as possible, the teleportation time will just handle the fact that you won't have enough space to visit the whole building.
+So teleportation to short distance is mandatory.
 
 ### d. Welcome NPC 
 
@@ -580,191 +554,155 @@ In that case it's here to give you some tips to start visit the school and also 
 
 It can be a person that does that to reinforce the realism, or a start menu.
 
-# 6. User cases
+# 6. Personaes
 
-I will details the most common users cases that could append.
-For all user cases, they will already have choose their permission card and each category a specific permission card is detailed.
+## a. Students
 
-## A. Physical Visitor
-### a. Entering empty room
+### a. Sebastien JUDOT
 
-If a physical visitor want to open an empty room or a non-reserved rooms, he will have to walk to the desired romm.
-He will have to take the permission card given earlier and stick it to the lock.
+<img src="./images/SebastienJudot.jpg" style="width:100px; height:100px">
+Sebastien JUDOT is a model student. He perfoms really good in school and eat healthy. He prefers to cook himself. He doesn't live that close to the school and had to find a way to travel through the city. He love reading any kinda of books.
 
-Since it's an empty room, he will have permission to open it.
-That way, the lock will make the allow sound and unlock the door.
+### b. Voleta DONATELLO
 
-The user is now in the room.
+<img src="./images/VoletaDonatello.jpg" style="width:100px; height:100px">
+Voleta DONATELLO is Italian and doesn't speak much french. She doesn't like french food at all. She lives in Bourges and has a car. Sometimes she likes to be alone and sometimes hanging out in hallways, either she talk to her friends, or she go on her phone.
 
-### b. Entering occupied room
+### c. Marshall SPLINTER
+<img src="./images/MarshallSplinter.jpg" style="width:100px; height:100px">
+Marshall SPLINTER is a good friend of Voleta. He destroyed his car and have to bike to come to school. He likes being with Voleta, that way he learn a little bit of italian and she learn a little bit of french.
 
-If a physical visitor want to open an occupied room or reserved rooms, he will have to walk to the desired romm.
-He will have to take the permission card given earlier and stick it to the lock.
+### d. Jeanne PANCREASSE
+<img src="./images/JeannePancreasse.jpg" style="width:100px; height:100px">
+Jeanne PANCREASSE doesn't likes eating in front of people. Her parents drops her each morning in front of the school. Jeanne is a coffee lover she drinks some as soon as she can.
 
-Since it's an occupied room, he will not have permission to open it.
-That way, the lock will make the deny sound.
+### e. Emile SAVATTE
+<img src="./images/EmileSavatte.jpg" style="width:100px; height:100px">
+Emile SAVATTE lives pretty farm away from Vierzon. And doesn't like cooking. He really love taking any kind of informations, that's why he love reading and searching a lot of informations.
 
-The user can't enter the room.
+### f. Jordan CAPUERA 
+<img src="./images/JordanCapuera.jpg" style="width:100px; height:100px">
+Jordan CAPUERA recently started smoking, he started smoking on hollidays before school. He is in couple with Jeanne and spend msot of his time with her, specially when it's lunch time.
+He's 17 years old and can only drive his moto for the momment. He also drink one or two coffees a day.
 
-### c. Entering staff reserved room
+### g. Kimberley GONZALES
+<img src="./images/KimberleyGonzales.jpg" style="width:100px; height:100px">
+Kimberley GONZALES started smoking with her friend Cindy a few years ago. Recently she broke her leg in holydays, and can't really move far aways from school unless her friend help her. She usually walks a lot, but she isn't able to right now.
 
-If a physical visitor want to open a staff reserved room, he will have to walk to the desired romm.
-He will have to take the permission card given earlier and stick it to the lock.
+### h. Cindy PÏAIS
+<img src="./images/CindyPiais.jpg" style="width:100px; height:100px">
+Cindy PÏAIS is best friend with Kimberley. She support her friend that can't eat outside and started recently to cooks for her, she loves it.  Her parents drops her and Kimberley in front of the school. She follows and help Kimberley during the day. 
 
-Since it's an staff reserved room, he will not have permission to open it.
-That way, the lock will make the deny sound.
 
-The user can't enter the room.
+## b. Staff
 
-## B. Virtual Visitor
-### a. Entering empty room
+### a. Denis DALGO
+<img src="./images/DenisDalgo.jpg" style="width:100px; height:100px">
+Denis DALGO loves cooking, he prepare his lunch each evening. He is an ecological person, he own a car but doesn't live that far from the school. He is a music lover, that's his way to rest for a bit.
 
-If a virtual visitor want to open an empty room or a non-reserved rooms, he will have to walk to the desired romm.
-He will have to take the permission card given earlier and stick it to the lock.
+### b. Timéo CAPUERA
+<img src="./images/TimeoCapuera.jpg" style="width:100px; height:100px">
+Timéo CAPUERA have a beautiful wife that cooks really well. He is 35 years old and come by car mainly because his brings a lot a stuff that are needed for his lessons. He likes being close to the students, and meets them at each breaks in the student resting room.
+ 
+## c. Professors
 
-Since it's an empty room, he will have permission to open it.
-That way, the lock will make the allow sound and unlock the door.
+### a. Hugo PATON
+<img src="./images/Hugopaton.jpg" style="width:100px; height:100px">
+Hugo PATON is a C# Teacher from Canada. He comes by train to the train station and by walk to the school every morning. So he just brings a little bowl of food and he cooks it in the resting room at lunch time. During the break he goes to the front door with the other professors and he smokes his cigarette before coming back in the amphitheater.
 
-The user is now in the room.
+### b. Lolita FOURASSE
+<img src="./images/LolitaFourasse.jpg" style="width:100px; height:100px">
+Lolita FOURASSE is a softskill teacher from Vierzon. She comes by car to the school because it's easier for her, so she enter the school by the back door. She is not a good cook so she prefer go to Carrefour Market or snacks to eat at lunch time. At the break she takes a coffee and she goes to the front door with other professors.
 
-### b. Entering occupied room
+## d. People of other schools
 
-If a virtual visitor want to open an occupied room or reserved rooms, he will have to walk to the desired romm.
-He will have to take the permission card given earlier and stick it to the lock.
+### a. Mourad BELKHASSEM
+<img src="./images/MouradBelkhassem.jpg" style="width:100px; height:100px">
+Mourad BELKHASSEM likes cooking. He's disable and so he needs to use a wheelchair everydays. He lives in the center of Vierzon, so he comes everyday by his own. He prefer to stay alone than being with peoples because ofthe fear to be judged.
 
-Since it's an occupied room, he will have permission to open it.
-That way, the lock will make the allow sound and unlock the door.
 
-The user is now in the room.
 
-### c. Entering staff reserved room
+### b. Virginie GARCIA
+<img src="./images/VirginieGarcia.jpg" style="width:100px; height:100px">
+Virginie GARCIA is an environmental person. She hates peoples not respecting the environment, so a few years ago, she decide toonly use her bike. But when electrical scooters released,she took one and nevertouched her bike again. Also she hate cooking, by so she eat where she can find something to eat. She is shy and ussually stay where there isn't much people.
 
-If a virtual visitor want to open a staff reserved room, he will have to walk to the desired romm.
-He will have to take the permission card given earlier and stick it to the lock.
+### c. Benoit HENOQUE
+<img src="./images/BenoitHenoque.jpg" style="width:100px; height:100px">
+<p style="width:60%">Benoit HENOQUE is sociable and like being with friends or colleagues. He wakes up late and so he doesn't have time to cook in the morning. He love to talk with people and spend a lot of time taking ware of his students.
 
-Since it's an staff reserved room, he will have permission to open it.
-That way, the lock will make the allow sound and unlock the door.
+### d. Kevin LAUTO
+<img src="./images/KevinLauto.jpg" style="width:100px; height:100px">
+Kevin LAUTO is a huge smoker. He consider himself as a Gypsy. He know personally the owner of Top Insalata near Algosup, so he loves eating there. He's over 18 and have his driving license.
 
-The user is now in the room.
+# 7. User cases
+## A. Students
 
-## C. Student
-### a. Entering empty room
+### a. Sebastien JUDOT
 
-If a student want to open an empty room or a non-reserved rooms, he will have to walk to the desired romm.
-He will have to take the permission card given earlier and stick it to the lock.
+Sebastien JUDOT starts his day at 8AM, he left his home a quarter hour before the school starts and go at school with his electric scooter. At 9AM, he goes on amphitheater to follow the first monday of month meeting.
+During the 1st break at 10:45AM, he likes to go on library to read or just to speak with his friends quietly. After the break, he continues his morning with project time until the launch. During the lunch, he warms his food that is cooked by his mother the day before. During the afternnon, he return in his project room to work with his team. He ends his day with a return on electric scooter and continue to work on his personnal project at home.
 
-Since it's an empty room, he will have permission to open it.
-That way, the lock will make the allow sound and unlock the door.
+### b. Voleta DONATELLO
 
-The user is now in the room.
+Voleta DONATELLO she lives at bourges, she wakes up at 7:00AM, She needs more than 1 hour  to be prepared, when she is ready she takes her car to go to ALGOSUP.She starts by Project with her mates, at the first break she stays in her project room and sometimes she talks with other students in the corridor,she continu to work on her project until 12:30AM, For the lunchtime she eats the meal that she prepared the evening before.When she has finish her meal , she goes in the English room, she goes to the toilet during the english lesson, During the 15:15PM break she stays in her room, she finishs her day with english and she comes back to her parents house at Bourges. 
 
-### b. Entering occupied room
+### c. Marshall SPLINTER
 
-If a student want to open an occupied room or reserved rooms, he will have to walk to the desired romm.
-He will have to take the permission card given earlier and stick it to the lock.
+Marshall SPLINTER starts his day at half seven, he leaves his home an half hour before the school because he lives near Vierzon and he has to take his bike. At 9AM, he goes on his project room to continue the current project with his group. During the 1st break at 10:45AM, he likes to stay in his project room or goes in the corridor to talk with his friends. After the break, he continues the project until the launch. During the lunch, he buys his food outside and returns at school to eat. During the afternoon, he goes in the amphitheater to follow courses. He ends each day by going at his home with his bike.
 
-Since it's an occupied room, he will not have permission to open it.
-That way, the lock will make the deny sound.
+### d. Jeanne PANCREASSE
 
-The user can't enter the room.
+Jeanne PANCREASSE starts his day at 8:30AM, she left her home five minutes before the school starts and go at school by walking. At 9:20AM, she arrives in late and receive a written warning. She don't have the permission to enter before the break because she is late. At the 1st break at 10:45AM, she can enter in the school and she goes at the coffee distributor. After the break, she continues her morning with a course on the Go language. During the lunch, she eat outside the school with Jordan, principally in fast foods. During the afternnon, she return in her Go language course.
 
-**BUT**
+### e. Emile SAVATTE
 
-If the room is a room he previously booked for that hour,
-When he will stick his card to the lock it will make the allow unlock sound and allow the user to enter the room.
+Emile SAVATTE wakes up at 8AM, he eats his breakfast before living his house at 8:40AM. He takes 15 min to come by walk to ALGOSUP. He arrives at 8:55AM at school. At 9AM, he goes in the amphitheater to follow the first monday of month meeting. During the 1st break at 10:45AM, he goes to toilets during 2 min before going to library. After the break, he continues his morning with project time until the lunch. He leaves school at half past twelve to buy his lunch. He comes back at 1:15PM and go back to library. At 2:00PM, he goes in the English class until 5PM. He comes back at home by walk directly.
 
-The user is now in the room.
+### f. Jordan CAPUERA 
 
-### c. Entering staff reserved room
+Jordan CAPUERA starts his day at 7:40AM, he lives with his parents. He left his home at 8:30AM and arrives at ALGOSUP with his moto. Before enter in school, he smoke at front deck. At 9AM he go in his project group. During the first break of the day at 10:45AM, he likes to smokes at outside deck with friends. After smoking, he go to the toilet and at 11AM he return to his project room for work on the project. At lunch time, he eat outside the school with Jeanne, at his home, at a fast food or he buys a sandwich. At 13:30PM he goes to english room to follow an english class. During the break of 15:15PM, he go smoke at outside deck with friends. At 15:30PM he return to english class. At 17PM, he take his moto and go back home. He doesn't really work at home.
 
-If a student want to open a staff reserved room, he will have to walk to the desired romm.
-He will have to take the permission card given earlier and stick it to the lock.
+### g. Kimberley GONZALES
 
-Since it's an staff reserved room, he will not have permission to open it.
-That way, the lock will make the deny sound.
+Kimberley GONZALES starts her day at 7AM. She starts her day with makeup and breakfast and leave her appartment at 8:40AM. Cindy PÏAIS, her friend, pick her in front of where she lives because she can't walk because she have a broken leg and she have crutch. They arrives at school at 8:50AM, smoke a cigaret in front of the school before enter in school. At 9AM, Kimberley come to english room and follow english class. During the first break, she come at outside deck for smoke with friends. After smoking, she go to toilet and come back to english room at 11AM. At lunch time, she cook her food in the school's kitchen. After eating she go smoke. At 13:30PM, she goes to a project room to work on project. At 15:15, during the break, she goes smoke at outside deck and go to toilet right after. At 15:30PM, she come back to her project room. At 17AM, Cindy pick her and they come back at there home.
 
-The user can't enter the room.
+### h. Cindy PÏAIS
 
-### d. Booking a free room
+Cindy PÏAIS starts her day at 8AM, she leaves her home ten minutes before the school. At 9AM, she goes in the amphitheater to follow courses. During the 1st break at 10:45AM, she likes to go in the toilet and smokes at outside deck. After the break, she continues to follow courses in the amphitheater. During the lunch, she warms her food. During the afternoon, she goes with her team in them project room. She ends each day by returning at her home.
 
-If a student want to book a room at a certain timetable he will have to go to the entrance.
-At the entrance you have the big tactile screen, identify himself on the screen.
+## B. Staff
+### a. Denis DALGO
 
-Then select his desired timetable, and take a free room (displayed in green).
-Specify the reason of the book and if privacy is needed (No for that case).
+Denis DALGO starts is day at 7:00AM, and he comes by car at 8:30 to prepare the opening hours in the office. He goes in toilets at 9:57AM for 2 minutes. He takes after a break of 10 minutes staying in his office and he come back to his office until lunch time. At 00:30PM he reheats his food and he eats during 30 minutes. At 1:00 he goes to toilets for 8 minutes before going back to his office until 4:00PM when he leaves his office by car and he returns to his home. 
 
-Then the student have is room booked.
+### b. Timéo CAPUERA
 
-### e. Booking a reserved room
+Timéo CAPUERA starts his day at 7:30AM. He eat breakfast and prepare himself and leave his house at 8:10AM and arrives at ALGOSUP at 8:30AM. He wait for students to make the list of absentees. At 9AM, when the doors of ALGOSUP are closed, he comes to his office and start to work on research of professors and student's life in school. At the 10:45 break, he go to the coffee distributor and come back to his office. At 11AM, he come back to work. During lunch time, he eat the lunch that his wife has prepared with staff and professors at school, take a coffee, go to toilet and come back to work at 13:30PM. During the break of 15:15PM, he stay in his office and come back to work at 15:30PM. When students leave the school, he stay at ALGOSUP until 18:30PM. Then, he come back at his home.
 
-If a student want to book a room at a certain timetable he will have to go to the entrance.
-At the entrance you have the big tactile screen, identify himself on the screen.
+## C. Professors
+### a. Hugo PATON
 
-Then select his desired timetable, and take a reserved room (displayed in red).
-He won't be able to go to the next step, and will have an error message.
+Hugo PATON starts his day at 8AM, he leaves his hotel at 8:30AM and arrives by walk around 8:40AM to prepare his course before students arrival. He gives his C# course until the break and goes to smoke with other professors, when the break is finish, he returns in his room to the lauch break. During this, he prepares his food and taste it. After that he continue to give his course before the end of the day.
 
-The student can't book this room.
+### b. Lolita FOURASSE
 
-### f. Booking a free room with privacy
+Lolita Fourase lives in Vierzon , she wakes up at 8AM because she lives near of ALGOSUP , she needs 5 minutes to come to the school , so she leaves her house at 8:30AM to arrive around 8:35AM 8:40AM.When she arrives she directly take a cafe and she prepares the Softskills Room to be ready when the students will arrive. During the first break she takes her time to speak with students who had questions.At 12:30PM she goes eat with the other students and with the staff she stays with them until the restart of the lesson at 13H30PM.For the afternoom she swap the activity so the students help her to move stuff in the room and she does her activity with the students until the break, she goes to the toilet during the break and come back to again speak with students.After the break she finishes her lesson until 17:00PM and takes 10 minutes to clean the rooms with some students who stay to help her.
 
-If a student want to book a room at a certain timetable he will have to go to the entrance.
-At the entrance you have the big tactile screen, identify himself on the screen.
 
-Then select his desired timetable, and take a free room (displayed in green).
-Specify the reason of the book and if privacy is needed (Yes for that case).
+## D. People of other schools
+### a. Mourad BELKHASSEM
 
-For privacy rooms, the booking process have to be validate by a staff member of the School.
+Mourad BELKHASSEM lives in Vierzon, he cames by car at 8:50AM, he takes the elevator just after entering in the school, he stays all day at the second floor before taking back the escalator at 5:05PM and leaving the school at 5:07PM.
 
-If the process is validate then the student have is room booked.
+### b. Virginie GARCIA
 
-Otherwise the romm will not be booked and will be back to the free state.
+Virginie GARCIA lives in Vierzon. She is a students of CNAM. She arrives at school at 7:50AM and come directly upstair. During the first break at 10AM, she stay in her classroom or in corridor of CNAM with her friends. At 12PM she go downstair to leave school and come at her house, she eat outside. She comes back at 12:50PM and go directly upstair.During the second break at 15PM, she stay in classroom or corridors with her friends. She leave school at 17PM.
 
-### g. Booking a meeting room
+### c. Benoit HENOQUE
 
-If a student want to book a meeting room at a certain timetable he will have to go to the entrance.
-At the entrance you have the big tactile screen, identify himself on the screen.
+Benoit HENOQUE starts his day at quater of seven, he leaves his house at 7:45AM and arrives by his own car around 1 or 2 minutes before eight. He leads his course until twelve before he is going to have lunch with his colleagues, mainly in restaurants. He returns leading his course at one until five. During breaks, he likes to spend time with his students and his colleagues, because he is really sociable.
 
-Then select his desired timetable, and take a free room (displayed in green).
-Specify the reason of the book and if privacy is needed.
+### d. Kevin LAUTO
 
-For meeting rooms, the booking process have to be validate by a staff member of the School.
-
-If the process is validate then the student have is room booked.
-
-Otherwise the romm will not be booked and will be back to the free state.
-
-## D. Staff
-### a. Entering empty room
-
-If a staff member want to open an empty room or a non-reserved rooms, he will have to walk to the desired romm.
-He will have to take the permission card given earlier and stick it to the lock.
-
-Since he's a staff member, he will have permission to open it.
-That way, the lock will make the allow sound and unlock the door.
-
-### b. Entering occupied room
-
-If a staff member want to open an occupied room or reserved room, he will have to walk to the desired romm.
-He will have to take the permission card given earlier and stick it to the lock.
-
-Since he's a staff member, he will have permission to open it.
-That way, the lock will make the allow sound and unlock the door.
-
-### c. Entering Staff reserved room
-
-If a staff member want to open a staff reserved room (Stock or office), he will have to walk to the desired romm.
-He will have to take the permission card given earlier and stick it to the lock.
-
-Since he's a staff member, he will have permission to open it.
-That way, the lock will make the allow sound and unlock the door.
-
-### d. Booking a meeting room
-
-If a staff member want to book a room at a certain timetable he will have to go to the entrance.
-At the entrance you have the big tactile screen, identify himself on the screen.
-
-Then select his desired timetable, and take a free room (displayed in green).
-Specify the reason of the book and if privacy is needed.
-
-The staff member have is room booked.
-He doesn't need to be validate by another staff member.
+Kevin LAUTO is a student on CNAM, he arrives at at school at 7:55. He smoke a cigarette at the front door before entering for 8AM. Since he's on CNAM he goes upstairs whre he will spend most of his time. At 10 AM, he goes down for 15 minutes in order to smoke, he goes as always in front of the building. At 10:15 he goes back upstairs until 12:30. After eating he goes back smoking for 30 minutes. Same again at 3 PM, he go smoke for 15 minutes. And finally, he left the building at 5PM when courses are over.
+ 
