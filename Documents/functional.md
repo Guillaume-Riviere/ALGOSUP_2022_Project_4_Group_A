@@ -685,7 +685,7 @@ Hugo PATON starts his day at 8AM, he leaves his hotel at 8:30AM and arrives by w
 Lolita Fourase lives in Vierzon , she wakes up at 8AM because she lives near of ALGOSUP , she needs 5 minutes to come to the school , so she leaves her house at 8:30AM to arrive around 8:35AM 8:40AM.When she arrives she directly take a cafe and she prepares the Softskills Room to be ready when the students will arrive. During the first break she takes her time to speak with students who had questions.At 12:30PM she goes eat with the other students and with the staff she stays with them until the restart of the lesson at 13H30PM.For the afternoom she swap the activity so the students help her to move stuff in the room and she does her activity with the students until the break, she goes to the toilet during the break and come back to again speak with students.After the break she finishes her lesson until 17:00PM and takes 10 minutes to clean the rooms with some students who stay to help her.
 
 
-## D. Students of other schools
+## D. People of other schools
 ### a. Mourad BELKHASSEM
 
 Mourad BELKHASSEM lives in Vierzon, he cames by car at 8:50AM, he takes the elevator just after entering in the school, he stays all day at the second floor before taking back the escalator at 5:05PM and leaving the school at 5:07PM.
