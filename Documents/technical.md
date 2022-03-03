@@ -1,9 +1,137 @@
 ---
+
+
+
 Table of Contents
 
--
+- [1. Introduction](#1-introduction)
+  - [A. Context](#a-context)
+  - [B. Technologies used](#b-technologies-used)
+  - [C. Provided files](#c-provided-files)
+- [2. Organisation](#2-organisation)
+  - [A. Folders](#a-folders)
+  - [B. Way of coding](#b-way-of-coding)
+  - [C. Github](#c-github)
+- [3. Glossary](#3-glossary)
+  - [B3](#b3)
+  - [CNAM](#cnam)
+  - [Scenario](#scenario)
+  - [Softskills](#softskills)
+  - [Staff](#staff)
+  - [Vierzon](#vierzon)
+  - [Virtual Simulation](#virtual-simulation)
+  - [VR](#vr)
+- [4. Furnitures](#4-furnitures)
+  - [A. Rooms](#a-rooms)
+    - [a. Project Rooms](#a-project-rooms)
+    - [b. Meetings Room](#b-meetings-room)
+    - [c. Resting Rooms](#c-resting-rooms)
+    - [d. Robotic Room](#d-robotic-room)
+    - [e. Office Rooms](#e-office-rooms)
+    - [f. Language Rooms](#f-language-rooms)
+    - [g. Softskills Room](#g-softskills-room)
+    - [h. Library Room](#h-library-room)
+    - [i. Reception Room](#i-reception-room)
+    - [j. Bathrooms](#j-bathrooms)
+    - [k. Stock Rooms](#k-stock-rooms)
+    - [l. Secured Stock Room](#l-secured-stock-room)
+    - [m. Back Outside Deck](#m-back-outside-deck)
+    - [n. Front Outside Deck](#n-front-outside-deck)
+    - [o. Amphitheater](#o-amphitheater)
+    - [p. Reprography](#p-reprography)
+  - [B. Halls](#b-halls)
+    - [a. Drone Zone](#a-drone-zone)
+    - [b. Flight Zone](#b-flight-zone)
+    - [c. Stands Zone](#c-stands-zone)
+    - [d. Robotic Parkour](#d-robotic-parkour)
+    - [e. Greener](#e-greener)
+- [5. Working Systems](#5-working-systems)
+  - [A. Permission Card](#a-permission-card)
+  - [B. Door locks](#b-door-locks)
+  - [C. Turnstile](#c-turnstile)
+  - [D. Ambient sounds](#d-ambient-sounds)
+- [6. Pathfinding](#6-pathfinding)
+  - [A. Project room](#a-project-room)
+  - [B. Amphitheater](#b-amphitheater)
+  - [C. Language room](#c-language-room)
+  - [D. Robotic room](#d-robotic-room-1)
+  - [E. Resting room](#e-resting-room)
+  - [F. Softskills room](#f-softskills-room)
+  - [G. Library](#g-library)
+  - [H. Bathrooms](#h-bathrooms)
+  - [I. Entrance](#i-entrance)
+  - [J. Back outside deck](#j-back-outside-deck)
+- [7. Pre-made scenario](#7-pre-made-scenario)
 
 
 ---
 
 # 1. Introduction
+## A. Context
+## B. Technologies used
+## C. Provided files
+
+# 2. Organisation
+## A. Folders
+## B. Way of coding
+## C. Github
+
+# 3. Glossary
+## B3
+## CNAM
+## Scenario
+## Softskills
+## Staff
+## Vierzon
+## Virtual Simulation
+## VR
+
+
+# 4. Furnitures
+## A. Rooms
+### a. Project Rooms
+### b. Meetings Room
+### c. Resting Rooms
+### d. Robotic Room
+### e. Office Rooms
+### f. Language Rooms
+### g. Softskills Room
+### h. Library Room
+### i. Reception Room
+### j. Bathrooms
+### k. Stock Rooms
+### l. Secured Stock Room
+### m. Back Outside Deck
+### n. Front Outside Deck
+### o. Amphitheater
+### p. Reprography
+
+## B. Halls
+### a. Drone Zone
+### b. Flight Zone
+### c. Stands Zone
+### d. Robotic Parkour
+### e. Greener
+
+# 5. Working Systems
+## A. Permission Card
+## B. Door locks
+## C. Turnstile
+## D. Ambient sounds
+
+# 6. Pathfinding
+## A. Project room
+## B. Amphitheater
+## C. Language room
+## D. Robotic room
+## E. Resting room
+## F. Softskills room
+## G. Library
+## H. Bathrooms
+## I. Entrance
+## J. Back outside deck
+
+
+# 7. Pre-made scenario
+
+**TBD**
