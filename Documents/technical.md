@@ -74,6 +74,19 @@ Table of Contents
 # 2. Organisation
 ## A. Folders
 ## B. Way of coding
+
+| What  | How | Exemple |
+| :---------- |:-----:| :----- |
+|Namespace | Lowercase | System |
+|Class | Normal| Pathfinder |
+|Constructor | Normal | Pathfinder(x,y) |
+|Function | PascalCase | FindFastestWay() |
+|Variable | camelCase | fastestWay() |
+| | -- | |
+|3D Files | Snake_Case + PascalCase | Project_Table |
+|Folders | PascalCase | ProjectRoom3D |
+
+
 ## C. Github
 
 # 3. Glossary
