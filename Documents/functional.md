@@ -612,7 +612,7 @@ Hugo PATON is a C# Teacher from Canada. He comes by train to the train station a
 
 Lolita FOURASSE is a softskill teacher from Vierzon. She comes by car to the school because it's easier for her, so she enter the school by the back door. She is not a good cook so she prefer go to Carrefour Market or snacks to eat at lunch time. At the break she takes a coffee and she goes to the front door with other professors.
 
-## d. Students of other schools
+## d. People of other schools
 
 ### a. Mourad BELKHASSEM
 
