@@ -113,10 +113,18 @@ The CNAM (for Conservatoire national des arts et métiers) was created by Abbé 
 
 ## Scenario
 ## Softskills
+
+Soft skills refer to human and personality-related qualities. They are often referred to as emotional intelligence. Empathy, listening and analysis are examples of non-technical skills. They are opposed to hard skills (or technical skills) which are acquired through learning at school or through professional experience. 
+
 ## Staff
 ## Vierzon
 ## Virtual Simulation
 ## VR
+
+VR is a simulated world that can be similar to or completely different from the real world. In that case, closest to reality, better it will be.
+VR is simulated using a Headset that the user have to wear to visit the simulation
+
+
 
 
 # 4. Furnitures
