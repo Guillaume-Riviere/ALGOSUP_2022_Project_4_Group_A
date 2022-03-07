@@ -622,7 +622,7 @@ Timéo CAPUERA have a beautiful wife that cooks really well. He is 35 years old 
 ## c. Professors
 
 ### a. Hugo PATON
-<img src="./images/Hugopaton.jpg" style="width:100px; height:100px">
+<img src="./images/HugoPaton.jpg" style="width:100px; height:100px">
 Hugo PATON is a C# Teacher from Canada. He comes by train to the train station and by walk to the school every morning. So he just brings a little bowl of food and he cooks it in the resting room at lunch time. During the break he goes to the front door with the other professors and he smokes his cigarette before coming back in the amphitheater.
 
 ### b. Lolita FOURASSE

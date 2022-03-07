@@ -69,7 +69,22 @@ Table of Contents
 # 1. Introduction
 ## A. Context
 ## B. Technologies used
+
+**Unity**
+We use unity in order to be able to 
+
+Unity
+C#
+Github
+
 ## C. Provided files
+
+The client gave us some files to begin with.
+- Drawings of the 1st floor as **PDF**
+- Drawings of the 2nd floor as **PDF**
+- Drawings of the basement as **PDF**
+- 3D Preview file of the B3 as **BIMX**
+- 3D file of the B3 as **IFC** converted to **FBX**
 
 # 2. Organisation
 ## A. Folders
