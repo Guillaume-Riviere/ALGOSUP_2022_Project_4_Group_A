@@ -68,14 +68,33 @@ Table of Contents
 
 # 1. Introduction
 ## A. Context
+
+This project is a Simulation of a school.
+
+It is for the school ALGOSUP, based in Vierzon. This school is a computer sciences school that use neuro-sciences to provide the most efficeint scholarship.
+
+For August/September 2023 than plan to relocate in the center of Vierzon, in old building. This building was used by Case almost 30 years ago.
+
+They still have the possibility to ask for changes for the incoming work. So they decided to ask for a Simulation of the new school in order to be sure everythings was well designed.
+
+So we got asked to make that Simulation with differents scenario when you can see what could append in the school, and what could have been wrongly designed.
+
+That way changes could be applied based on the result we could get.
+
 ## B. Technologies used
 
 **Unity**
-We use unity in order to be able to 
+We use unity in order to be able to generate the 3D simulation in the VR headset.
 
-Unity
-C#
-Github
+**C# Language**
+C# language is directly linked to Unity, it's the scripting language associated with unity.
+
+**Blender**
+Blender is a free 3D design software. It's made so we can edit 3D file, or create new one with tools that Unity doesn't have.
+
+**Github**
+Github is a plateform we use to work with a team. It's allow us to have the same project and differents computer
+
 
 ## C. Provided files
 
@@ -88,6 +107,36 @@ The client gave us some files to begin with.
 
 # 2. Organisation
 ## A. Folders
+
+
+- Assets
+  - 3D_File
+    - Furnitures
+      - ProjectRooms
+      - MeetingsRooms
+      - Offices
+      - RestingRooms
+      - RoboticRoom
+      - LanguageRoom
+      - SoftSkillRoom
+      - Library
+      - Bathromms
+      - StocksRooms
+      - Outside
+      - Amphitheater
+      - Reprography
+      - DroneZone
+      - RoboticTrack
+    - Plants
+    - Miscellaneous
+  - Materials
+    - Furnitures
+    - Plants
+    - Miscellaneous
+  - Animations
+  - Scripts
+
+
 ## B. Way of coding
 
 | What  | How | Exemple |
