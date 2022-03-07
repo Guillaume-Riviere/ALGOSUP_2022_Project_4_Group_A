@@ -91,6 +91,8 @@ Table of Contents
 
 # 3. Glossary
 ## B3
+The B3 used to belong to the Société française de matériel agricole et industriel (SFMAI), now Société française de Vierzon (SFV), which was a French company created on October 15, 1847 by Célestin Gérard in Vierzon, formerly a French pioneer in agricultural machinery. On February 4th, renovation work began in order to accommodate various institutions such as ALGOSUP, the CNAM, the Connected Campus and a start-up incubator in 2023.
+
 ## CNAM
 ## Scenario
 ## Softskills
