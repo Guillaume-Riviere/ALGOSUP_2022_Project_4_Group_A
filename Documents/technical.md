@@ -112,17 +112,23 @@ The B3 used to belong to the Société française de matériel agricole et indus
 The CNAM (for Conservatoire national des arts et métiers) was created by Abbé Grégoire. It collected newly invented tools, machines and models and explained their operation. Today, the CNAM is established throughout France and in 2021, has obtained the Qualiopi quality certification and renewal of the RSO Lucie label.
 
 ## Scenario
-## Softskills
+Scenario are here to show pre-created events that can happend. It can be the choice of a personae, simulation of lunch-time, simulation of break times...
 
+## Softskills
 Soft skills refer to human and personality-related qualities. They are often referred to as emotional intelligence. Empathy, listening and analysis are examples of non-technical skills. They are opposed to hard skills (or technical skills) which are acquired through learning at school or through professional experience. 
 
 ## Staff
-## Vierzon
-## Virtual Simulation
-## VR
+The Staff is here to help you. They give you permission and they manage the life in the institution.
 
+## Vierzon
+Vierzon is a little city in the center of France. It's where the B3 is located.
+
+## Virtual Simulation
+The main goal of a virtual simulation is to anticipate things that can happend in real life. In this project for example, we have to careful about personae, time, crowd, etc... which can happend easily.
+
+## VR
 VR is a simulated world that can be similar to or completely different from the real world. In that case, closest to reality, better it will be.
-VR is simulated using a Headset that the user have to wear to visit the simulation
+VR is simulated using a Headset that the user have to wear to visit the simulation.
 
 
 
