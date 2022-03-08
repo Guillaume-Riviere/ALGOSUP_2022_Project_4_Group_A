@@ -298,7 +298,7 @@ Each toilets need to contain:
 - 1 trashcan
 - 1 toilet paper dispenser 
 
-Each disabled toilets need to contain:
+toilets:
 - 1 toilet
 - 1 metal bar on the wall
 - 1 bathroom sink
@@ -307,10 +307,10 @@ Each disabled toilets need to contain:
 
 ### k. Stock Rooms
 
-- Cardboards
-- 20 Shelves
-- 4 Chairs
-- 1 Trashcan
+- Cardboards  (https://www.cgtrader.com/free-3d-models/architectural/other/cardboard-boxes-pack-1-low-poly-pbr)
+- 20 Shelves(https://www.cgtrader.com/free-3d-models/interior/other/school-bag-shelves)
+- 4 Chairs (https://www.cgtrader.com/free-3d-models/interior/interior-office/ddlc-chair)
+- 1 Trashcan (https://www.cgtrader.com/free-3d-models/interior/interior-office/trash-bin-374b549a-2c61-4972-a8d0-e93dbad2b2c0)
 
 ### l. Secured Stock Room
 
