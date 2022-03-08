@@ -295,16 +295,16 @@ Each rooms have to contain:
 - 4 mirror ()
 
 Each toilets need to contain: 
-- 1 toilet
-- 1 trashcan
-- 1 toilet paper dispenser 
+- 1 toilet (https://www.cgtrader.com/free-3d-models/interior/bathroom/low-poly-qualitas-bathrooms-toilet-for-game-use)
+- 1 trashcan (https://www.cgtrader.com/free-3d-models/interior/interior-office/trash-bin-374b549a-2c61-4972-a8d0-e93dbad2b2c0)
+- 1 toilet paper dispenser (https://www.cgtrader.com/free-3d-models/interior/bathroom/toilet-roll-holder-sample)
 
 toilets:
-- 1 toilet
-- 1 metal bar on the wall
-- 1 bathroom sink
-- 1 trashcan
-- 1 mirror
+- 1 toilet (https://www.cgtrader.com/free-3d-models/interior/bathroom/low-poly-qualitas-bathrooms-toilet-for-game-use)
+- 1 metal bar on the wall 
+- 1 bathroom sink (https://www.cgtrader.com/free-3d-models/household/other/bathroom-sink-6b81b5bd-04ae-46b5-9102-b0cc77e1c102)
+- 1 trashcan  (https://www.cgtrader.com/free-3d-models/interior/interior-office/trash-bin-374b549a-2c61-4972-a8d0-e93dbad2b2c0)
+- 1 mirror (https://www.cgtrader.com/free-3d-models/interior/interior-office/trash-bin-374b549a-2c61-4972-a8d0-e93dbad2b2c0)
 
 ### k. Stock Rooms
 
