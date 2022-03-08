@@ -51,16 +51,6 @@ Table of Contents
   - [C. Turnstile](#c-turnstile)
   - [D. Ambient sounds](#d-ambient-sounds)
 - [6. Pathfinding](#6-pathfinding)
-  - [A. Project room](#a-project-room)
-  - [B. Amphitheater](#b-amphitheater)
-  - [C. Language room](#c-language-room)
-  - [D. Robotic room](#d-robotic-room-1)
-  - [E. Resting room](#e-resting-room)
-  - [F. Softskills room](#f-softskills-room)
-  - [G. Library](#g-library)
-  - [H. Bathrooms](#h-bathrooms)
-  - [I. Entrance](#i-entrance)
-  - [J. Back outside deck](#j-back-outside-deck)
 - [7. Pre-made scenario](#7-pre-made-scenario)
 
 
@@ -178,8 +168,6 @@ The main goal of a virtual simulation is to anticipate things that can happend i
 ## VR
 VR is a simulated world that can be similar to or completely different from the real world. In that case, closest to reality, better it will be.
 VR is simulated using a Headset that the user have to wear to visit the simulation.
-
-
 
 
 # 4. Furnitures
@@ -402,17 +390,94 @@ beginning -> 9am : noises in corridors, resting room, outside deck and staff roo
 3.15pm -> 3.30pm : noises in corridors, resting room, outside deck and staff rooms
 
 # 6. Pathfinding
-## A. Project room
-## B. Amphitheater
-## C. Language room
-## D. Robotic room
-## E. Resting room
-## F. Softskills room
-## G. Library
-## H. Bathrooms
-## I. Entrance
-## J. Back outside deck
 
+We need a pathfinder in order to simulate life in the school.
+That way we can move people from a room to another and simulate movement.
+
+The pathfinder should be able to handle all people in the school at the same time. And lead each person to his own destination.
+
+It need to detect all walls and openable doors based on who is the person.
+The people have to not colide between themself ( Except a defined event )
+
+Is also need to be able to manage people that will stop for any reasons in corridors.
+
+Basic code exemple on how it should looks like:
+
+```
+Pathfinder(person, destination){
+  var permission = CheckPerm(person);
+  bool allowedAcces = CheckAcces(permission, destination);
+
+  if (allowedAccess){
+    if (destination == room){
+      MoveTo(person, destination)
+    }
+    else if (destination == coridor){
+      var random = Ramdom(CoordinatesList)
+      MoveTo(person, random)
+    }
+    else if (destination == restingroom){
+      MoveTo(person, destination)
+    }
+    else{
+      destination = outside;
+      MoveTo(person, destination)
+    }
+  }
+  else{
+    MoveTo(person, outside);
+    Debug.log(Error)
+  }
+}
+
+CheckPerm(person){
+  if(person.rank == student){
+    output = permission.table.student
+  }
+  else if (person.rank == staff){
+    output = permission.table.staff
+  }
+  else if (person.rank == visitor){
+    output = permission.table.visitor
+  }
+  else if (person.rank == teacher){
+    output = permission.table.teacher
+  }
+  return output
+}
+
+
+CheckAcces(permission, destination){
+  foreach value in permission{
+    if (destination == value){
+      return true;
+    }
+  }
+  return false;
+}
+
+MoveTo(person, destination){
+  var actualX = person.coordinates.x
+  var actualY = person.coordinates.y
+  var actualZ = person.coordinates.z
+
+  var destinationX = destination.x
+  var destinationY = destination.y
+  var destinationZ = destination.z
+
+  var pathX = FindPath(actualX, destinationX)
+  var pathY = FindPath(actualY, destinationY)
+  var pathZ = FindPath(actualZ, destinationZ)
+
+  while (person.coordinates.x != destination.x && person.coordinates.y !=destination.y && person.coordinates.z != destination.z){
+    if (pathX != null && pathY != null && pathZ != pathZ){
+      person.coordinates.x = pathX.next
+      person.coordinates.y = pathY.next
+      person.coordinates.z = pathZ.next
+    }
+  }
+}
+```
 
 # 7. Pre-made scenario
 
