@@ -343,13 +343,13 @@ Each disabled toilets need to contain:
 - 1 platform
 - 1 plug for the computer
 - 1 plug for the video projector 
-- 1 trash can
+- 1 trash can (https://www.cgtrader.com/free-3d-models/interior/interior-office/trash-bin-374b549a-2c61-4972-a8d0-e93dbad2b2c0)
 
 ### p. Reprography
 
-- 1 printer / scanner
-- 1 trashcan 
-- 1 desk
+- 1 printer / scanner (https://www.cgtrader.com/free-3d-models/electronics/other/low-poly-xerox-printer)
+- 1 trashcan (https://www.cgtrader.com/free-3d-models/interior/interior-office/trash-bin-374b549a-2c61-4972-a8d0-e93dbad2b2c0)
+- 1 desk (https://www.cgtrader.com/free-3d-models/interior/interior-office/office-desk-c0b6c5c0-dcef-401e-a302-0f1350aa14ab)
 
 
 ## B. Halls
