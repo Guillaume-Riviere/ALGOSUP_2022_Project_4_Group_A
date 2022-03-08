@@ -186,46 +186,47 @@ VR is simulated using a Headset that the user have to wear to visit the simulati
 ## A. Rooms
 ### a. Project Rooms
 
-- 1 rectangle table
-- 6 chairs
-- 1 TV or big screen
-- 1 whiteboard or digital whiteboard
-- 1 trashcan
-- 6 plugs for the table
-- 2 plugs for the TV
+- 1 rectangle table (https://www.cgtrader.com/free-3d-models/interior/interior-office/walnut-raiseable-desk)
+- 6 chairs (https://www.cgtrader.com/free-3d-models/furniture/chair/chair-4b4a68cb-33a7-4155-a411-0127a9d4e1cf)
+- 1 TV or big screen (https://www.cgtrader.com/free-3d-models/interior/hall/sony-led-tv-f3edc673-2c3b-4767-a062-ed2179c04f20)
+- 1 whiteboard or digital whiteboard (https://www.cgtrader.com/free-3d-models/architectural/other/white-board-3388752a-191c-41f9-91c3-491569581484)
+- 1 trashcan (https://www.cgtrader.com/free-3d-models/interior/interior-office/trash-bin-374b549a-2c61-4972-a8d0-e93dbad2b2c0)
+- 6 plugs for the table (https://www.cgtrader.com/free-3d-models/electronics/other/power-plug-outlet-type-f)
+- 2 plugs for the TV (https://www.cgtrader.com/free-3d-models/electronics/other/power-plug-outlet-type-f)
 
 ### b. Meetings Room
 
-- 1 rectangle table
-- 10 chairs
-- 1 TV or video projector
-- 1 whiteboard or digital whiteboard
-- 1 trashcan
-- 5 plugs for the table
-- 2 plugs for the TV or video projector
+- 1 rectangle table (https://www.cgtrader.com/free-3d-models/interior/interior-office/meeting-desk)
+- 10 chairs (https://www.cgtrader.com/free-3d-models/furniture/chair/chair-4b4a68cb-33a7-4155-a411-0127a9d4e1cf)
+- 1 TV or video projector (https://www.cgtrader.com/free-3d-models/interior/hall/sony-led-tv-f3edc673-2c3b-4767-a062-ed2179c04f20)
+- 1 whiteboard or digital whiteboard (https://www.cgtrader.com/free-3d-models/architectural/other/white-board-3388752a-191c-41f9-91c3-491569581484)
+- 1 trashcan (https://www.cgtrader.com/free-3d-models/interior/interior-office/trash-bin-374b549a-2c61-4972-a8d0-e93dbad2b2c0)
+- 5 plugs for the table (https://www.cgtrader.com/free-3d-models/electronics/other/power-plug-outlet-type-f)
+- 2 plugs for the TV or video projector (https://www.cgtrader.com/free-3d-models/electronics/other/power-plug-outlet-type-f)
 
 ### c. Resting Rooms
 
-- 3 circle tables
-- 9 chairs
-- 1 sink
-- 1 fridge
-- 1 trashcan
-- 2 microwave
-- 2 plugs for microwaves
-- 1 plugs for the fridge
+- 3 circle tables (https://www.cgtrader.com/free-3d-models/interior/house-interior/table-94e1797b-d496-4a67-9f1b-e4e2ad738c45)
+- 9 chairs (https://www.cgtrader.com/free-3d-models/furniture/chair/eames-dsw)
+- 1 sink (https://www.cgtrader.com/free-3d-models/household/other/pia-semi-encaixe-bathroom-sink--2)
+- 1 fridge (https://www.cgtrader.com/free-3d-models/interior/kitchen/supermarket-glass-door-refrigerator)
+- 1 trashcan (https://www.cgtrader.com/free-3d-models/interior/interior-office/trash-bin-374b549a-2c61-4972-a8d0-e93dbad2b2c0)
+- 2 microwave (https://www.cgtrader.com/free-3d-models/interior/kitchen/microwave-rigged-and-animated)
+- 2 plugs for microwaves (https://www.cgtrader.com/free-3d-models/electronics/other/power-plug-outlet-type-f)
+- 1 plugs for the fridge (https://www.cgtrader.com/free-3d-models/electronics/other/power-plug-outlet-type-f)
 
 
-- 15 circle tables
-- 90 chairs
-- 2 sinks
-- 6 fridges
-- 15 microwaves
-- 2 trashcan
-- 2 Couchs
-- 4 armchair
-- 15 plugs for for microwaves
-- 6 plugs for the fridges
+- 15 circle tables (https://www.cgtrader.com/free-3d-models/interior/house-interior/table-94e1797b-d496-4a67-9f1b-e4e2ad738c45)
+- 9 chairs (https://www.cgtrader.com/free-3d-models/furniture/chair/eames-dsw)
+- 90 chairs (https://www.cgtrader.com/free-3d-models/furniture/chair/eames-dsw)
+- 2 sinks (https://www.cgtrader.com/free-3d-models/household/other/pia-semi-encaixe-bathroom-sink--2)
+- 6 fridges (https://www.cgtrader.com/free-3d-models/interior/kitchen/supermarket-glass-door-refrigerator)
+- 15 microwaves (https://www.cgtrader.com/free-3d-models/interior/kitchen/microwave-rigged-and-animated)
+- 2 trashcan (https://www.cgtrader.com/free-3d-models/interior/interior-office/trash-bin-374b549a-2c61-4972-a8d0-e93dbad2b2c0)
+- 2 Couchs (https://www.cgtrader.com/free-3d-models/furniture/furniture-set/patio-set-fd7e2322-9376-418c-a4c8-db823f66179d)
+- 4 armchair (https://www.cgtrader.com/free-3d-models/furniture/sofa/sofa-01-36d8404f-a82d-4059-99e1-519eb96cfdce)
+- 15 plugs for for microwaves (https://www.cgtrader.com/free-3d-models/electronics/other/power-plug-outlet-type-f)
+- 6 plugs for the fridges (https://www.cgtrader.com/free-3d-models/electronics/other/power-plug-outlet-type-f)
 
 ### d. Robotic Room
 
