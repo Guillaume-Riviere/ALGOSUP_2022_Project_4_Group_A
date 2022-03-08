@@ -279,19 +279,20 @@ VR is simulated using a Headset that the user have to wear to visit the simulati
 
 ### i. Reception Room
 
-- 1 Computer
-- 1 Chair
-- 1 Desk
-- 1 Plug
-- 1 Trashcan
+- 1 Computer (https://www.cgtrader.com/free-3d-models/electronics/computer/gigabyte-shassis)
+- 1 Computer screen (https://www.cgtrader.com/3d-models/electronics/computer/monitor-7b3b301e-e05f-4526-8460-b65c02f0639f)
+- 1 Chair (https://www.cgtrader.com/free-3d-models/furniture/chair/free-office-chair-low-poly-model)
+- 1 Desk (https://www.cgtrader.com/free-3d-models/interior/interior-office/wooden-desk-bd6cdf77-af9c-4575-a17a-ee6ffff58c03)
+- 1 Plug (https://www.cgtrader.com/free-3d-models/electronics/other/power-plug-outlet-type-f)
+- 1 Trashcan (https://www.cgtrader.com/free-3d-models/interior/interior-office/trash-bin-374b549a-2c61-4972-a8d0-e93dbad2b2c0)
 
 ### j. Bathrooms
 
 Each rooms have to contain: 
-- 4 bathroom sink
-- 1 hand dryer
-- 1 trashcan
-- 4 mirror
+- 4 bathroom sink ()
+- 1 hand dryer ()
+- 1 trashcan ()
+- 4 mirror ()
 
 Each toilets need to contain: 
 - 1 toilet
@@ -364,6 +365,18 @@ Permission cards can be used for a variety of purposes, including access to the 
 
 ## B. Door locks
 The doors will be locked to avoid any theft or material problems. They will be open only with permission cards and at certain times depending on the room (e.g.: school door, meeting room door and project room doors). To unlock doors, the person needs to have the good one permission following permissions cards.
+
+All rooms will be completely locked from 6.30pm (when the last person leaves) until 7.30am (when the first staff member arrives). 
+The main entrance door will be open from 7.30am to 6.30pm. Both turnstiles will be closed at the same times as entrance door, but, you will be able to open them if you have a student/staff card which you will scan to activate the turnstile. So these cards will work between 7.30am and 6.30pm. The door next to the front turnstile will be closed at all times but will be unlockable with a key (which will be in the office closest to the reception desk to allow someone from the staff to open it during the day).
+
+For the following rooms :
+- project rooms
+- office rooms
+- meeting rooms
+- english rooms
+- stock rooms
+- library
+They will be unlockable between 7.30am and 6.30 pm according to the roles described in the previous sub-section.
 
 ## C. Turnstile
 
