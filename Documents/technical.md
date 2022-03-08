@@ -351,6 +351,33 @@ toilets:
 ## A. Permission Card
 Permission cards can be used for a variety of purposes, including access to the school (during and outside of school hours), to enter classrooms and project rooms, to enter the meeting room... They can also be used to access the food and beverage dispensers and the library.
 
+Basic code exemple on how we can use permission cards:
+
+```py
+def have_permissions(person):
+  if person.rank == student:
+    output = permission.table.student
+  
+  else if person.rank == staff:
+    output = permission.table.staff
+  
+  else if person.rank == visitor:
+    output = permission.table.visitor
+
+  else if person.rank == teacher:
+    output = permission.table.teacher
+  else:
+    output = "You don't have right permissions, please try later with permissions"
+  return output
+
+
+def check_acces(permission, destination):
+  for values in permission:
+    if destination == value:
+      return true
+    return false
+```
+
 ## B. Door locks
 The doors will be locked to avoid any theft or material problems. They will be open only with permission cards and at certain times depending on the room (e.g.: school door, meeting room door and project room doors). To unlock doors, the person needs to have the good one permission following permissions cards.
 
