@@ -344,13 +344,13 @@ Each disabled toilets need to contain:
 - 1 platform
 - 1 plug for the computer
 - 1 plug for the video projector 
-- 1 trash can
+- 1 trash can (https://www.cgtrader.com/free-3d-models/interior/interior-office/trash-bin-374b549a-2c61-4972-a8d0-e93dbad2b2c0)
 
 ### p. Reprography
 
-- 1 printer / scanner
-- 1 trashcan 
-- 1 desk
+- 1 printer / scanner (https://www.cgtrader.com/free-3d-models/electronics/other/low-poly-xerox-printer)
+- 1 trashcan (https://www.cgtrader.com/free-3d-models/interior/interior-office/trash-bin-374b549a-2c61-4972-a8d0-e93dbad2b2c0)
+- 1 desk (https://www.cgtrader.com/free-3d-models/interior/interior-office/office-desk-c0b6c5c0-dcef-401e-a302-0f1350aa14ab)
 
 
 ## B. Halls
@@ -362,9 +362,30 @@ Each disabled toilets need to contain:
 
 # 5. Working Systems
 ## A. Permission Card
+Permission cards can be used for a variety of purposes, including access to the school (during and outside of school hours), to enter classrooms and project rooms, to enter the meeting room... They can also be used to access the food and beverage dispensers and the library.
+
 ## B. Door locks
+The doors will be locked to avoid any theft or material problems. They will be open only with permission cards and at certain times depending on the room (e.g.: school door, meeting room door and project room doors)
+
 ## C. Turnstile
+
+1 front turnstile, 1 back/ openable with a card/ 1 doorbell between the front turnstile and the front interior door/ be able to use the turnstile/ make a song when doorbell pressed and somebody coming
+
 ## D. Ambient sounds
+
+beginning -> 9am : noises in corridors, resting room, outside deck and staff rooms
+
+9am -> 10.45am : noises in all working rooms
+
+10.45am -> 11am : noises in corridors, resting room, outside deck and staff rooms
+
+11am -> 0.30pm : noises in all working rooms
+
+0.30pm -> 1.30pm : noises in corridors, resting room, outside deck and staff rooms
+
+1.30pm -> 3.15pm : noises in all working rooms
+
+3.15pm -> 3.30pm : noises in corridors, resting room, outside deck and staff rooms
 
 # 6. Pathfinding
 ## A. Project room
