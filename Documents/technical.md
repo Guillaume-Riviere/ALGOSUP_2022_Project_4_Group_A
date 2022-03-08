@@ -256,6 +256,7 @@ VR is simulated using a Headset that the user have to wear to visit the simulati
 - 1 TV or video projector (https://www.cgtrader.com/free-3d-models/interior/hall/sony-led-tv-f3edc673-2c3b-4767-a062-ed2179c04f20)
 - 1 desk (https://www.cgtrader.com/free-3d-models/interior/interior-office/wooden-desk-bd6cdf77-af9c-4575-a17a-ee6ffff58c03)
 
+
 ### g. Softskills Room
 
 - 20 tables (https://www.cgtrader.com/free-3d-models/furniture/table/triangle-table-0b404112-25d8-4c26-807f-b7064c6227fb)
@@ -313,17 +314,17 @@ Each disabled toilets need to contain:
 
 ### l. Secured Stock Room
 
-- 30 Shelves
-- 1 camera
-- Cardboards
+- 30 Shelves (https://www.cgtrader.com/free-3d-models/interior/other/school-bag-shelves)
+- 1 camera (https://www.cgtrader.com/free-3d-models/electronics/video/cctv-exterior-surveillance-camera)
+- Cardboards (https://www.cgtrader.com/free-3d-models/architectural/other/cardboard-boxes-pack-1-low-poly-pbr)
 
 ### m. Back Outside Deck
 
-- 6 circle tables for 6 people
-- 8 circle tables for 4 people
-- 68 chairs
-- 2 ashtrays
-- 2 trashcans
+- 6 rectangle tables for 6 people (https://www.cgtrader.com/free-3d-models/interior/interior-office/meeting-desk)
+- 8 circle tables for 4 people (https://www.cgtrader.com/free-3d-models/furniture/table/high-quality-3d-circle-table)
+- 68 chairs (https://www.cgtrader.com/free-3d-models/interior/interior-office/ddlc-chair)
+- 2 ashtrays (https://www.cgtrader.com/free-3d-models/interior/interior-office/used-ashtray)
+- 2 trashcans (https://www.cgtrader.com/free-3d-models/interior/interior-office/trash-bin-374b549a-2c61-4972-a8d0-e93dbad2b2c0)
 
 ### n. Front Outside Deck
 
@@ -366,7 +367,10 @@ The doors will be locked to avoid any theft or material problems. They will be o
 
 ## C. Turnstile
 
-1 front turnstile, 1 back/ openable with a card/ 1 doorbell between the front turnstile and the front interior door/ be able to use the turnstile/ make a song when doorbell pressed and somebody coming
+One turnstile is needed at the front and one at the back. The one at the front will be used for people arriving on foot, bicycle or scooter. It will be placed between the main entrance door and the "reception". The second one will be located in place of the current door behind the drone workshop and will be used by people who park their cars in the back car park. 
+
+A door will be located on the same wall as the front turnstile. It will only be opened with a key by a member of staff. 
+Between the turnstile and this door there will be a bell, which can be used by students/staff who have forgotten their cards and by guests who do not have cards. It will ring a sound in the office at the entrance so that a member of staff present in that office can open the door.
 
 ## D. Ambient sounds
 
