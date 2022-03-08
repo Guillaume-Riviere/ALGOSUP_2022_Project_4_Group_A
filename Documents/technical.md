@@ -279,19 +279,20 @@ VR is simulated using a Headset that the user have to wear to visit the simulati
 
 ### i. Reception Room
 
-- 1 Computer
-- 1 Chair
-- 1 Desk
-- 1 Plug
-- 1 Trashcan
+- 1 Computer (https://www.cgtrader.com/free-3d-models/electronics/computer/gigabyte-shassis)
+- 1 Computer screen (https://www.cgtrader.com/3d-models/electronics/computer/monitor-7b3b301e-e05f-4526-8460-b65c02f0639f)
+- 1 Chair (https://www.cgtrader.com/free-3d-models/furniture/chair/free-office-chair-low-poly-model)
+- 1 Desk (https://www.cgtrader.com/free-3d-models/interior/interior-office/wooden-desk-bd6cdf77-af9c-4575-a17a-ee6ffff58c03)
+- 1 Plug (https://www.cgtrader.com/free-3d-models/electronics/other/power-plug-outlet-type-f)
+- 1 Trashcan (https://www.cgtrader.com/free-3d-models/interior/interior-office/trash-bin-374b549a-2c61-4972-a8d0-e93dbad2b2c0)
 
 ### j. Bathrooms
 
 Each rooms have to contain: 
-- 4 bathroom sink
-- 1 hand dryer
-- 1 trashcan
-- 4 mirror
+- 4 bathroom sink ()
+- 1 hand dryer ()
+- 1 trashcan ()
+- 4 mirror ()
 
 Each toilets need to contain: 
 - 1 toilet
