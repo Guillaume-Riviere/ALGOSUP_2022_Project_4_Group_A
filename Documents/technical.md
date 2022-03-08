@@ -366,7 +366,10 @@ The doors will be locked to avoid any theft or material problems. They will be o
 
 ## C. Turnstile
 
-1 front turnstile, 1 back/ openable with a card/ 1 doorbell between the front turnstile and the front interior door/ be able to use the turnstile/ make a song when doorbell pressed and somebody coming
+One turnstile is needed at the front and one at the back. The one at the front will be used for people arriving on foot, bicycle or scooter. It will be placed between the main entrance door and the "reception". The second one will be located in place of the current door behind the drone workshop and will be used by people who park their cars in the back car park. 
+
+A door will be located on the same wall as the front turnstile. It will only be opened with a key by a member of staff. 
+Between the turnstile and this door there will be a bell, which can be used by students/staff who have forgotten their cards and by guests who do not have cards. It will ring a sound in the office at the entrance so that a member of staff present in that office can open the door.
 
 ## D. Ambient sounds
 
