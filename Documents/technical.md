@@ -154,10 +154,15 @@ VR is simulated using a Headset that the user have to wear to visit the simulati
 
 ## B. Halls
 ### a. Drone Zone
+need to create a door to enter in the drone zone / need to change the textures of the grill
 ### b. Flight Zone
+need to add a drone to try the flight / need to be careful about the high of the drone going during flight
 ### c. Stands Zone
+need to install a podium for people who driving/watching drones 
 ### d. Robotic Parkour
+need to design a circuit for robots / need to add robots 
 ### e. Greener
+need to add plants where it's possible to have a frendlier place
 
 # 5. Working Systems
 ## A. Permission Card
