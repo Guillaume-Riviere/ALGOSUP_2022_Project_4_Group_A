@@ -185,21 +185,172 @@ VR is simulated using a Headset that the user have to wear to visit the simulati
 # 4. Furnitures
 ## A. Rooms
 ### a. Project Rooms
+
+- 1 rectangle table
+- 6 chairs
+- 1 TV or big screen
+- 1 whiteboard or digital whiteboard
+- 1 trashcan
+- 6 plugs for the table
+- 2 plugs for the TV
+
 ### b. Meetings Room
+
+- 1 rectangle table
+- 10 chairs
+- 1 TV or video projector
+- 1 whiteboard or digital whiteboard
+- 1 trashcan
+- 5 plugs for the table
+- 2 plugs for the TV or video projector
+
 ### c. Resting Rooms
+
+- 3 circle tables
+- 9 chairs
+- 1 sink
+- 1 fridge
+- 1 trashcan
+- 2 microwave
+- 2 plugs for microwaves
+- 1 plugs for the fridge
+
+
+- 15 circle tables
+- 90 chairs
+- 2 sinks
+- 6 fridges
+- 15 microwaves
+- 2 trashcan
+- 2 Couchs
+- 4 armchair
+- 15 plugs for for microwaves
+- 6 plugs for the fridges
+
 ### d. Robotic Room
+
+- 2 workbenchs
+- 8 chairs
+- 10 plugs
+- 1 whiteboard
+
 ### e. Office Rooms
+
+- 2 armchairs
+- 1 desk chair
+- 1 Angle desk
+- 1 trashcan
+- 1 computer
+- 2 screens for small office and 4 screens for big office
+- 3 plugs for small office and 5 plugs for big office
+
 ### f. Language Rooms
+
+- 15 tables
+- 16 chairs
+- 1 whiteboard
+- 1 computer
+- 8 plugs
+- 1 trashcan
+- 1 TV or video projector
+- 1 desk
+
 ### g. Softskills Room
+
+- 20 tables
+- 21 chairs
+- 1 desk
+- 1 computer
+- 1 whiteboard
+- 10 plugs
+- 1 trashcan
+- 1 TV or video projector
+
 ### h. Library Room
+
+- 16 shelves
+- 6 lazybags
+- 2 couchs
+- 4 tables
+- 4 chairs
+- 2 carpets
+
 ### i. Reception Room
+
+- 1 Computer
+- 1 Chair
+- 1 Desk
+- 1 Plug
+- 1 Trashcan
+
 ### j. Bathrooms
+
+Each rooms have to contain: 
+- 4 bathroom sink
+- 1 hand dryer
+- 1 trashcan
+- 4 mirror
+
+Each toilets need to contain: 
+- 1 toilet
+- 1 trashcan
+- 1 toilet paper dispenser 
+
+Each disabled toilets need to contain:
+- 1 toilet
+- 1 metal bar on the wall
+- 1 bathroom sink
+- 1 trashcan
+- 1 mirror
+
 ### k. Stock Rooms
+
+- Cardboards
+- 20 Shelves
+- 4 Chairs
+- 1 Trashcan
+
 ### l. Secured Stock Room
+
+- 30 Shelves
+- 1 camera
+- Cardboards
+
 ### m. Back Outside Deck
+
+- 6 circle tables for 6 people
+- 8 circle tables for 4 people
+- 68 chairs
+- 2 ashtrays
+- 2 trashcans
+
 ### n. Front Outside Deck
+
+- 1 letter box
+- 1 doorbell
+- 1 bike stand
+- 1 scooter stand
+- 1 ashtray
+- 1 trashcan
+
 ### o. Amphitheater
+
+- 1 computer
+- 1 video projector
+- 1 screen
+- 1 chair
+- 1 reader desk
+- 1 platform
+- 1 plug for the computer
+- 1 plug for the video projector 
+- 1 trash can (https://www.cgtrader.com/free-3d-models/interior/interior-office/trash-bin-374b549a-2c61-4972-a8d0-e93dbad2b2c0)
+
 ### p. Reprography
+
+- 1 printer / scanner (https://www.cgtrader.com/free-3d-models/electronics/other/low-poly-xerox-printer)
+- 1 trashcan (https://www.cgtrader.com/free-3d-models/interior/interior-office/trash-bin-374b549a-2c61-4972-a8d0-e93dbad2b2c0)
+- 1 desk (https://www.cgtrader.com/free-3d-models/interior/interior-office/office-desk-c0b6c5c0-dcef-401e-a302-0f1350aa14ab)
+
 
 ## B. Halls
 ### a. Drone Zone
@@ -216,7 +367,24 @@ Permission cards can be used for a variety of purposes, including access to the 
 The doors will be locked to avoid any theft or material problems. They will be open only with permission cards and at certain times depending on the room (e.g.: school door, meeting room door and project room doors)
 
 ## C. Turnstile
+
+1 front turnstile, 1 back/ openable with a card/ 1 doorbell between the front turnstile and the front interior door/ be able to use the turnstile/ make a song when doorbell pressed and somebody coming
+
 ## D. Ambient sounds
+
+beginning -> 9am : noises in corridors, resting room, outside deck and staff rooms
+
+9am -> 10.45am : noises in all working rooms
+
+10.45am -> 11am : noises in corridors, resting room, outside deck and staff rooms
+
+11am -> 0.30pm : noises in all working rooms
+
+0.30pm -> 1.30pm : noises in corridors, resting room, outside deck and staff rooms
+
+1.30pm -> 3.15pm : noises in all working rooms
+
+3.15pm -> 3.30pm : noises in corridors, resting room, outside deck and staff rooms
 
 # 6. Pathfinding
 ## A. Project room
