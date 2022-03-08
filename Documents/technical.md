@@ -376,9 +376,9 @@ def have_permissions(person):
   return output
 
 
-def check_acces(permission, destination):
+def check_acces(permission, door):
   for values in permission:
-    if destination == value:
+    if door == value:
       return true
     return false
 ```
