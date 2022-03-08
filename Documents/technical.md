@@ -210,7 +210,11 @@ VR is simulated using a Headset that the user have to wear to visit the simulati
 
 # 5. Working Systems
 ## A. Permission Card
+Permission cards can be used for a variety of purposes, including access to the school (during and outside of school hours), to enter classrooms and project rooms, to enter the meeting room... They can also be used to access the food and beverage dispensers and the library.
+
 ## B. Door locks
+The doors will be locked to avoid any theft or material problems. They will be open only with permission cards and at certain times depending on the room (e.g.: school door, meeting room door and project room doors)
+
 ## C. Turnstile
 ## D. Ambient sounds
 
