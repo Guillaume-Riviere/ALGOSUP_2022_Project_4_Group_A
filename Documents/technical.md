@@ -295,23 +295,23 @@ Each rooms have to contain:
 - 4 mirror ()
 
 Each toilets need to contain: 
-- 1 toilet
-- 1 trashcan
-- 1 toilet paper dispenser 
+- 1 toilet (https://www.cgtrader.com/free-3d-models/interior/bathroom/low-poly-qualitas-bathrooms-toilet-for-game-use)
+- 1 trashcan (https://www.cgtrader.com/free-3d-models/interior/interior-office/trash-bin-374b549a-2c61-4972-a8d0-e93dbad2b2c0)
+- 1 toilet paper dispenser (https://www.cgtrader.com/free-3d-models/interior/bathroom/toilet-roll-holder-sample)
 
-Each disabled toilets need to contain:
-- 1 toilet
-- 1 metal bar on the wall
-- 1 bathroom sink
-- 1 trashcan
-- 1 mirror
+toilets:
+- 1 toilet (https://www.cgtrader.com/free-3d-models/interior/bathroom/low-poly-qualitas-bathrooms-toilet-for-game-use)
+- 1 metal bar on the wall 
+- 1 bathroom sink (https://www.cgtrader.com/free-3d-models/household/other/bathroom-sink-6b81b5bd-04ae-46b5-9102-b0cc77e1c102)
+- 1 trashcan  (https://www.cgtrader.com/free-3d-models/interior/interior-office/trash-bin-374b549a-2c61-4972-a8d0-e93dbad2b2c0)
+- 1 mirror (https://www.cgtrader.com/free-3d-models/interior/interior-office/trash-bin-374b549a-2c61-4972-a8d0-e93dbad2b2c0)
 
 ### k. Stock Rooms
 
-- Cardboards
-- 20 Shelves
-- 4 Chairs
-- 1 Trashcan
+- Cardboards  (https://www.cgtrader.com/free-3d-models/architectural/other/cardboard-boxes-pack-1-low-poly-pbr)
+- 20 Shelves(https://www.cgtrader.com/free-3d-models/interior/other/school-bag-shelves)
+- 4 Chairs (https://www.cgtrader.com/free-3d-models/interior/interior-office/ddlc-chair)
+- 1 Trashcan (https://www.cgtrader.com/free-3d-models/interior/interior-office/trash-bin-374b549a-2c61-4972-a8d0-e93dbad2b2c0)
 
 ### l. Secured Stock Room
 
@@ -364,8 +364,7 @@ Each disabled toilets need to contain:
 Permission cards can be used for a variety of purposes, including access to the school (during and outside of school hours), to enter classrooms and project rooms, to enter the meeting room... They can also be used to access the food and beverage dispensers and the library.
 
 ## B. Door locks
-
-The doors will be locked to avoid any theft or material problems. They will be open only with permission cards and at certain times depending on the room (e.g.: school door, meeting room door and project room doors)
+The doors will be locked to avoid any theft or material problems. They will be open only with permission cards and at certain times depending on the room (e.g.: school door, meeting room door and project room doors). To unlock doors, the person needs to have the good one permission following permissions cards.
 
 All rooms will be completely locked from 6.30pm (when the last person leaves) until 7.30am (when the first staff member arrives). 
 The main entrance door will be open from 7.30am to 6.30pm. Both turnstiles will be closed at the same times as entrance door, but, you will be able to open them if you have a student/staff card which you will scan to activate the turnstile. So these cards will work between 7.30am and 6.30pm. The door next to the front turnstile will be closed at all times but will be unlockable with a key (which will be in the office closest to the reception desk to allow someone from the staff to open it during the day).
