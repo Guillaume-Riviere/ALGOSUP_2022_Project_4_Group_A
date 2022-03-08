@@ -289,9 +289,9 @@ VR is simulated using a Headset that the user have to wear to visit the simulati
 ### j. Bathrooms
 
 Each rooms have to contain: 
-- 4 bathroom sink ()
+- 4 bathroom sink (https://www.cgtrader.com/free-3d-models/household/other/bathroom-sink-6b81b5bd-04ae-46b5-9102-b0cc77e1c102)
 - 1 hand dryer ()
-- 1 trashcan ()
+- 1 trashcan (https://www.cgtrader.com/free-3d-models/interior/interior-office/trash-bin-374b549a-2c61-4972-a8d0-e93dbad2b2c0)
 - 4 mirror ()
 
 Each toilets need to contain: 
