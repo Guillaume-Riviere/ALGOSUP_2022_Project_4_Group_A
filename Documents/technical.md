@@ -247,7 +247,7 @@ VR is simulated using a Headset that the user have to wear to visit the simulati
 
 ### f. Language Rooms
 
-- 15 tables
+- 15 tables 
 - 16 chairs
 - 1 whiteboard
 - 1 computer
@@ -313,17 +313,17 @@ Each disabled toilets need to contain:
 
 ### l. Secured Stock Room
 
-- 30 Shelves
-- 1 camera
-- Cardboards
+- 30 Shelves (https://www.cgtrader.com/free-3d-models/interior/other/school-bag-shelves)
+- 1 camera (https://www.cgtrader.com/free-3d-models/electronics/video/cctv-exterior-surveillance-camera)
+- Cardboards (https://www.cgtrader.com/free-3d-models/architectural/other/cardboard-boxes-pack-1-low-poly-pbr)
 
 ### m. Back Outside Deck
 
-- 6 circle tables for 6 people
-- 8 circle tables for 4 people
-- 68 chairs
-- 2 ashtrays
-- 2 trashcans
+- 6 rectangle tables for 6 people (https://www.cgtrader.com/free-3d-models/interior/interior-office/meeting-desk)
+- 8 circle tables for 4 people (https://www.cgtrader.com/free-3d-models/furniture/table/high-quality-3d-circle-table)
+- 68 chairs (https://www.cgtrader.com/free-3d-models/interior/interior-office/ddlc-chair)
+- 2 ashtrays (https://www.cgtrader.com/free-3d-models/interior/interior-office/used-ashtray)
+- 2 trashcans (https://www.cgtrader.com/free-3d-models/interior/interior-office/trash-bin-374b549a-2c61-4972-a8d0-e93dbad2b2c0)
 
 ### n. Front Outside Deck
 
