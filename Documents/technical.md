@@ -230,20 +230,20 @@ VR is simulated using a Headset that the user have to wear to visit the simulati
 
 ### d. Robotic Room
 
-- 2 workbenchs
-- 8 chairs
-- 10 plugs
-- 1 whiteboard
+- 2 workbenchs (https://www.cgtrader.com/free-3d-models/furniture/table/worn-d4118b93-fe82-4d9d-be5d-6c09288187bd)
+- 8 chairs (https://www.cgtrader.com/free-3d-models/furniture/chair/chair-4b4a68cb-33a7-4155-a411-0127a9d4e1cf)
+- 10 plugs (https://www.cgtrader.com/free-3d-models/electronics/other/power-plug-outlet-type-f)
+- 1 whiteboard (https://www.cgtrader.com/free-3d-models/architectural/other/white-board-3388752a-191c-41f9-91c3-491569581484)
 
 ### e. Office Rooms
 
-- 2 armchairs
-- 1 desk chair
-- 1 Angle desk
-- 1 trashcan
-- 1 computer
-- 2 screens for small office and 4 screens for big office
-- 3 plugs for small office and 5 plugs for big office
+- 2 armchairs (https://www.cgtrader.com/free-3d-models/furniture/sofa/sofa-01-36d8404f-a82d-4059-99e1-519eb96cfdce)
+- 1 desk chair (https://www.cgtrader.com/free-3d-models/furniture/chair/free-office-chair-low-poly-model)
+- 1 Angle desk ()
+- 1 trashcan (https://www.cgtrader.com/free-3d-models/interior/interior-office/trash-bin-374b549a-2c61-4972-a8d0-e93dbad2b2c0)
+- 1 computer (https://www.cgtrader.com/free-3d-models/electronics/computer/gigabyte-shassis)
+- 2 screens for small office and 4 screens for big office (https://www.cgtrader.com/3d-models/electronics/computer/monitor-7b3b301e-e05f-4526-8460-b65c02f0639f)
+- 3 plugs for small office and 5 plugs for big office (https://www.cgtrader.com/free-3d-models/electronics/other/power-plug-outlet-type-f)
 
 ### f. Language Rooms
 
