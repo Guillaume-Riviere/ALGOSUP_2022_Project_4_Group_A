@@ -362,7 +362,20 @@ Each disabled toilets need to contain:
 Permission cards can be used for a variety of purposes, including access to the school (during and outside of school hours), to enter classrooms and project rooms, to enter the meeting room... They can also be used to access the food and beverage dispensers and the library.
 
 ## B. Door locks
+
 The doors will be locked to avoid any theft or material problems. They will be open only with permission cards and at certain times depending on the room (e.g.: school door, meeting room door and project room doors)
+
+All rooms will be completely locked from 6.30pm (when the last person leaves) until 7.30am (when the first staff member arrives). 
+The main entrance door will be open from 7.30am to 6.30pm. Both turnstiles will be closed at the same times as entrance door, but, you will be able to open them if you have a student/staff card which you will scan to activate the turnstile. So these cards will work between 7.30am and 6.30pm. The door next to the front turnstile will be closed at all times but will be unlockable with a key (which will be in the office closest to the reception desk to allow someone from the staff to open it during the day).
+
+For the following rooms :
+- project rooms
+- office rooms
+- meeting rooms
+- english rooms
+- stock rooms
+- library
+They will be unlockable between 7.30am and 6.30 pm according to the roles described in the previous sub-section.
 
 ## C. Turnstile
 
