@@ -212,7 +212,24 @@ VR is simulated using a Headset that the user have to wear to visit the simulati
 ## A. Permission Card
 ## B. Door locks
 ## C. Turnstile
+
+1 front turnstile, 1 back/ openable with a card/ 1 doorbell between the front turnstile and the front interior door/ be able to use the turnstile/ make a song when doorbell pressed and somebody coming
+
 ## D. Ambient sounds
+
+beginning -> 9am : noises in corridors, resting room, outside deck and staff rooms
+
+9am -> 10.45am : noises in all working rooms
+
+10.45am -> 11am : noises in corridors, resting room, outside deck and staff rooms
+
+11am -> 0.30pm : noises in all working rooms
+
+0.30pm -> 1.30pm : noises in corridors, resting room, outside deck and staff rooms
+
+1.30pm -> 3.15pm : noises in all working rooms
+
+3.15pm -> 3.30pm : noises in corridors, resting room, outside deck and staff rooms
 
 # 6. Pathfinding
 ## A. Project room
