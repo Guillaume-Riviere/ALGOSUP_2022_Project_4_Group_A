@@ -247,34 +247,35 @@ VR is simulated using a Headset that the user have to wear to visit the simulati
 
 ### f. Language Rooms
 
-- 15 tables
-- 16 chairs
-- 1 whiteboard
-- 1 computer
-- 8 plugs
-- 1 trashcan
-- 1 TV or video projector
-- 1 desk
+- 15 tables (https://www.cgtrader.com/free-3d-models/interior/interior-office/walnut-raiseable-desk)
+- 16 chairs (https://www.cgtrader.com/free-3d-models/furniture/chair/chair-4b4a68cb-33a7-4155-a411-0127a9d4e1cf)
+- 1 whiteboard (https://www.cgtrader.com/free-3d-models/architectural/other/white-board-3388752a-191c-41f9-91c3-491569581484)
+- 1 computer (https://www.cgtrader.com/free-3d-models/electronics/computer/notebook-4892afbd-1e67-4525-8f5d-f1ca6e4f9cf9)
+- 8 plugs (https://www.cgtrader.com/free-3d-models/electronics/other/power-plug-outlet-type-f)
+- 1 trashcan (https://www.cgtrader.com/free-3d-models/interior/interior-office/trash-bin-374b549a-2c61-4972-a8d0-e93dbad2b2c0)
+- 1 TV or video projector (https://www.cgtrader.com/free-3d-models/interior/hall/sony-led-tv-f3edc673-2c3b-4767-a062-ed2179c04f20)
+- 1 desk (https://www.cgtrader.com/free-3d-models/interior/interior-office/wooden-desk-bd6cdf77-af9c-4575-a17a-ee6ffff58c03)
+
 
 ### g. Softskills Room
 
-- 20 tables
-- 21 chairs
-- 1 desk
-- 1 computer
-- 1 whiteboard
-- 10 plugs
-- 1 trashcan
-- 1 TV or video projector
+- 20 tables (https://www.cgtrader.com/free-3d-models/furniture/table/triangle-table-0b404112-25d8-4c26-807f-b7064c6227fb)
+- 21 chairs (https://www.cgtrader.com/free-3d-models/furniture/chair/chair-4b4a68cb-33a7-4155-a411-0127a9d4e1cf)
+- 1 desk (https://www.cgtrader.com/free-3d-models/interior/interior-office/wooden-desk-bd6cdf77-af9c-4575-a17a-ee6ffff58c03)
+- 1 computer (https://www.cgtrader.com/free-3d-models/electronics/computer/notebook-4892afbd-1e67-4525-8f5d-f1ca6e4f9cf9)
+- 1 whiteboard (https://www.cgtrader.com/free-3d-models/architectural/other/white-board-3388752a-191c-41f9-91c3-491569581484)
+- 10 plugs (https://www.cgtrader.com/free-3d-models/electronics/other/power-plug-outlet-type-f)
+- 1 trashcan (https://www.cgtrader.com/free-3d-models/interior/interior-office/trash-bin-374b549a-2c61-4972-a8d0-e93dbad2b2c0)
+- 1 TV or video projector (https://www.cgtrader.com/free-3d-models/interior/hall/sony-led-tv-f3edc673-2c3b-4767-a062-ed2179c04f20)
 
 ### h. Library Room
 
-- 16 shelves
-- 6 lazybags
-- 2 couchs
-- 4 tables
-- 4 chairs
-- 2 carpets
+- 16 shelves (https://www.cgtrader.com/free-3d-models/furniture/other/original-mid-century-modern-bookcases)
+- 6 lazybags ()
+- 2 couchs (https://www.cgtrader.com/free-3d-models/furniture/furniture-set/patio-set-fd7e2322-9376-418c-a4c8-db823f66179d)
+- 4 tables (https://www.cgtrader.com/free-3d-models/furniture/table/high-quality-3d-circle-table)
+- 4 chairs (https://www.cgtrader.com/free-3d-models/furniture/chair/eames-dsw)
+- 2 carpets ()
 
 ### i. Reception Room
 
@@ -313,17 +314,17 @@ Each disabled toilets need to contain:
 
 ### l. Secured Stock Room
 
-- 30 Shelves
-- 1 camera
-- Cardboards
+- 30 Shelves (https://www.cgtrader.com/free-3d-models/interior/other/school-bag-shelves)
+- 1 camera (https://www.cgtrader.com/free-3d-models/electronics/video/cctv-exterior-surveillance-camera)
+- Cardboards (https://www.cgtrader.com/free-3d-models/architectural/other/cardboard-boxes-pack-1-low-poly-pbr)
 
 ### m. Back Outside Deck
 
-- 6 circle tables for 6 people
-- 8 circle tables for 4 people
-- 68 chairs
-- 2 ashtrays
-- 2 trashcans
+- 6 rectangle tables for 6 people (https://www.cgtrader.com/free-3d-models/interior/interior-office/meeting-desk)
+- 8 circle tables for 4 people (https://www.cgtrader.com/free-3d-models/furniture/table/high-quality-3d-circle-table)
+- 68 chairs (https://www.cgtrader.com/free-3d-models/interior/interior-office/ddlc-chair)
+- 2 ashtrays (https://www.cgtrader.com/free-3d-models/interior/interior-office/used-ashtray)
+- 2 trashcans (https://www.cgtrader.com/free-3d-models/interior/interior-office/trash-bin-374b549a-2c61-4972-a8d0-e93dbad2b2c0)
 
 ### n. Front Outside Deck
 
