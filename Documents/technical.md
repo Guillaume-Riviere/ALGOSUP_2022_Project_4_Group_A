@@ -327,23 +327,20 @@ Each disabled toilets need to contain:
 
 ### n. Front Outside Deck
 
-- 1 letter box
-- 1 doorbell
-- 1 bike stand
-- 1 scooter stand
-- 1 ashtray
-- 1 trashcan
+- 1 letter box (https://3dmdb.com/en/3d-model/boites-aux-lettres/7382250/)
+- 1 doorbell (https://www.cgtrader.com/free-3d-models/architectural/decoration/doorbell-and-nametag)
+- 1 scooter stand and bike stand (https://www.cgtrader.com/free-3d-models/exterior/street-exterior/old-rusted-metal-fence)
+- 1 ashtray (https://www.cgtrader.com/free-3d-models/interior/interior-office/used-ashtray)
+- 1 trashcan (https://www.cgtrader.com/free-3d-models/interior/interior-office/trash-bin-374b549a-2c61-4972-a8d0-e93dbad2b2c0)
 
 ### o. Amphitheater
 
-- 1 computer
-- 1 video projector
-- 1 screen
-- 1 chair
-- 1 reader desk
+- 1 computer (https://www.cgtrader.com/free-3d-models/electronics/computer/notebook-4892afbd-1e67-4525-8f5d-f1ca6e4f9cf9)
+- 1 video projector (https://www.cgtrader.com/free-3d-models/electronics/video/beamer-low-poly)
+- 1 chair (https://www.cgtrader.com/free-3d-models/furniture/chair/chair-4b4a68cb-33a7-4155-a411-0127a9d4e1cf)
+- 1 reader desk 
 - 1 platform
-- 1 plug for the computer
-- 1 plug for the video projector 
+- 1 plug (https://www.cgtrader.com/free-3d-models/electronics/other/power-plug-outlet-type-f)
 - 1 trash can (https://www.cgtrader.com/free-3d-models/interior/interior-office/trash-bin-374b549a-2c61-4972-a8d0-e93dbad2b2c0)
 
 ### p. Reprography
