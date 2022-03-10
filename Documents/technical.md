@@ -280,7 +280,7 @@ Each rooms have to contain:
 - 4 bathroom sink (https://www.cgtrader.com/free-3d-models/household/other/bathroom-sink-6b81b5bd-04ae-46b5-9102-b0cc77e1c102)
 - 1 hand dryer ()
 - 1 trashcan (https://www.cgtrader.com/free-3d-models/interior/interior-office/trash-bin-374b549a-2c61-4972-a8d0-e93dbad2b2c0)
-- 4 mirror ()
+- 4 mirrors ()
 
 Each toilets need to contain: 
 - 1 toilet (https://www.cgtrader.com/free-3d-models/interior/bathroom/low-poly-qualitas-bathrooms-toilet-for-game-use)
@@ -349,10 +349,13 @@ toilets:
 ### b. Flight Zone
 
 - 1 drone (https://www.cgtrader.com/free-3d-models/aircraft/helicopter/minimalistic-dron-e)
-(have to careful about the drone altitude during flight
-if altitude >= 5m
-altitude -= 0.5
-return altitude)
+(have to careful about the drone altitude during flight)
+  {
+    if altitude >= 5:
+      altitude -= 0.5
+    return altitude
+  }
+
 
 ### c. Stands Zone
 
@@ -360,7 +363,8 @@ return altitude)
 
 ### d. Robotic Parkour
 
-need to design a circuit for robots / need to add robots 
+- a circuit for robots
+- robots 
 
 ### e. Greener
 
