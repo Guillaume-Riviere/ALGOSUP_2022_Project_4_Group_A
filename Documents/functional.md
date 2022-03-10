@@ -22,6 +22,7 @@ Table of Contents
     - [n. Front Outside Deck](#n-front-outside-deck)
     - [o. Amphitheater](#o-amphitheater)
     - [p. Reprography](#p-reprography)
+    - [q. Language Laboratories](#q-language-laboratories)
   - [B. Halls](#b-halls)
     - [a. Drone Zone](#a-drone-zone)
       - [1. Flight Zone](#1-flight-zone)
@@ -359,6 +360,20 @@ The reprography room have to contain :
 - 1 trashcan 
 - 1 desk
 
+### q. Language Laboratories
+
+Language laboratories are 25.20m² and are designed to fit 8 peoples. There will be 2 in total.
+
+Language laboratories have to contain:
+- 8 tables
+- 9 chairs
+- 1 whiteboard
+- 1 computer
+- 6 plugs
+- 1 trashcan
+- 1 TV or video projector
+- 1 desk
+
 ## B. Halls
 ### a. Drone Zone
 #### 1. Flight Zone
@@ -607,7 +622,7 @@ Timéo CAPUERA have a beautiful wife that cooks really well. He is 35 years old 
 ## c. Professors
 
 ### a. Hugo PATON
-<img src="./images/Hugopaton.jpg" style="width:100px; height:100px">
+<img src="./images/HugoPaton.jpg" style="width:100px; height:100px">
 Hugo PATON is a C# Teacher from Canada. He comes by train to the train station and by walk to the school every morning. So he just brings a little bowl of food and he cooks it in the resting room at lunch time. During the break he goes to the front door with the other professors and he smokes his cigarette before coming back in the amphitheater.
 
 ### b. Lolita FOURASSE
