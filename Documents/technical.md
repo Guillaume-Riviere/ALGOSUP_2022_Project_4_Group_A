@@ -342,15 +342,31 @@ toilets:
 
 ## B. Halls
 ### a. Drone Zone
-need to create a door to enter in the drone zone / need to change the textures of the grill
+
+- a door to enter in the drone zone (https://www.cgtrader.com/free-3d-models/furniture/outdoor-furniture/5-doors-collection) 
+- need to change the textures of the grill 
+
 ### b. Flight Zone
-need to add a drone to try the flight / need to be careful about the high of the drone going during flight
+
+- 1 drone (https://www.cgtrader.com/free-3d-models/aircraft/helicopter/minimalistic-dron-e)
+(have to careful about the drone altitude during flight
+if altitude >= 5m
+altitude -= 0.5
+return altitude)
+
 ### c. Stands Zone
-need to install a podium for people who driving/watching drones 
+
+- a podium for people who looking/driving drones 
+
 ### d. Robotic Parkour
+
 need to design a circuit for robots / need to add robots 
+
 ### e. Greener
-need to add plants where it's possible to have a frendlier place
+
+- plants (https://www.cgtrader.com/free-3d-models/interior/living-room/vase-pack-1-1075f72b-beb5-476c-8dcd-5e375b04ce0c)
+         (https://www.cgtrader.com/free-3d-models/plant/pot-plant/aloe-vera-plant-dcc07e32-ba23-4674-af4c-a52d6f608b91)
+         (https://www.cgtrader.com/free-3d-models/plant/pot-plant/low-poly-uv-mapped-plant)
 
 # 5. Working Systems
 ## A. Permission Card
