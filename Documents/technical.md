@@ -414,6 +414,20 @@ For the following rooms :
 - library
 They will be unlockable between 7.30am and 6.30 pm according to the roles described in the previous sub-section.
 
+```
+openingDoor(time, doorOpeningTime){
+  if (time>=doorOpeningTime){
+    door.unlock
+  }
+}
+
+closingDoor(time, doorClosingTime){
+  if (time<=doorOpeningTime){
+    door.lock
+  }
+}  
+```
+
 ## C. Turnstile
 
 One turnstile is needed at the front and one at the back. The one at the front will be used for people arriving on foot, bicycle or scooter. It will be placed between the main entrance door and the "reception". The second one will be located in place of the current door behind the drone workshop and will be used by people who park their cars in the back car park. 
