@@ -327,7 +327,7 @@ toilets:
 
 - 1 computer (https://www.cgtrader.com/free-3d-models/electronics/computer/notebook-4892afbd-1e67-4525-8f5d-f1ca6e4f9cf9)
 - 1 video projector (https://www.cgtrader.com/free-3d-models/electronics/video/beamer-low-poly)
-- 1 chair (https://www.cgtrader.com/free-3d-models/furniture/chair/chair-4b4a68cb-33a7-4155-a411-0127a9d4e1cf)
+- 1 chair (https://www.cgtrader.com/free-3d-models/interior/interior-office/ddlc-chair)
 - 1 reader desk 
 - 1 platform
 - 1 plug (https://www.cgtrader.com/free-3d-models/electronics/other/power-plug-outlet-type-f)
