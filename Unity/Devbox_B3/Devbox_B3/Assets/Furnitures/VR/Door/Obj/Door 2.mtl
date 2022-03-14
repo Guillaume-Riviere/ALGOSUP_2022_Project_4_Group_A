@@ -1,0 +1,36 @@
+# Blender MTL File: 'Doors.blend'
+# Material Count: 3
+
+newmtl Door's_glass
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Door_2_Material
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\D'yMZ Studio\\Blender Projects\\Project\\Doors\\Materials\\Door 2 Material\\Door 2 Normal 4K.png
+map_Kd D:\\D'yMZ Studio\\Blender Projects\\Project\\Doors\\Materials\\Door 2 Material\\Door 2 Color 4K.png
+map_Ns D:\\D'yMZ Studio\\Blender Projects\\Project\\Doors\\Materials\\Door 2 Material\\Door 2 Roughness 4K.png
+
+newmtl Door_knob_Normal
+Ns 174.960741
+Ka 0.495455 0.495455 0.495455
+Kd 0.027265 0.027265 0.027265
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump D:\\D'yMZ Studio\\Blender Projects\\Project\\Doors\\Materials\\Door knob normal.png
