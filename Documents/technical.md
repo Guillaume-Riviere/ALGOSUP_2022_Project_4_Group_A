@@ -547,16 +547,16 @@ MoveTo(person, destination){
 
 # 7. Pre-made scenario
 
-Student Kimberley GONZALES
+### a. Student Kimberley GONZALES
 
 Kimberley GONZALES starts her day at 7AM. She starts her day with makeup and breakfast and leave her appartment at 8:40AM. Cindy PÏAIS, her friend, pick her in front of where she lives because she can't walk because she has a broken leg and she has crutch. They arrive at school at 8:50AM, smoke a cigaret in front of the school before entering in school. At 9AM, Kimberley comes to english room and follow english class. During the first break, she comes to outside deck and smoke a cigaret with friends. After smoking, she goes to toilets and come back to english room at 11AM. At lunch time, she cooks her food in the school's kitchen. After eating she goes smoke. At 13:30PM, she goes to a project room to work on project. At 15:15, during the break, she goes smoke at outside deck and go to toilets right after. At 15:30PM, she comes back to her project room. At 17AM, Cindy picks her and they come back at there home.
 
-Staff Timéo CAPUERA
+### b. Staff Timéo CAPUERA
 
 Upon arrival at the school, he enters his office with his personal access card and drops off his belongings. From 8:40, Timéo stands at the entrance of the school until 9:00 and establishes the list of absent students. 5 minutes after the beginning of classes, he receives a message from a student warning him that he will not be at school that day due to illness. Following this, Timéo goes to inform the staff member who deals with the absences and delays of the students. It is 9:30 and Timéo returns to his office and will work on the search for teachers and the life of the students at school until the 10:45 break. At break time, Timéo leaves his office to go to the vending machine and get a coffee, at the end of it, he goes to the bathroom and returns to his office with his card. At lunch time, he goes to the kitchen to take and reheat the dish that his wife prepared for him the day before, then he joins his colleagues of the staff and teachers to eat their meals. When he and his colleagues finish eating, they go for a coffee, and then return to their duties during the remaining break time. At 1:30 p.m., he returns to work and works until the end of the day without taking an afternoon break. In the evening, while the students are leaving the school, he stays in his office and works until 6:30 p.m. and then goes home.
 
-Lolita FOURASSE Proffesor
+### c. Lolita FOURASSE Proffesor
 
-Kevin Lauto People of other schools
+### d. Kevin Lauto People of other schools
 
 Kevin LAUTO is a student on CNAM, he arrives at school at 7:55AM. He smoke a cigarette at the front door before entering for 8AM. When he'll arrive at 8AM, he put his card on a scanner to open the door and enter in the B3. Since he's on CNAM he goes upstairs where he will spend most of his time. At 10 AM, he goes down for 15 minutes in order to smoke, he goes as always in front of the building. To reenter he'll reneed to scan his card. During the lunch time, he eat and after he go smoke in front of the B3, when he finish, to come back, he scan his card to open the door. At 3PM, for his break, he go smoke outside again and scan his card when he finished to open the door and enter in the B3. He'll leave the school at 5PM.
