@@ -549,6 +549,8 @@ MoveTo(person, destination){
 
 Student Kimberley GONZALES
 
+Kimberley GONZALES starts her day at 7AM. She starts her day with makeup and breakfast and leave her appartment at 8:40AM. Cindy PÏAIS, her friend, pick her in front of where she lives because she can't walk because she has a broken leg and she has crutch. They arrive at school at 8:50AM, smoke a cigaret in front of the school before entering in school. At 9AM, Kimberley comes to english room and follow english class. During the first break, she comes to outside deck and smoke a cigaret with friends. After smoking, she goes to toilets and come back to english room at 11AM. At lunch time, she cooks her food in the school's kitchen. After eating she goes smoke. At 13:30PM, she goes to a project room to work on project. At 15:15, during the break, she goes smoke at outside deck and go to toilets right after. At 15:30PM, she comes back to her project room. At 17AM, Cindy picks her and they come back at there home.
+
 Staff Timéo CAPUERA
 
 Lolita FOURASSE Proffesor
