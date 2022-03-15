@@ -553,6 +553,8 @@ Kimberley GONZALES starts her day at 7AM. She starts her day with makeup and bre
 
 Staff Timéo CAPUERA
 
+Upon arrival at the school, he enters his office with his personal access card and drops off his belongings. From 8:40, Timéo stands at the entrance of the school until 9:00 and establishes the list of absent students. 5 minutes after the beginning of classes, he receives a message from a student warning him that he will not be at school that day due to illness. Following this, Timéo goes to inform the staff member who deals with the absences and delays of the students. It is 9:30 and Timéo returns to his office and will work on the search for teachers and the life of the students at school until the 10:45 break. At break time, Timéo leaves his office to go to the vending machine and get a coffee, at the end of it, he goes to the bathroom and returns to his office with his card. At lunch time, he goes to the kitchen to take and reheat the dish that his wife prepared for him the day before, then he joins his colleagues of the staff and teachers to eat their meals. When he and his colleagues finish eating, they go for a coffee, and then return to their duties during the remaining break time. At 1:30 p.m., he returns to work and works until the end of the day without taking an afternoon break. In the evening, while the students are leaving the school, he stays in his office and works until 6:30 p.m. and then goes home.
+
 Lolita FOURASSE Proffesor
 
 Kevin Lauto People of other schools
