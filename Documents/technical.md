@@ -555,7 +555,7 @@ Lolita FOURASSE Proffesor
 
 Kevin Lauto People of other schools
 
-Kevin LAUTO is a student on CNAM, he arrives at school at 7:55.He smoke a cigarette at the front door before entering for 8AM.When He'll arrive , The student needs to scan his card to open the enter in the B3. Since he's on CNAM he goes upstairs where he will spend most of his time. At 10 AM, he goes down for 15 minutes in order to smoke, he goes as always in front of the building. TO reenter He'll reneed to scan his card.Same for during the lunch time , He'll smoke and come back , To finish , he'll leave at 5PM
+Kevin LAUTO is a student on CNAM, he arrives at school at 7:55AM. He smoke a cigarette at the front door before entering for 8AM. When he'll arrive at 8AM, he put his card on a scanner to open the door and enter in the B3. Since he's on CNAM he goes upstairs where he will spend most of his time. At 10 AM, he goes down for 15 minutes in order to smoke, he goes as always in front of the building. To reenter he'll reneed to scan his card. During the lunch time, he eat and after he go smoke in front of the B3, when he finish, to come back, he scan his card to open the door. At 3PM, for his break, he go smoke outside again and scan his card when he finished to open the door and enter in the B3. He'll leave the school at 5PM
 
 
 **TBD**
