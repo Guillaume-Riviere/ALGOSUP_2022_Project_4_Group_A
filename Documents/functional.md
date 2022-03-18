@@ -310,7 +310,9 @@ Secured Stock Room is 29,98m² and is designed to fit 3 people.
 
 Secured Stock Room have to contain:
 - 30 Shelves
+- 2 chairs
 - 1 camera
+- 1 Trashcan
 - Cardboards
 
 ### m. Back Outside Deck
