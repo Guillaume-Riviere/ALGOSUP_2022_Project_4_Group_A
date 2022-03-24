@@ -197,7 +197,7 @@ VR is simulated using a Headset that the user have to wear to visit the simulati
 - 3 circle tables (https://www.cgtrader.com/free-3d-models/interior/house-interior/table-94e1797b-d496-4a67-9f1b-e4e2ad738c45)
 - 9 chairs (https://www.cgtrader.com/free-3d-models/furniture/chair/eames-dsw)
 - 1 sink (https://www.cgtrader.com/free-3d-models/household/other/pia-semi-encaixe-bathroom-sink--2)
-- 1 fridge (https://www.cgtrader.com/free-3d-models/interior/kitchen/supermarket-glass-door-refrigerator)
+- 1 fridge (https://www.cgtrader.com/free-3d-models/furniture/appliance/samsung-fridge-b31da446-37e5-4894-a253-906ab1b9168f)
 - 1 trashcan (https://www.cgtrader.com/free-3d-models/interior/interior-office/trash-bin-374b549a-2c61-4972-a8d0-e93dbad2b2c0)
 - 2 microwave (https://www.cgtrader.com/free-3d-models/interior/kitchen/microwave-rigged-and-animated)
 - 2 plugs for microwaves (https://www.cgtrader.com/free-3d-models/electronics/other/power-plug-outlet-type-f)
@@ -327,7 +327,7 @@ toilets:
 
 - 1 computer (https://www.cgtrader.com/free-3d-models/electronics/computer/notebook-4892afbd-1e67-4525-8f5d-f1ca6e4f9cf9)
 - 1 video projector (https://www.cgtrader.com/free-3d-models/electronics/video/beamer-low-poly)
-- 1 chair (https://www.cgtrader.com/free-3d-models/furniture/chair/chair-4b4a68cb-33a7-4155-a411-0127a9d4e1cf)
+- 1 chair (https://www.cgtrader.com/free-3d-models/interior/interior-office/ddlc-chair)
 - 1 reader desk 
 - 1 platform
 - 1 plug (https://www.cgtrader.com/free-3d-models/electronics/other/power-plug-outlet-type-f)
