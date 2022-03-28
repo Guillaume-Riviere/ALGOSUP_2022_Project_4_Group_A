@@ -1,0 +1,38 @@
+IMPORTANT
+
+The textures aren't currently working for the .fbx and .obj files. Follow the guide below. You should have to work for and earn free stuff too, right?
+
+1. At the top of the screen, you should see layout, modeling, sculpting, etc. click "Shading".
+
+2. select the Backrest object.
+
+3. Click tab on your keyboard
+
+4. In the bottom left, there'll be a box. Click the paint bucket at the tp of it. Select "UV editor".
+
+5. On the edge of the box, you can drag it. Drag it to the right until you see "Open" at the top of it. Click it.
+
+6. Open desk.tex file or drag it from file explorer if you can't.
+
+7. At the bottom middle, there'll be a rectangle with boxes attached with strings. Press Shift + A > Texture > Image texture. Place the box/node next to the larger box.
+
+8. On the box you juat placed there'll be another "Open" icon. Open the tex file again or drag it.
+
+9. Attach click and drag that small "Color" icon on the placed down node/box to "Base Color" on the bigger node/box.
+
+10. Go into Viewport shading in the top right. It's the 3rd ball across. You should now have texture!
+
+--Intro--
+
+Hello...
+
+This is my second DDLC model. My first was the desk to go with this and I'll be making many more so if you want to see those, go to my profile or keep a favorite tab of this model so you can easily come back to see if I've made more? Whatever. I guess once I've finished all models I'll make a huge DDLC map. That'd be cool. Next, I'm going to be modeling a computer found in the classroom then the chair for it, then the desk for it, then the lectern, then the chalkboard,then the intercom, then the walls, then the floor, then the ceiling, then the door, then the closet, then the windows, then the curtains, then the noticeboards with posters, then the locker, then the entire rest of the school I guess.
+
+TL;DR - More to come...
+
+--
+I don't care how you use this.
+--
+Sometimes people need specific things at specific times!
+--
+This model is scaled releative to the desk, meaning that I've estimated the dimensions according to my reference pictures and the size of the desk. Also, the desk is scaled realistically with real desk dimensions so if the chair's a little small, that's why. Just so you know.
