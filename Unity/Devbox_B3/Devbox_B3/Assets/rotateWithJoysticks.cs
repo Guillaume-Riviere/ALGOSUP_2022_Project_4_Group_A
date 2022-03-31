@@ -4,16 +4,13 @@ using UnityEngine;
 
 public class rotateWithJoysticks : MonoBehaviour
 {
-    public Camera turnCamera;
+    float speed = 3.0f;
 
     void Update()
     {
-        //this will make the camera look "inwards" towards Pivot
-        turnCamera.transform.LookAt(transform);
+        float xRot = speed * Input.GetAxis("Vertical");
+        float yRot = speed * Input.GetAxis("Horizontal");
+        transform.Rotate(xRot, yRot, 0.0f);
 
-        float speed = 10.0f;
-        transform.Rotate(Vector3.up, Input.GetAxis("horizontal") * speed);
-        transform.Rotate(Vector3.left, Input.GetAxis("vertical") * speed);
     }
 }
-
