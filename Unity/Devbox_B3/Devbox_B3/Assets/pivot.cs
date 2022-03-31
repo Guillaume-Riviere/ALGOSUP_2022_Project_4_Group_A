@@ -1,15 +1,25 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using OVR;
 
 public class pivot : MonoBehaviour
 {
+    public float speed;
+    public Rigidbody player;
+    // Start is called before the first frame update
+    void Start()
+    {
+
+    }
+
     // Update is called once per frame
     void Update()
     {
-        float speed = 3.0f;
-        float xRot = speed * Input.GetAxis("Vertical");
-        float yRot = speed * Input.GetAxis("Horizontal");
-        transform.Rotate(xRot, yRot, 0.0f);
+        var joystickAxis = OVRInput.Get(OVRInput.RawAxis2D.RThumbstick, OVRInput.Controller.RTouch);
+    
+        player.transform.Rotate(new Vector3(player.transform.rotation.x , player.transform.rotation.y * (-joystickAxis.x), player.transform.rotation.z));
+
+        // player.position = new Vector3(player.position.x, fixedY, player.position.z);
     }
 }
