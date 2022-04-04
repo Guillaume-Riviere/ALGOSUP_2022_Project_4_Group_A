@@ -7,6 +7,7 @@ public class Pathfinder : MonoBehaviour
     // Start is called before the first frame update
     public GameObject destination;
     UnityEngine.AI.NavMeshAgent npc;
+
     void Start()
     {
         npc = GetComponent<UnityEngine.AI.NavMeshAgent>();
