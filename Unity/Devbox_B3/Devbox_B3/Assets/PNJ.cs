@@ -48,7 +48,7 @@ public class PNJ : MonoBehaviour
 
 
         random = Random.Range(0, count);
-        destination_transform = ProjectRooms.transform.GetChild(random);
+        destination_transform = ProjectRooms.transform.GetChild(0);
 
 
         destination = destination_transform.gameObject;
@@ -61,18 +61,23 @@ public class PNJ : MonoBehaviour
         var script = pnj.AddComponent<Pathfinder>();
         script.destination = destination;
 
+        
+
+        yield return new WaitForSeconds(30);
+
+        for ( int j = 0; j < PnjShelf.transform.childCount; j++)
+        {
+            var testscript = pnj.GetComponent<Pathfinder>();
+            testscript.destination = amphi;
+        }
+        
 
 
-        yield return new WaitForSeconds(120);
 
-        destination.transform.SetParent(amphi.transform);
-        destination.transform.SetPositionAndRotation(new Vector3(0, 0, 0), Quaternion.identity);
+        // yield return new WaitForSeconds(120);
 
-
-        yield return new WaitForSeconds(120);
-
-        destination.transform.SetParent(leave.transform);
-        destination.transform.SetPositionAndRotation(new Vector3(0, 0, 0), Quaternion.identity);
+        // destination.transform.SetParent(leave.transform);
+        // destination.transform.SetPositionAndRotation(new Vector3(0, 0, 0), Quaternion.identity);
 
     }
 }
