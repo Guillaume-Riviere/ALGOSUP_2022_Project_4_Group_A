@@ -29,8 +29,9 @@ public class PNJ : MonoBehaviour
     public GameObject Library;
     public GameObject Leave;
 
-    private float PnjSpeed = 4;
-    private int Waiter = 30;
+    [Header("User Values")]
+    public float PnjSpeed;
+    public int Waiter;
 
     // Start is called before the first frame update
     void Start()
