@@ -14,12 +14,18 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Oculus/Interaction/Samples/Scenes/BasicGrab.unity
     guid: 13bd76582a631124699f410c1e007f8c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Doors.unity
     guid: 5cfd5433052f1c444939e0e573cc8781
   - enabled: 0
     path: Assets/Scenes/CameraTurn.unity
     guid: 05dcb462e643814478a1e0d69e2373a0
+  - enabled: 0
+    path: Assets/Scenes/PNJ.unity
+    guid: f4dea08a8b6114f4aa59b09c94ecce03
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 8ccd13b8abe9a41e9b2b4e8d8523bc3a
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 39cd0a0d0fa5a6d479b716e8743a5af2, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 9349c35dd5cb8b54c84fa44b87a9f3d1, type: 2}
