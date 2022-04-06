@@ -23,7 +23,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/PNJ.unity
     guid: f4dea08a8b6114f4aa59b09c94ecce03
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Menu.unity
     guid: 8ccd13b8abe9a41e9b2b4e8d8523bc3a
   m_configObjects:
