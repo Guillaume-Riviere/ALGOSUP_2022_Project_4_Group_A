@@ -38,7 +38,7 @@ public class PNJ : MonoBehaviour
     {
 
 
-        int counter = 20;
+        int counter = 5;
         for (int i = 1; i <= counter; i++)
         {
             StartCoroutine(Personae_A(i, 0));
